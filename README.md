@@ -36,11 +36,3 @@ The included selection.json identifies automatically discovered, previously vali
 ## Files
 
 `index.html`, `style.css`, `main.js`: responsive D3 website. `data/temperature.csv` and JSON: 1,152 seasonal records. `data/metadata.json`, provenance.md, selection.json and discovery reports: exact sources and methods. `scripts/`: processing, six figures, generated presentation/docs, scientific and browser tests. `checkpoint/figures/`: six 2560 × 1440 seasonal PNGs. `checkpoint/`: narration, storyboard, findings, slides.html, progress, verification and test/screenshot artifacts. `writeup.md` and linked writeup.html: blank files reserved for the team’s own write-up. `archive/annual_comparison/`: preserved earlier annual project, excluded from the current app and deck. Annual and seasonal NetCDF caches and the large catalog are ignored by Git.
-
-## Checkpoint and final submission
-
-Members: Sadhana Tadepalli · Saahithi Myneedu · Audrey Miller. Confirm all three members are included in the team registration and Gradescope submission. Enter actual contributions and people-hours in the write-up, review the data interpretation, and rewrite the draft development narrative in your own account.
-
-Use checkpoint/checkpoint_script_updated.md and checkpoint/checkpoint_storyboard.md to record one MP4 with voiceover, at most two minutes long. Show team identity, dataset/aspects, all six figures, title/question and current interactive progress. Verify the actual exported duration and audio. Submit one video per team with all actual members attached on Gradescope by November 5, 2026, 11:59 PM. No video has been recorded by this build.
-
-No push or deployment has occurred. After explicit approval, use a public GitHub repository, commit source and compact data, push to the default branch, and enable Settings → Pages → Deploy from a branch → default branch / root. All runtime paths are relative and .nojekyll is included. Verify the public URL and submit it on Gradescope by November 11, 2026, 11:59 PM. The site links the required write-up. Official assignment: https://dsc106.com/projects/project3/ .
