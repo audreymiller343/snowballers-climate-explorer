@@ -4,9 +4,9 @@ A static D3 explorer of real CMIP6 winter/summer warming across North America an
 
 ## Preview
 
-Run `python3 -m http.server 8000` in this directory. Open http://127.0.0.1:8000/ for the explorer or http://127.0.0.1:8000/checkpoint/slides.html for the checkpoint deck. Keep the server running; Ctrl+C stops it. Use HTTP, not HTTPS. The included processed data require no cloud access to view. Direct file:// opening will block JSON in many browsers.
+Run `python3 -m http.server 8000` in this directory. Open http://127.0.0.1:8000/ for the explorer. Keep the server running; Ctrl+C stops it. Use HTTP, not HTTPS. The included processed data require no cloud access to view. Direct file:// opening will block JSON in many browsers.
 
-The bare-bones checkpoint prototype is at http://127.0.0.1:8000/checkpoint/prototype.html . It uses the same real data and chart logic with a preliminary interface. Slide 9 embeds this draft. The main index.html retains the polished explorer.
+The bare-bones checkpoint prototype is at http://127.0.0.1:8000/checkpoint/prototype.html . It uses the same real data and chart logic with a preliminary interface. The main index.html is the finished explorer.
 
 ## Current scientific scope
 
@@ -14,7 +14,7 @@ Model: CanESM5-CanOE; member r1i1p2f1; grid gn. Monthly tas. Historical 1995–2
 
 North America sector: 25–70°N, 170–50°W. Europe sector: 35–70°N, 10°W–40°E. Arctic: 66.5–90°N, all longitudes. These include land and ocean; the sectors are not continent masks. Regions overlap. “Disappearing” is a narrative hook, not a measurement of winter duration or snow.
 
-The primary chart shows seasonal anomalies or their difference in °C. Rate cards separately calculate OLS trends in °C/decade over matching selected future years (minimum 20 years). The default rate window is 2015–2100. This interval can change the answer; there is no ensemble uncertainty or significance test. Europe provides a counterexample to a universal faster-winter claim.
+The chart shows winter and summer anomalies in °C for one emissions scenario at a time (moderate SSP2-4.5 or high SSP5-8.5), with shading between the lines marking which season has warmed more. A sentence above the chart compares OLS trends in °C/decade over the selected future years (minimum 20 years). Three suggested views (Arctic, Europe sector, North America sector) set the region, scenario and year range in one click. The default window is 2015–2100. This interval can change the answer; there is no ensemble uncertainty or significance test. Europe provides a counterexample to a universal faster-winter claim.
 
 ## Reproduction
 
@@ -35,4 +35,4 @@ The included selection.json identifies automatically discovered, previously vali
 
 ## Files
 
-`index.html`, `style.css`, `main.js`: responsive D3 website. `data/temperature.csv` and JSON: 1,152 seasonal records. `data/metadata.json`, provenance.md, selection.json and discovery reports: exact sources and methods. `scripts/`: processing, six figures, generated presentation/docs, scientific and browser tests. `checkpoint/figures/`: six 2560 × 1440 seasonal PNGs. `checkpoint/`: narration, storyboard, findings, slides.html, progress, verification and test/screenshot artifacts. `writeup.md` and linked writeup.html: blank files reserved for the team’s own write-up. `archive/annual_comparison/`: preserved earlier annual project, excluded from the current app and deck. Annual and seasonal NetCDF caches and the large catalog are ignored by Git.
+`index.html`, `style.css`, `main.js`: responsive D3 website. `data/temperature.csv` and JSON: 1,152 seasonal records. `data/metadata.json`, provenance.md, selection.json and discovery reports: exact sources and methods. `scripts/`: processing, six figures, generated presentation/docs, scientific and browser tests. `checkpoint/figures/`: 2560 × 1440 exploratory PNGs. `checkpoint/`: the checkpoint prototype, progress notes, figure log and test reports. `writeup.md` and linked writeup.html: blank files reserved for the team’s own write-up. `archive/annual_comparison/`: preserved earlier annual project, excluded from the current app and deck. Annual and seasonal NetCDF caches and the large catalog are ignored by Git.
