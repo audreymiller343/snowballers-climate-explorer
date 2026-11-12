@@ -1,0 +1,1153 @@
+region,scenario,season,year,anomaly
+North America sector,historical,DJF,1995,-0.425074
+North America sector,historical,DJF,1996,0.24433
+North America sector,historical,DJF,1997,0.148113
+North America sector,historical,DJF,1998,-1.034247
+North America sector,historical,DJF,1999,-0.202931
+North America sector,historical,DJF,2000,-1.094191
+North America sector,historical,DJF,2001,-0.681716
+North America sector,historical,DJF,2002,0.217534
+North America sector,historical,DJF,2003,0.399343
+North America sector,historical,DJF,2004,0.324651
+North America sector,historical,DJF,2005,0.446333
+North America sector,historical,DJF,2006,-0.747795
+North America sector,historical,DJF,2007,-0.331725
+North America sector,historical,DJF,2008,0.82073
+North America sector,historical,DJF,2009,-0.027004
+North America sector,historical,DJF,2010,0.618478
+North America sector,historical,DJF,2011,0.480851
+North America sector,historical,DJF,2012,-0.302272
+North America sector,historical,DJF,2013,0.947083
+North America sector,historical,DJF,2014,0.199508
+Europe sector,historical,DJF,1995,-0.238688
+Europe sector,historical,DJF,1996,-0.428671
+Europe sector,historical,DJF,1997,0.620649
+Europe sector,historical,DJF,1998,-1.582186
+Europe sector,historical,DJF,1999,0.607685
+Europe sector,historical,DJF,2000,-1.473766
+Europe sector,historical,DJF,2001,1.337689
+Europe sector,historical,DJF,2002,-1.278186
+Europe sector,historical,DJF,2003,-0.985353
+Europe sector,historical,DJF,2004,-0.459606
+Europe sector,historical,DJF,2005,-1.148109
+Europe sector,historical,DJF,2006,-0.130331
+Europe sector,historical,DJF,2007,0.026963
+Europe sector,historical,DJF,2008,0.233594
+Europe sector,historical,DJF,2009,0.839136
+Europe sector,historical,DJF,2010,0.948141
+Europe sector,historical,DJF,2011,-0.426462
+Europe sector,historical,DJF,2012,1.542395
+Europe sector,historical,DJF,2013,0.926539
+Europe sector,historical,DJF,2014,1.068569
+Arctic,historical,DJF,1995,-0.695988
+Arctic,historical,DJF,1996,-1.237539
+Arctic,historical,DJF,1997,0.457837
+Arctic,historical,DJF,1998,-3.381215
+Arctic,historical,DJF,1999,-2.12095
+Arctic,historical,DJF,2000,-0.875062
+Arctic,historical,DJF,2001,0.56237
+Arctic,historical,DJF,2002,0.794194
+Arctic,historical,DJF,2003,-0.316367
+Arctic,historical,DJF,2004,0.042632
+Arctic,historical,DJF,2005,0.096792
+Arctic,historical,DJF,2006,-0.4972
+Arctic,historical,DJF,2007,1.015468
+Arctic,historical,DJF,2008,-1.524131
+Arctic,historical,DJF,2009,0.299461
+Arctic,historical,DJF,2010,0.165531
+Arctic,historical,DJF,2011,0.150877
+Arctic,historical,DJF,2012,1.759363
+Arctic,historical,DJF,2013,3.136268
+Arctic,historical,DJF,2014,2.16766
+North America sector,historical,JJA,1995,-0.789773
+North America sector,historical,JJA,1996,-0.547826
+North America sector,historical,JJA,1997,-0.422372
+North America sector,historical,JJA,1998,-0.429416
+North America sector,historical,JJA,1999,-0.073177
+North America sector,historical,JJA,2000,-0.239443
+North America sector,historical,JJA,2001,-0.129518
+North America sector,historical,JJA,2002,0.111313
+North America sector,historical,JJA,2003,0.173661
+North America sector,historical,JJA,2004,-0.131486
+North America sector,historical,JJA,2005,-0.087149
+North America sector,historical,JJA,2006,-0.140051
+North America sector,historical,JJA,2007,0.042866
+North America sector,historical,JJA,2008,0.140497
+North America sector,historical,JJA,2009,0.287357
+North America sector,historical,JJA,2010,0.242544
+North America sector,historical,JJA,2011,0.228842
+North America sector,historical,JJA,2012,0.599323
+North America sector,historical,JJA,2013,0.621912
+North America sector,historical,JJA,2014,0.541896
+Europe sector,historical,JJA,1995,-0.673127
+Europe sector,historical,JJA,1996,-0.783101
+Europe sector,historical,JJA,1997,-0.763158
+Europe sector,historical,JJA,1998,-0.25153
+Europe sector,historical,JJA,1999,-0.508777
+Europe sector,historical,JJA,2000,-0.711292
+Europe sector,historical,JJA,2001,-1.093828
+Europe sector,historical,JJA,2002,-0.662837
+Europe sector,historical,JJA,2003,0.350456
+Europe sector,historical,JJA,2004,0.508201
+Europe sector,historical,JJA,2005,0.107408
+Europe sector,historical,JJA,2006,0.131252
+Europe sector,historical,JJA,2007,0.223285
+Europe sector,historical,JJA,2008,-0.316448
+Europe sector,historical,JJA,2009,0.216065
+Europe sector,historical,JJA,2010,1.203988
+Europe sector,historical,JJA,2011,0.325437
+Europe sector,historical,JJA,2012,1.10743
+Europe sector,historical,JJA,2013,0.514542
+Europe sector,historical,JJA,2014,1.076032
+Arctic,historical,JJA,1995,-0.935973
+Arctic,historical,JJA,1996,-0.681089
+Arctic,historical,JJA,1997,-0.562589
+Arctic,historical,JJA,1998,-0.369147
+Arctic,historical,JJA,1999,-0.367566
+Arctic,historical,JJA,2000,-0.562592
+Arctic,historical,JJA,2001,-0.165677
+Arctic,historical,JJA,2002,0.026399
+Arctic,historical,JJA,2003,0.373969
+Arctic,historical,JJA,2004,0.479299
+Arctic,historical,JJA,2005,-0.234743
+Arctic,historical,JJA,2006,0.210804
+Arctic,historical,JJA,2007,0.168345
+Arctic,historical,JJA,2008,-0.270411
+Arctic,historical,JJA,2009,0.521009
+Arctic,historical,JJA,2010,-0.21672
+Arctic,historical,JJA,2011,0.500963
+Arctic,historical,JJA,2012,0.488323
+Arctic,historical,JJA,2013,0.691056
+Arctic,historical,JJA,2014,0.906341
+North America sector,ssp245,DJF,2015,1.472172
+North America sector,ssp245,DJF,2016,0.9248
+North America sector,ssp245,DJF,2017,0.731617
+North America sector,ssp245,DJF,2018,1.033663
+North America sector,ssp245,DJF,2019,0.563156
+North America sector,ssp245,DJF,2020,0.972702
+North America sector,ssp245,DJF,2021,1.925367
+North America sector,ssp245,DJF,2022,1.78729
+North America sector,ssp245,DJF,2023,1.302676
+North America sector,ssp245,DJF,2024,1.726747
+North America sector,ssp245,DJF,2025,1.595935
+North America sector,ssp245,DJF,2026,1.930147
+North America sector,ssp245,DJF,2027,2.324303
+North America sector,ssp245,DJF,2028,2.079507
+North America sector,ssp245,DJF,2029,2.402785
+North America sector,ssp245,DJF,2030,2.873515
+North America sector,ssp245,DJF,2031,2.32489
+North America sector,ssp245,DJF,2032,2.323122
+North America sector,ssp245,DJF,2033,2.269896
+North America sector,ssp245,DJF,2034,2.440388
+North America sector,ssp245,DJF,2035,1.675124
+North America sector,ssp245,DJF,2036,2.819699
+North America sector,ssp245,DJF,2037,2.545586
+North America sector,ssp245,DJF,2038,2.287047
+North America sector,ssp245,DJF,2039,3.162103
+North America sector,ssp245,DJF,2040,2.6804
+North America sector,ssp245,DJF,2041,2.524039
+North America sector,ssp245,DJF,2042,3.425136
+North America sector,ssp245,DJF,2043,2.766961
+North America sector,ssp245,DJF,2044,3.43388
+North America sector,ssp245,DJF,2045,2.531294
+North America sector,ssp245,DJF,2046,3.029973
+North America sector,ssp245,DJF,2047,3.195292
+North America sector,ssp245,DJF,2048,2.278205
+North America sector,ssp245,DJF,2049,3.476502
+North America sector,ssp245,DJF,2050,3.219208
+North America sector,ssp245,DJF,2051,3.141338
+North America sector,ssp245,DJF,2052,3.818118
+North America sector,ssp245,DJF,2053,3.819503
+North America sector,ssp245,DJF,2054,4.341924
+North America sector,ssp245,DJF,2055,4.55684
+North America sector,ssp245,DJF,2056,4.175956
+North America sector,ssp245,DJF,2057,3.424064
+North America sector,ssp245,DJF,2058,4.392574
+North America sector,ssp245,DJF,2059,4.205291
+North America sector,ssp245,DJF,2060,3.961817
+North America sector,ssp245,DJF,2061,4.181806
+North America sector,ssp245,DJF,2062,4.484421
+North America sector,ssp245,DJF,2063,3.650137
+North America sector,ssp245,DJF,2064,3.976833
+North America sector,ssp245,DJF,2065,4.191367
+North America sector,ssp245,DJF,2066,3.310105
+North America sector,ssp245,DJF,2067,4.519487
+North America sector,ssp245,DJF,2068,3.735307
+North America sector,ssp245,DJF,2069,3.853344
+North America sector,ssp245,DJF,2070,3.86281
+North America sector,ssp245,DJF,2071,5.04768
+North America sector,ssp245,DJF,2072,5.092921
+North America sector,ssp245,DJF,2073,4.35605
+North America sector,ssp245,DJF,2074,5.655298
+North America sector,ssp245,DJF,2075,4.231023
+North America sector,ssp245,DJF,2076,4.577443
+North America sector,ssp245,DJF,2077,4.632369
+North America sector,ssp245,DJF,2078,4.184949
+North America sector,ssp245,DJF,2079,3.983175
+North America sector,ssp245,DJF,2080,4.69518
+North America sector,ssp245,DJF,2081,3.858804
+North America sector,ssp245,DJF,2082,5.234275
+North America sector,ssp245,DJF,2083,4.338058
+North America sector,ssp245,DJF,2084,4.332888
+North America sector,ssp245,DJF,2085,5.081267
+North America sector,ssp245,DJF,2086,5.1464
+North America sector,ssp245,DJF,2087,5.481203
+North America sector,ssp245,DJF,2088,5.388692
+North America sector,ssp245,DJF,2089,4.836263
+North America sector,ssp245,DJF,2090,5.647733
+North America sector,ssp245,DJF,2091,5.440489
+North America sector,ssp245,DJF,2092,5.888042
+North America sector,ssp245,DJF,2093,5.327267
+North America sector,ssp245,DJF,2094,5.393129
+North America sector,ssp245,DJF,2095,4.993438
+North America sector,ssp245,DJF,2096,5.308233
+North America sector,ssp245,DJF,2097,5.327186
+North America sector,ssp245,DJF,2098,4.637001
+North America sector,ssp245,DJF,2099,5.771429
+North America sector,ssp245,DJF,2100,5.680998
+Europe sector,ssp245,DJF,2015,1.264815
+Europe sector,ssp245,DJF,2016,1.481498
+Europe sector,ssp245,DJF,2017,1.180868
+Europe sector,ssp245,DJF,2018,0.803725
+Europe sector,ssp245,DJF,2019,1.368868
+Europe sector,ssp245,DJF,2020,2.072933
+Europe sector,ssp245,DJF,2021,1.069977
+Europe sector,ssp245,DJF,2022,1.713774
+Europe sector,ssp245,DJF,2023,1.129281
+Europe sector,ssp245,DJF,2024,1.471488
+Europe sector,ssp245,DJF,2025,1.195299
+Europe sector,ssp245,DJF,2026,0.88653
+Europe sector,ssp245,DJF,2027,1.392545
+Europe sector,ssp245,DJF,2028,1.305905
+Europe sector,ssp245,DJF,2029,1.258563
+Europe sector,ssp245,DJF,2030,2.297689
+Europe sector,ssp245,DJF,2031,2.377444
+Europe sector,ssp245,DJF,2032,1.318447
+Europe sector,ssp245,DJF,2033,0.847999
+Europe sector,ssp245,DJF,2034,1.124989
+Europe sector,ssp245,DJF,2035,1.991564
+Europe sector,ssp245,DJF,2036,1.435633
+Europe sector,ssp245,DJF,2037,2.007956
+Europe sector,ssp245,DJF,2038,1.85925
+Europe sector,ssp245,DJF,2039,1.189002
+Europe sector,ssp245,DJF,2040,1.716951
+Europe sector,ssp245,DJF,2041,2.226956
+Europe sector,ssp245,DJF,2042,1.769008
+Europe sector,ssp245,DJF,2043,2.708247
+Europe sector,ssp245,DJF,2044,1.827315
+Europe sector,ssp245,DJF,2045,3.081092
+Europe sector,ssp245,DJF,2046,1.458988
+Europe sector,ssp245,DJF,2047,2.205123
+Europe sector,ssp245,DJF,2048,3.2013
+Europe sector,ssp245,DJF,2049,-0.281587
+Europe sector,ssp245,DJF,2050,0.368406
+Europe sector,ssp245,DJF,2051,2.988985
+Europe sector,ssp245,DJF,2052,1.601236
+Europe sector,ssp245,DJF,2053,2.802192
+Europe sector,ssp245,DJF,2054,2.04973
+Europe sector,ssp245,DJF,2055,1.784835
+Europe sector,ssp245,DJF,2056,2.230101
+Europe sector,ssp245,DJF,2057,3.364737
+Europe sector,ssp245,DJF,2058,2.276459
+Europe sector,ssp245,DJF,2059,3.281231
+Europe sector,ssp245,DJF,2060,3.61751
+Europe sector,ssp245,DJF,2061,3.41254
+Europe sector,ssp245,DJF,2062,2.752332
+Europe sector,ssp245,DJF,2063,2.846114
+Europe sector,ssp245,DJF,2064,2.503731
+Europe sector,ssp245,DJF,2065,3.388594
+Europe sector,ssp245,DJF,2066,2.876454
+Europe sector,ssp245,DJF,2067,2.938982
+Europe sector,ssp245,DJF,2068,2.694852
+Europe sector,ssp245,DJF,2069,3.44381
+Europe sector,ssp245,DJF,2070,2.025019
+Europe sector,ssp245,DJF,2071,3.003467
+Europe sector,ssp245,DJF,2072,2.98874
+Europe sector,ssp245,DJF,2073,3.778626
+Europe sector,ssp245,DJF,2074,2.012502
+Europe sector,ssp245,DJF,2075,3.139573
+Europe sector,ssp245,DJF,2076,2.828035
+Europe sector,ssp245,DJF,2077,3.717398
+Europe sector,ssp245,DJF,2078,2.824715
+Europe sector,ssp245,DJF,2079,3.277414
+Europe sector,ssp245,DJF,2080,3.654164
+Europe sector,ssp245,DJF,2081,3.599779
+Europe sector,ssp245,DJF,2082,3.826582
+Europe sector,ssp245,DJF,2083,4.008646
+Europe sector,ssp245,DJF,2084,3.539558
+Europe sector,ssp245,DJF,2085,3.422952
+Europe sector,ssp245,DJF,2086,5.280193
+Europe sector,ssp245,DJF,2087,3.948881
+Europe sector,ssp245,DJF,2088,3.61645
+Europe sector,ssp245,DJF,2089,3.039212
+Europe sector,ssp245,DJF,2090,3.70619
+Europe sector,ssp245,DJF,2091,3.420005
+Europe sector,ssp245,DJF,2092,3.773105
+Europe sector,ssp245,DJF,2093,2.218575
+Europe sector,ssp245,DJF,2094,3.989762
+Europe sector,ssp245,DJF,2095,3.900762
+Europe sector,ssp245,DJF,2096,3.527386
+Europe sector,ssp245,DJF,2097,3.409566
+Europe sector,ssp245,DJF,2098,3.133023
+Europe sector,ssp245,DJF,2099,2.591436
+Europe sector,ssp245,DJF,2100,3.131652
+Arctic,ssp245,DJF,2015,3.74615
+Arctic,ssp245,DJF,2016,2.131109
+Arctic,ssp245,DJF,2017,2.446471
+Arctic,ssp245,DJF,2018,2.632977
+Arctic,ssp245,DJF,2019,3.26719
+Arctic,ssp245,DJF,2020,3.951315
+Arctic,ssp245,DJF,2021,5.104133
+Arctic,ssp245,DJF,2022,5.035961
+Arctic,ssp245,DJF,2023,3.527026
+Arctic,ssp245,DJF,2024,5.003572
+Arctic,ssp245,DJF,2025,5.793633
+Arctic,ssp245,DJF,2026,4.125188
+Arctic,ssp245,DJF,2027,4.858028
+Arctic,ssp245,DJF,2028,4.948883
+Arctic,ssp245,DJF,2029,7.096243
+Arctic,ssp245,DJF,2030,5.081853
+Arctic,ssp245,DJF,2031,5.635256
+Arctic,ssp245,DJF,2032,6.266929
+Arctic,ssp245,DJF,2033,7.11847
+Arctic,ssp245,DJF,2034,6.64607
+Arctic,ssp245,DJF,2035,7.243129
+Arctic,ssp245,DJF,2036,6.142263
+Arctic,ssp245,DJF,2037,6.656285
+Arctic,ssp245,DJF,2038,5.545314
+Arctic,ssp245,DJF,2039,7.271886
+Arctic,ssp245,DJF,2040,7.198732
+Arctic,ssp245,DJF,2041,6.592976
+Arctic,ssp245,DJF,2042,7.626373
+Arctic,ssp245,DJF,2043,8.518501
+Arctic,ssp245,DJF,2044,8.123034
+Arctic,ssp245,DJF,2045,6.550795
+Arctic,ssp245,DJF,2046,8.419966
+Arctic,ssp245,DJF,2047,9.270149
+Arctic,ssp245,DJF,2048,9.247206
+Arctic,ssp245,DJF,2049,9.910112
+Arctic,ssp245,DJF,2050,9.704867
+Arctic,ssp245,DJF,2051,11.824763
+Arctic,ssp245,DJF,2052,10.588403
+Arctic,ssp245,DJF,2053,11.444721
+Arctic,ssp245,DJF,2054,11.97544
+Arctic,ssp245,DJF,2055,11.502963
+Arctic,ssp245,DJF,2056,11.731505
+Arctic,ssp245,DJF,2057,10.79242
+Arctic,ssp245,DJF,2058,11.299008
+Arctic,ssp245,DJF,2059,11.790903
+Arctic,ssp245,DJF,2060,11.601588
+Arctic,ssp245,DJF,2061,9.908347
+Arctic,ssp245,DJF,2062,10.223873
+Arctic,ssp245,DJF,2063,10.597777
+Arctic,ssp245,DJF,2064,11.723784
+Arctic,ssp245,DJF,2065,11.562567
+Arctic,ssp245,DJF,2066,10.457191
+Arctic,ssp245,DJF,2067,10.252125
+Arctic,ssp245,DJF,2068,11.177166
+Arctic,ssp245,DJF,2069,10.615643
+Arctic,ssp245,DJF,2070,10.494703
+Arctic,ssp245,DJF,2071,10.922995
+Arctic,ssp245,DJF,2072,11.853054
+Arctic,ssp245,DJF,2073,12.388502
+Arctic,ssp245,DJF,2074,13.030225
+Arctic,ssp245,DJF,2075,12.495361
+Arctic,ssp245,DJF,2076,11.953432
+Arctic,ssp245,DJF,2077,12.14676
+Arctic,ssp245,DJF,2078,11.893011
+Arctic,ssp245,DJF,2079,12.760441
+Arctic,ssp245,DJF,2080,13.522778
+Arctic,ssp245,DJF,2081,13.476433
+Arctic,ssp245,DJF,2082,13.821858
+Arctic,ssp245,DJF,2083,13.202407
+Arctic,ssp245,DJF,2084,13.445469
+Arctic,ssp245,DJF,2085,14.138107
+Arctic,ssp245,DJF,2086,13.49069
+Arctic,ssp245,DJF,2087,14.549854
+Arctic,ssp245,DJF,2088,14.328281
+Arctic,ssp245,DJF,2089,15.010503
+Arctic,ssp245,DJF,2090,13.557787
+Arctic,ssp245,DJF,2091,13.999068
+Arctic,ssp245,DJF,2092,15.179791
+Arctic,ssp245,DJF,2093,15.594342
+Arctic,ssp245,DJF,2094,14.525131
+Arctic,ssp245,DJF,2095,14.450968
+Arctic,ssp245,DJF,2096,14.336721
+Arctic,ssp245,DJF,2097,15.606878
+Arctic,ssp245,DJF,2098,13.66469
+Arctic,ssp245,DJF,2099,15.533224
+Arctic,ssp245,DJF,2100,13.694333
+North America sector,ssp245,JJA,2015,0.483519
+North America sector,ssp245,JJA,2016,0.78953
+North America sector,ssp245,JJA,2017,0.73356
+North America sector,ssp245,JJA,2018,1.006029
+North America sector,ssp245,JJA,2019,1.307734
+North America sector,ssp245,JJA,2020,1.271488
+North America sector,ssp245,JJA,2021,1.388279
+North America sector,ssp245,JJA,2022,1.055209
+North America sector,ssp245,JJA,2023,1.558342
+North America sector,ssp245,JJA,2024,1.073707
+North America sector,ssp245,JJA,2025,1.516319
+North America sector,ssp245,JJA,2026,1.906932
+North America sector,ssp245,JJA,2027,1.769578
+North America sector,ssp245,JJA,2028,1.724712
+North America sector,ssp245,JJA,2029,1.878753
+North America sector,ssp245,JJA,2030,1.908274
+North America sector,ssp245,JJA,2031,1.893534
+North America sector,ssp245,JJA,2032,1.986493
+North America sector,ssp245,JJA,2033,2.089789
+North America sector,ssp245,JJA,2034,2.071314
+North America sector,ssp245,JJA,2035,2.037296
+North America sector,ssp245,JJA,2036,2.122444
+North America sector,ssp245,JJA,2037,1.880832
+North America sector,ssp245,JJA,2038,2.031724
+North America sector,ssp245,JJA,2039,2.459943
+North America sector,ssp245,JJA,2040,2.196673
+North America sector,ssp245,JJA,2041,2.234978
+North America sector,ssp245,JJA,2042,2.330641
+North America sector,ssp245,JJA,2043,2.194592
+North America sector,ssp245,JJA,2044,2.413739
+North America sector,ssp245,JJA,2045,2.319028
+North America sector,ssp245,JJA,2046,2.124465
+North America sector,ssp245,JJA,2047,2.487657
+North America sector,ssp245,JJA,2048,2.595398
+North America sector,ssp245,JJA,2049,2.683491
+North America sector,ssp245,JJA,2050,3.18669
+North America sector,ssp245,JJA,2051,3.054617
+North America sector,ssp245,JJA,2052,2.969048
+North America sector,ssp245,JJA,2053,3.032881
+North America sector,ssp245,JJA,2054,3.137317
+North America sector,ssp245,JJA,2055,3.129472
+North America sector,ssp245,JJA,2056,2.74408
+North America sector,ssp245,JJA,2057,2.846546
+North America sector,ssp245,JJA,2058,3.148998
+North America sector,ssp245,JJA,2059,3.116059
+North America sector,ssp245,JJA,2060,3.163432
+North America sector,ssp245,JJA,2061,3.065478
+North America sector,ssp245,JJA,2062,3.093883
+North America sector,ssp245,JJA,2063,3.264238
+North America sector,ssp245,JJA,2064,3.372607
+North America sector,ssp245,JJA,2065,3.102152
+North America sector,ssp245,JJA,2066,2.995333
+North America sector,ssp245,JJA,2067,3.270071
+North America sector,ssp245,JJA,2068,3.598848
+North America sector,ssp245,JJA,2069,3.043132
+North America sector,ssp245,JJA,2070,3.369992
+North America sector,ssp245,JJA,2071,3.344265
+North America sector,ssp245,JJA,2072,3.415263
+North America sector,ssp245,JJA,2073,3.613908
+North America sector,ssp245,JJA,2074,3.459154
+North America sector,ssp245,JJA,2075,3.606331
+North America sector,ssp245,JJA,2076,3.684806
+North America sector,ssp245,JJA,2077,3.421777
+North America sector,ssp245,JJA,2078,3.08071
+North America sector,ssp245,JJA,2079,3.488096
+North America sector,ssp245,JJA,2080,3.519428
+North America sector,ssp245,JJA,2081,4.034487
+North America sector,ssp245,JJA,2082,3.886795
+North America sector,ssp245,JJA,2083,3.847082
+North America sector,ssp245,JJA,2084,3.71763
+North America sector,ssp245,JJA,2085,3.641498
+North America sector,ssp245,JJA,2086,4.025052
+North America sector,ssp245,JJA,2087,4.011702
+North America sector,ssp245,JJA,2088,4.070971
+North America sector,ssp245,JJA,2089,4.189058
+North America sector,ssp245,JJA,2090,3.80862
+North America sector,ssp245,JJA,2091,4.175545
+North America sector,ssp245,JJA,2092,4.190235
+North America sector,ssp245,JJA,2093,3.878062
+North America sector,ssp245,JJA,2094,3.760478
+North America sector,ssp245,JJA,2095,4.020592
+North America sector,ssp245,JJA,2096,4.055216
+North America sector,ssp245,JJA,2097,4.12697
+North America sector,ssp245,JJA,2098,3.973527
+North America sector,ssp245,JJA,2099,4.076547
+North America sector,ssp245,JJA,2100,4.174848
+Europe sector,ssp245,JJA,2015,0.845446
+Europe sector,ssp245,JJA,2016,1.188435
+Europe sector,ssp245,JJA,2017,1.223793
+Europe sector,ssp245,JJA,2018,1.42421
+Europe sector,ssp245,JJA,2019,1.271411
+Europe sector,ssp245,JJA,2020,0.884457
+Europe sector,ssp245,JJA,2021,1.357854
+Europe sector,ssp245,JJA,2022,1.155693
+Europe sector,ssp245,JJA,2023,1.504787
+Europe sector,ssp245,JJA,2024,1.855392
+Europe sector,ssp245,JJA,2025,0.901891
+Europe sector,ssp245,JJA,2026,1.398546
+Europe sector,ssp245,JJA,2027,1.186407
+Europe sector,ssp245,JJA,2028,1.346214
+Europe sector,ssp245,JJA,2029,1.614656
+Europe sector,ssp245,JJA,2030,1.187219
+Europe sector,ssp245,JJA,2031,1.776462
+Europe sector,ssp245,JJA,2032,1.391808
+Europe sector,ssp245,JJA,2033,1.175782
+Europe sector,ssp245,JJA,2034,1.365074
+Europe sector,ssp245,JJA,2035,1.475505
+Europe sector,ssp245,JJA,2036,1.529177
+Europe sector,ssp245,JJA,2037,1.769138
+Europe sector,ssp245,JJA,2038,1.909297
+Europe sector,ssp245,JJA,2039,1.736779
+Europe sector,ssp245,JJA,2040,1.84368
+Europe sector,ssp245,JJA,2041,2.056738
+Europe sector,ssp245,JJA,2042,2.612217
+Europe sector,ssp245,JJA,2043,1.796167
+Europe sector,ssp245,JJA,2044,1.841907
+Europe sector,ssp245,JJA,2045,2.345981
+Europe sector,ssp245,JJA,2046,2.486628
+Europe sector,ssp245,JJA,2047,2.066329
+Europe sector,ssp245,JJA,2048,2.707514
+Europe sector,ssp245,JJA,2049,1.840735
+Europe sector,ssp245,JJA,2050,2.749927
+Europe sector,ssp245,JJA,2051,2.293639
+Europe sector,ssp245,JJA,2052,2.729501
+Europe sector,ssp245,JJA,2053,2.424363
+Europe sector,ssp245,JJA,2054,2.428594
+Europe sector,ssp245,JJA,2055,3.622873
+Europe sector,ssp245,JJA,2056,2.382018
+Europe sector,ssp245,JJA,2057,2.955847
+Europe sector,ssp245,JJA,2058,2.905472
+Europe sector,ssp245,JJA,2059,3.009612
+Europe sector,ssp245,JJA,2060,2.361316
+Europe sector,ssp245,JJA,2061,2.481001
+Europe sector,ssp245,JJA,2062,3.037684
+Europe sector,ssp245,JJA,2063,2.926427
+Europe sector,ssp245,JJA,2064,2.385604
+Europe sector,ssp245,JJA,2065,2.783135
+Europe sector,ssp245,JJA,2066,2.86558
+Europe sector,ssp245,JJA,2067,3.034811
+Europe sector,ssp245,JJA,2068,3.440245
+Europe sector,ssp245,JJA,2069,3.502043
+Europe sector,ssp245,JJA,2070,2.845236
+Europe sector,ssp245,JJA,2071,2.26838
+Europe sector,ssp245,JJA,2072,2.8735
+Europe sector,ssp245,JJA,2073,3.369855
+Europe sector,ssp245,JJA,2074,3.209182
+Europe sector,ssp245,JJA,2075,4.280834
+Europe sector,ssp245,JJA,2076,3.10453
+Europe sector,ssp245,JJA,2077,2.956667
+Europe sector,ssp245,JJA,2078,3.131502
+Europe sector,ssp245,JJA,2079,3.393113
+Europe sector,ssp245,JJA,2080,3.270186
+Europe sector,ssp245,JJA,2081,3.461629
+Europe sector,ssp245,JJA,2082,3.28953
+Europe sector,ssp245,JJA,2083,2.869051
+Europe sector,ssp245,JJA,2084,3.455125
+Europe sector,ssp245,JJA,2085,3.678786
+Europe sector,ssp245,JJA,2086,3.576369
+Europe sector,ssp245,JJA,2087,4.152324
+Europe sector,ssp245,JJA,2088,4.27062
+Europe sector,ssp245,JJA,2089,3.984733
+Europe sector,ssp245,JJA,2090,3.779796
+Europe sector,ssp245,JJA,2091,3.906488
+Europe sector,ssp245,JJA,2092,3.62724
+Europe sector,ssp245,JJA,2093,2.58429
+Europe sector,ssp245,JJA,2094,4.18729
+Europe sector,ssp245,JJA,2095,3.342028
+Europe sector,ssp245,JJA,2096,3.193087
+Europe sector,ssp245,JJA,2097,3.988004
+Europe sector,ssp245,JJA,2098,4.313901
+Europe sector,ssp245,JJA,2099,3.250678
+Europe sector,ssp245,JJA,2100,3.731437
+Arctic,ssp245,JJA,2015,0.746284
+Arctic,ssp245,JJA,2016,0.775031
+Arctic,ssp245,JJA,2017,0.547894
+Arctic,ssp245,JJA,2018,0.694341
+Arctic,ssp245,JJA,2019,1.140183
+Arctic,ssp245,JJA,2020,1.195824
+Arctic,ssp245,JJA,2021,1.569956
+Arctic,ssp245,JJA,2022,0.870389
+Arctic,ssp245,JJA,2023,0.94745
+Arctic,ssp245,JJA,2024,1.320546
+Arctic,ssp245,JJA,2025,1.181119
+Arctic,ssp245,JJA,2026,1.404635
+Arctic,ssp245,JJA,2027,1.56568
+Arctic,ssp245,JJA,2028,1.485724
+Arctic,ssp245,JJA,2029,1.526047
+Arctic,ssp245,JJA,2030,1.658503
+Arctic,ssp245,JJA,2031,1.65722
+Arctic,ssp245,JJA,2032,1.765931
+Arctic,ssp245,JJA,2033,1.668247
+Arctic,ssp245,JJA,2034,1.541939
+Arctic,ssp245,JJA,2035,1.82405
+Arctic,ssp245,JJA,2036,2.00411
+Arctic,ssp245,JJA,2037,1.641965
+Arctic,ssp245,JJA,2038,1.749737
+Arctic,ssp245,JJA,2039,2.698669
+Arctic,ssp245,JJA,2040,1.556384
+Arctic,ssp245,JJA,2041,1.852194
+Arctic,ssp245,JJA,2042,2.524409
+Arctic,ssp245,JJA,2043,2.391238
+Arctic,ssp245,JJA,2044,2.456762
+Arctic,ssp245,JJA,2045,2.025839
+Arctic,ssp245,JJA,2046,2.552508
+Arctic,ssp245,JJA,2047,1.989124
+Arctic,ssp245,JJA,2048,2.732639
+Arctic,ssp245,JJA,2049,2.91765
+Arctic,ssp245,JJA,2050,2.812431
+Arctic,ssp245,JJA,2051,2.919118
+Arctic,ssp245,JJA,2052,3.057361
+Arctic,ssp245,JJA,2053,3.234537
+Arctic,ssp245,JJA,2054,3.107267
+Arctic,ssp245,JJA,2055,3.643794
+Arctic,ssp245,JJA,2056,3.25084
+Arctic,ssp245,JJA,2057,3.393768
+Arctic,ssp245,JJA,2058,3.077309
+Arctic,ssp245,JJA,2059,3.173086
+Arctic,ssp245,JJA,2060,3.425525
+Arctic,ssp245,JJA,2061,3.299606
+Arctic,ssp245,JJA,2062,3.201323
+Arctic,ssp245,JJA,2063,3.263491
+Arctic,ssp245,JJA,2064,3.407227
+Arctic,ssp245,JJA,2065,3.236313
+Arctic,ssp245,JJA,2066,2.818204
+Arctic,ssp245,JJA,2067,3.468478
+Arctic,ssp245,JJA,2068,3.742095
+Arctic,ssp245,JJA,2069,3.314267
+Arctic,ssp245,JJA,2070,3.428925
+Arctic,ssp245,JJA,2071,3.594162
+Arctic,ssp245,JJA,2072,3.058637
+Arctic,ssp245,JJA,2073,3.881762
+Arctic,ssp245,JJA,2074,3.999001
+Arctic,ssp245,JJA,2075,3.350047
+Arctic,ssp245,JJA,2076,3.566371
+Arctic,ssp245,JJA,2077,3.356115
+Arctic,ssp245,JJA,2078,3.645312
+Arctic,ssp245,JJA,2079,3.854891
+Arctic,ssp245,JJA,2080,3.944653
+Arctic,ssp245,JJA,2081,3.764356
+Arctic,ssp245,JJA,2082,3.506175
+Arctic,ssp245,JJA,2083,4.199089
+Arctic,ssp245,JJA,2084,3.857927
+Arctic,ssp245,JJA,2085,3.713483
+Arctic,ssp245,JJA,2086,4.306304
+Arctic,ssp245,JJA,2087,3.840614
+Arctic,ssp245,JJA,2088,4.401306
+Arctic,ssp245,JJA,2089,4.210131
+Arctic,ssp245,JJA,2090,4.20145
+Arctic,ssp245,JJA,2091,3.645479
+Arctic,ssp245,JJA,2092,4.689209
+Arctic,ssp245,JJA,2093,4.370014
+Arctic,ssp245,JJA,2094,4.054628
+Arctic,ssp245,JJA,2095,4.2886
+Arctic,ssp245,JJA,2096,4.062382
+Arctic,ssp245,JJA,2097,4.479947
+Arctic,ssp245,JJA,2098,4.114758
+Arctic,ssp245,JJA,2099,4.548586
+Arctic,ssp245,JJA,2100,4.056382
+North America sector,ssp585,DJF,2015,0.912314
+North America sector,ssp585,DJF,2016,0.747642
+North America sector,ssp585,DJF,2017,1.002049
+North America sector,ssp585,DJF,2018,0.861721
+North America sector,ssp585,DJF,2019,1.258747
+North America sector,ssp585,DJF,2020,1.673967
+North America sector,ssp585,DJF,2021,2.303941
+North America sector,ssp585,DJF,2022,1.539452
+North America sector,ssp585,DJF,2023,2.075009
+North America sector,ssp585,DJF,2024,1.888839
+North America sector,ssp585,DJF,2025,2.198713
+North America sector,ssp585,DJF,2026,2.31572
+North America sector,ssp585,DJF,2027,2.454176
+North America sector,ssp585,DJF,2028,1.868511
+North America sector,ssp585,DJF,2029,2.106122
+North America sector,ssp585,DJF,2030,2.364848
+North America sector,ssp585,DJF,2031,1.883282
+North America sector,ssp585,DJF,2032,2.712921
+North America sector,ssp585,DJF,2033,2.037369
+North America sector,ssp585,DJF,2034,2.50041
+North America sector,ssp585,DJF,2035,2.038886
+North America sector,ssp585,DJF,2036,3.768877
+North America sector,ssp585,DJF,2037,4.319497
+North America sector,ssp585,DJF,2038,2.689541
+North America sector,ssp585,DJF,2039,2.709596
+North America sector,ssp585,DJF,2040,4.041179
+North America sector,ssp585,DJF,2041,3.059576
+North America sector,ssp585,DJF,2042,3.124051
+North America sector,ssp585,DJF,2043,4.127186
+North America sector,ssp585,DJF,2044,3.84166
+North America sector,ssp585,DJF,2045,3.751976
+North America sector,ssp585,DJF,2046,3.773624
+North America sector,ssp585,DJF,2047,3.79723
+North America sector,ssp585,DJF,2048,4.488108
+North America sector,ssp585,DJF,2049,4.832837
+North America sector,ssp585,DJF,2050,4.022835
+North America sector,ssp585,DJF,2051,4.929574
+North America sector,ssp585,DJF,2052,5.056702
+North America sector,ssp585,DJF,2053,4.603524
+North America sector,ssp585,DJF,2054,4.680683
+North America sector,ssp585,DJF,2055,5.133382
+North America sector,ssp585,DJF,2056,4.960695
+North America sector,ssp585,DJF,2057,5.101118
+North America sector,ssp585,DJF,2058,5.519936
+North America sector,ssp585,DJF,2059,5.930893
+North America sector,ssp585,DJF,2060,6.207866
+North America sector,ssp585,DJF,2061,5.895581
+North America sector,ssp585,DJF,2062,5.491605
+North America sector,ssp585,DJF,2063,5.840981
+North America sector,ssp585,DJF,2064,6.450996
+North America sector,ssp585,DJF,2065,6.329296
+North America sector,ssp585,DJF,2066,6.041254
+North America sector,ssp585,DJF,2067,6.780898
+North America sector,ssp585,DJF,2068,7.265276
+North America sector,ssp585,DJF,2069,6.714108
+North America sector,ssp585,DJF,2070,6.609876
+North America sector,ssp585,DJF,2071,6.610667
+North America sector,ssp585,DJF,2072,6.625509
+North America sector,ssp585,DJF,2073,7.431555
+North America sector,ssp585,DJF,2074,7.527098
+North America sector,ssp585,DJF,2075,7.234105
+North America sector,ssp585,DJF,2076,7.790915
+North America sector,ssp585,DJF,2077,7.033903
+North America sector,ssp585,DJF,2078,7.703354
+North America sector,ssp585,DJF,2079,7.061294
+North America sector,ssp585,DJF,2080,8.314842
+North America sector,ssp585,DJF,2081,7.848393
+North America sector,ssp585,DJF,2082,7.374397
+North America sector,ssp585,DJF,2083,7.936458
+North America sector,ssp585,DJF,2084,8.032345
+North America sector,ssp585,DJF,2085,7.777292
+North America sector,ssp585,DJF,2086,7.605867
+North America sector,ssp585,DJF,2087,8.806279
+North America sector,ssp585,DJF,2088,8.708452
+North America sector,ssp585,DJF,2089,8.739001
+North America sector,ssp585,DJF,2090,9.619765
+North America sector,ssp585,DJF,2091,8.58897
+North America sector,ssp585,DJF,2092,8.950651
+North America sector,ssp585,DJF,2093,8.0526
+North America sector,ssp585,DJF,2094,9.688438
+North America sector,ssp585,DJF,2095,9.765167
+North America sector,ssp585,DJF,2096,9.324628
+North America sector,ssp585,DJF,2097,9.164363
+North America sector,ssp585,DJF,2098,9.250445
+North America sector,ssp585,DJF,2099,9.607861
+North America sector,ssp585,DJF,2100,10.139331
+Europe sector,ssp585,DJF,2015,1.233124
+Europe sector,ssp585,DJF,2016,1.022274
+Europe sector,ssp585,DJF,2017,0.912248
+Europe sector,ssp585,DJF,2018,0.673249
+Europe sector,ssp585,DJF,2019,1.221595
+Europe sector,ssp585,DJF,2020,0.777553
+Europe sector,ssp585,DJF,2021,-0.033302
+Europe sector,ssp585,DJF,2022,2.198362
+Europe sector,ssp585,DJF,2023,1.762052
+Europe sector,ssp585,DJF,2024,0.257628
+Europe sector,ssp585,DJF,2025,1.796321
+Europe sector,ssp585,DJF,2026,1.715749
+Europe sector,ssp585,DJF,2027,0.314734
+Europe sector,ssp585,DJF,2028,0.086729
+Europe sector,ssp585,DJF,2029,1.940048
+Europe sector,ssp585,DJF,2030,2.406603
+Europe sector,ssp585,DJF,2031,2.658997
+Europe sector,ssp585,DJF,2032,1.960788
+Europe sector,ssp585,DJF,2033,2.154467
+Europe sector,ssp585,DJF,2034,1.776658
+Europe sector,ssp585,DJF,2035,1.981267
+Europe sector,ssp585,DJF,2036,3.068377
+Europe sector,ssp585,DJF,2037,0.645215
+Europe sector,ssp585,DJF,2038,2.159655
+Europe sector,ssp585,DJF,2039,1.940429
+Europe sector,ssp585,DJF,2040,2.233648
+Europe sector,ssp585,DJF,2041,2.342643
+Europe sector,ssp585,DJF,2042,3.375367
+Europe sector,ssp585,DJF,2043,2.105828
+Europe sector,ssp585,DJF,2044,2.678362
+Europe sector,ssp585,DJF,2045,2.985296
+Europe sector,ssp585,DJF,2046,2.880754
+Europe sector,ssp585,DJF,2047,3.023962
+Europe sector,ssp585,DJF,2048,2.68939
+Europe sector,ssp585,DJF,2049,2.339635
+Europe sector,ssp585,DJF,2050,4.066733
+Europe sector,ssp585,DJF,2051,2.607553
+Europe sector,ssp585,DJF,2052,2.846229
+Europe sector,ssp585,DJF,2053,3.621912
+Europe sector,ssp585,DJF,2054,3.352403
+Europe sector,ssp585,DJF,2055,4.191303
+Europe sector,ssp585,DJF,2056,3.945973
+Europe sector,ssp585,DJF,2057,3.933872
+Europe sector,ssp585,DJF,2058,3.378597
+Europe sector,ssp585,DJF,2059,4.10152
+Europe sector,ssp585,DJF,2060,4.127145
+Europe sector,ssp585,DJF,2061,4.871199
+Europe sector,ssp585,DJF,2062,3.482341
+Europe sector,ssp585,DJF,2063,4.550281
+Europe sector,ssp585,DJF,2064,3.740345
+Europe sector,ssp585,DJF,2065,4.101218
+Europe sector,ssp585,DJF,2066,4.290498
+Europe sector,ssp585,DJF,2067,4.656458
+Europe sector,ssp585,DJF,2068,4.173885
+Europe sector,ssp585,DJF,2069,5.535844
+Europe sector,ssp585,DJF,2070,5.03676
+Europe sector,ssp585,DJF,2071,4.372631
+Europe sector,ssp585,DJF,2072,4.803897
+Europe sector,ssp585,DJF,2073,4.405528
+Europe sector,ssp585,DJF,2074,4.456812
+Europe sector,ssp585,DJF,2075,4.727542
+Europe sector,ssp585,DJF,2076,4.870657
+Europe sector,ssp585,DJF,2077,5.691617
+Europe sector,ssp585,DJF,2078,5.838885
+Europe sector,ssp585,DJF,2079,5.344339
+Europe sector,ssp585,DJF,2080,5.691444
+Europe sector,ssp585,DJF,2081,5.868756
+Europe sector,ssp585,DJF,2082,6.062199
+Europe sector,ssp585,DJF,2083,5.362603
+Europe sector,ssp585,DJF,2084,6.352263
+Europe sector,ssp585,DJF,2085,5.840513
+Europe sector,ssp585,DJF,2086,6.534981
+Europe sector,ssp585,DJF,2087,5.401724
+Europe sector,ssp585,DJF,2088,5.436979
+Europe sector,ssp585,DJF,2089,5.775964
+Europe sector,ssp585,DJF,2090,6.32691
+Europe sector,ssp585,DJF,2091,6.7574
+Europe sector,ssp585,DJF,2092,5.237114
+Europe sector,ssp585,DJF,2093,7.410814
+Europe sector,ssp585,DJF,2094,5.756998
+Europe sector,ssp585,DJF,2095,6.831537
+Europe sector,ssp585,DJF,2096,6.635328
+Europe sector,ssp585,DJF,2097,6.050209
+Europe sector,ssp585,DJF,2098,6.575006
+Europe sector,ssp585,DJF,2099,6.364736
+Europe sector,ssp585,DJF,2100,6.82963
+Arctic,ssp585,DJF,2015,3.532577
+Arctic,ssp585,DJF,2016,3.230257
+Arctic,ssp585,DJF,2017,3.203993
+Arctic,ssp585,DJF,2018,3.858416
+Arctic,ssp585,DJF,2019,6.062401
+Arctic,ssp585,DJF,2020,4.266425
+Arctic,ssp585,DJF,2021,4.065358
+Arctic,ssp585,DJF,2022,3.895726
+Arctic,ssp585,DJF,2023,5.861244
+Arctic,ssp585,DJF,2024,5.650038
+Arctic,ssp585,DJF,2025,6.102263
+Arctic,ssp585,DJF,2026,6.123653
+Arctic,ssp585,DJF,2027,6.610278
+Arctic,ssp585,DJF,2028,4.759642
+Arctic,ssp585,DJF,2029,7.735566
+Arctic,ssp585,DJF,2030,6.630801
+Arctic,ssp585,DJF,2031,6.991264
+Arctic,ssp585,DJF,2032,7.036462
+Arctic,ssp585,DJF,2033,4.654515
+Arctic,ssp585,DJF,2034,8.220198
+Arctic,ssp585,DJF,2035,7.686786
+Arctic,ssp585,DJF,2036,9.352
+Arctic,ssp585,DJF,2037,8.916305
+Arctic,ssp585,DJF,2038,6.851776
+Arctic,ssp585,DJF,2039,8.259686
+Arctic,ssp585,DJF,2040,9.635972
+Arctic,ssp585,DJF,2041,8.935922
+Arctic,ssp585,DJF,2042,8.986661
+Arctic,ssp585,DJF,2043,9.005895
+Arctic,ssp585,DJF,2044,10.288901
+Arctic,ssp585,DJF,2045,10.464455
+Arctic,ssp585,DJF,2046,8.779774
+Arctic,ssp585,DJF,2047,8.681909
+Arctic,ssp585,DJF,2048,10.058618
+Arctic,ssp585,DJF,2049,11.320513
+Arctic,ssp585,DJF,2050,12.30288
+Arctic,ssp585,DJF,2051,13.379999
+Arctic,ssp585,DJF,2052,14.359568
+Arctic,ssp585,DJF,2053,13.319501
+Arctic,ssp585,DJF,2054,12.749138
+Arctic,ssp585,DJF,2055,14.259097
+Arctic,ssp585,DJF,2056,14.948579
+Arctic,ssp585,DJF,2057,14.324492
+Arctic,ssp585,DJF,2058,15.462979
+Arctic,ssp585,DJF,2059,16.469699
+Arctic,ssp585,DJF,2060,15.503087
+Arctic,ssp585,DJF,2061,17.407075
+Arctic,ssp585,DJF,2062,16.277303
+Arctic,ssp585,DJF,2063,15.717576
+Arctic,ssp585,DJF,2064,15.426302
+Arctic,ssp585,DJF,2065,15.801542
+Arctic,ssp585,DJF,2066,16.649193
+Arctic,ssp585,DJF,2067,18.207591
+Arctic,ssp585,DJF,2068,18.348898
+Arctic,ssp585,DJF,2069,18.058206
+Arctic,ssp585,DJF,2070,18.456914
+Arctic,ssp585,DJF,2071,18.171688
+Arctic,ssp585,DJF,2072,17.915923
+Arctic,ssp585,DJF,2073,18.338778
+Arctic,ssp585,DJF,2074,18.173638
+Arctic,ssp585,DJF,2075,18.868044
+Arctic,ssp585,DJF,2076,18.202879
+Arctic,ssp585,DJF,2077,19.591538
+Arctic,ssp585,DJF,2078,20.165935
+Arctic,ssp585,DJF,2079,19.633723
+Arctic,ssp585,DJF,2080,20.300534
+Arctic,ssp585,DJF,2081,19.850929
+Arctic,ssp585,DJF,2082,20.180379
+Arctic,ssp585,DJF,2083,20.192457
+Arctic,ssp585,DJF,2084,20.751948
+Arctic,ssp585,DJF,2085,20.871784
+Arctic,ssp585,DJF,2086,21.779979
+Arctic,ssp585,DJF,2087,21.663345
+Arctic,ssp585,DJF,2088,20.913468
+Arctic,ssp585,DJF,2089,20.805429
+Arctic,ssp585,DJF,2090,21.158835
+Arctic,ssp585,DJF,2091,22.259252
+Arctic,ssp585,DJF,2092,21.749692
+Arctic,ssp585,DJF,2093,22.710873
+Arctic,ssp585,DJF,2094,22.166325
+Arctic,ssp585,DJF,2095,22.753819
+Arctic,ssp585,DJF,2096,23.105795
+Arctic,ssp585,DJF,2097,22.810296
+Arctic,ssp585,DJF,2098,22.925256
+Arctic,ssp585,DJF,2099,22.464943
+Arctic,ssp585,DJF,2100,22.63396
+North America sector,ssp585,JJA,2015,0.621586
+North America sector,ssp585,JJA,2016,0.967256
+North America sector,ssp585,JJA,2017,0.851128
+North America sector,ssp585,JJA,2018,1.097687
+North America sector,ssp585,JJA,2019,1.157873
+North America sector,ssp585,JJA,2020,1.553663
+North America sector,ssp585,JJA,2021,1.246396
+North America sector,ssp585,JJA,2022,1.2232
+North America sector,ssp585,JJA,2023,1.497379
+North America sector,ssp585,JJA,2024,1.755709
+North America sector,ssp585,JJA,2025,1.660521
+North America sector,ssp585,JJA,2026,1.774931
+North America sector,ssp585,JJA,2027,1.705251
+North America sector,ssp585,JJA,2028,1.540543
+North America sector,ssp585,JJA,2029,1.852819
+North America sector,ssp585,JJA,2030,1.58386
+North America sector,ssp585,JJA,2031,1.974627
+North America sector,ssp585,JJA,2032,1.944808
+North America sector,ssp585,JJA,2033,2.231856
+North America sector,ssp585,JJA,2034,2.080494
+North America sector,ssp585,JJA,2035,2.430231
+North America sector,ssp585,JJA,2036,2.379748
+North America sector,ssp585,JJA,2037,2.145125
+North America sector,ssp585,JJA,2038,2.65667
+North America sector,ssp585,JJA,2039,2.676191
+North America sector,ssp585,JJA,2040,3.224449
+North America sector,ssp585,JJA,2041,2.715376
+North America sector,ssp585,JJA,2042,2.882265
+North America sector,ssp585,JJA,2043,2.737156
+North America sector,ssp585,JJA,2044,2.848903
+North America sector,ssp585,JJA,2045,2.942115
+North America sector,ssp585,JJA,2046,2.931981
+North America sector,ssp585,JJA,2047,3.162569
+North America sector,ssp585,JJA,2048,3.17739
+North America sector,ssp585,JJA,2049,3.565111
+North America sector,ssp585,JJA,2050,3.384458
+North America sector,ssp585,JJA,2051,3.479461
+North America sector,ssp585,JJA,2052,3.714969
+North America sector,ssp585,JJA,2053,3.809732
+North America sector,ssp585,JJA,2054,3.817685
+North America sector,ssp585,JJA,2055,4.11622
+North America sector,ssp585,JJA,2056,3.906503
+North America sector,ssp585,JJA,2057,4.247675
+North America sector,ssp585,JJA,2058,4.51414
+North America sector,ssp585,JJA,2059,4.688404
+North America sector,ssp585,JJA,2060,4.724071
+North America sector,ssp585,JJA,2061,4.431314
+North America sector,ssp585,JJA,2062,4.543978
+North America sector,ssp585,JJA,2063,4.615358
+North America sector,ssp585,JJA,2064,4.705704
+North America sector,ssp585,JJA,2065,4.742724
+North America sector,ssp585,JJA,2066,4.933223
+North America sector,ssp585,JJA,2067,5.533981
+North America sector,ssp585,JJA,2068,5.007144
+North America sector,ssp585,JJA,2069,5.32355
+North America sector,ssp585,JJA,2070,5.419242
+North America sector,ssp585,JJA,2071,5.556756
+North America sector,ssp585,JJA,2072,5.479006
+North America sector,ssp585,JJA,2073,5.816052
+North America sector,ssp585,JJA,2074,5.833885
+North America sector,ssp585,JJA,2075,6.22073
+North America sector,ssp585,JJA,2076,5.993436
+North America sector,ssp585,JJA,2077,6.364501
+North America sector,ssp585,JJA,2078,6.312867
+North America sector,ssp585,JJA,2079,6.477704
+North America sector,ssp585,JJA,2080,6.409207
+North America sector,ssp585,JJA,2081,6.6257
+North America sector,ssp585,JJA,2082,6.585999
+North America sector,ssp585,JJA,2083,6.90035
+North America sector,ssp585,JJA,2084,6.999531
+North America sector,ssp585,JJA,2085,7.282385
+North America sector,ssp585,JJA,2086,6.996521
+North America sector,ssp585,JJA,2087,7.544384
+North America sector,ssp585,JJA,2088,7.568906
+North America sector,ssp585,JJA,2089,7.527434
+North America sector,ssp585,JJA,2090,7.778608
+North America sector,ssp585,JJA,2091,7.799565
+North America sector,ssp585,JJA,2092,7.776651
+North America sector,ssp585,JJA,2093,8.06326
+North America sector,ssp585,JJA,2094,8.223234
+North America sector,ssp585,JJA,2095,8.446737
+North America sector,ssp585,JJA,2096,7.937537
+North America sector,ssp585,JJA,2097,8.119085
+North America sector,ssp585,JJA,2098,8.061881
+North America sector,ssp585,JJA,2099,8.404877
+North America sector,ssp585,JJA,2100,8.622546
+Europe sector,ssp585,JJA,2015,0.967887
+Europe sector,ssp585,JJA,2016,0.778261
+Europe sector,ssp585,JJA,2017,1.015794
+Europe sector,ssp585,JJA,2018,0.716021
+Europe sector,ssp585,JJA,2019,0.990705
+Europe sector,ssp585,JJA,2020,1.284434
+Europe sector,ssp585,JJA,2021,0.711455
+Europe sector,ssp585,JJA,2022,1.055462
+Europe sector,ssp585,JJA,2023,1.716682
+Europe sector,ssp585,JJA,2024,1.488218
+Europe sector,ssp585,JJA,2025,2.004115
+Europe sector,ssp585,JJA,2026,1.940236
+Europe sector,ssp585,JJA,2027,1.286715
+Europe sector,ssp585,JJA,2028,1.707884
+Europe sector,ssp585,JJA,2029,1.882388
+Europe sector,ssp585,JJA,2030,1.812456
+Europe sector,ssp585,JJA,2031,2.268501
+Europe sector,ssp585,JJA,2032,1.823221
+Europe sector,ssp585,JJA,2033,1.416175
+Europe sector,ssp585,JJA,2034,2.131918
+Europe sector,ssp585,JJA,2035,1.680273
+Europe sector,ssp585,JJA,2036,1.638055
+Europe sector,ssp585,JJA,2037,2.044385
+Europe sector,ssp585,JJA,2038,2.179382
+Europe sector,ssp585,JJA,2039,2.597973
+Europe sector,ssp585,JJA,2040,2.942197
+Europe sector,ssp585,JJA,2041,2.917351
+Europe sector,ssp585,JJA,2042,3.315766
+Europe sector,ssp585,JJA,2043,2.410658
+Europe sector,ssp585,JJA,2044,2.821061
+Europe sector,ssp585,JJA,2045,2.689234
+Europe sector,ssp585,JJA,2046,3.578956
+Europe sector,ssp585,JJA,2047,3.212038
+Europe sector,ssp585,JJA,2048,3.738216
+Europe sector,ssp585,JJA,2049,2.951271
+Europe sector,ssp585,JJA,2050,3.392698
+Europe sector,ssp585,JJA,2051,3.563514
+Europe sector,ssp585,JJA,2052,3.2422
+Europe sector,ssp585,JJA,2053,3.549896
+Europe sector,ssp585,JJA,2054,3.946786
+Europe sector,ssp585,JJA,2055,5.147349
+Europe sector,ssp585,JJA,2056,3.748274
+Europe sector,ssp585,JJA,2057,4.163563
+Europe sector,ssp585,JJA,2058,3.819049
+Europe sector,ssp585,JJA,2059,3.930879
+Europe sector,ssp585,JJA,2060,4.331783
+Europe sector,ssp585,JJA,2061,4.405496
+Europe sector,ssp585,JJA,2062,4.455278
+Europe sector,ssp585,JJA,2063,4.242402
+Europe sector,ssp585,JJA,2064,4.755204
+Europe sector,ssp585,JJA,2065,4.831027
+Europe sector,ssp585,JJA,2066,4.821229
+Europe sector,ssp585,JJA,2067,5.007763
+Europe sector,ssp585,JJA,2068,4.766751
+Europe sector,ssp585,JJA,2069,5.101801
+Europe sector,ssp585,JJA,2070,5.435739
+Europe sector,ssp585,JJA,2071,5.407632
+Europe sector,ssp585,JJA,2072,5.406061
+Europe sector,ssp585,JJA,2073,5.388396
+Europe sector,ssp585,JJA,2074,5.826631
+Europe sector,ssp585,JJA,2075,6.66479
+Europe sector,ssp585,JJA,2076,6.010275
+Europe sector,ssp585,JJA,2077,6.784342
+Europe sector,ssp585,JJA,2078,6.162825
+Europe sector,ssp585,JJA,2079,6.349211
+Europe sector,ssp585,JJA,2080,6.563071
+Europe sector,ssp585,JJA,2081,6.638222
+Europe sector,ssp585,JJA,2082,7.561325
+Europe sector,ssp585,JJA,2083,6.578033
+Europe sector,ssp585,JJA,2084,7.234462
+Europe sector,ssp585,JJA,2085,7.305473
+Europe sector,ssp585,JJA,2086,7.017812
+Europe sector,ssp585,JJA,2087,6.835074
+Europe sector,ssp585,JJA,2088,7.092979
+Europe sector,ssp585,JJA,2089,7.781201
+Europe sector,ssp585,JJA,2090,8.482301
+Europe sector,ssp585,JJA,2091,7.344151
+Europe sector,ssp585,JJA,2092,7.741717
+Europe sector,ssp585,JJA,2093,8.731314
+Europe sector,ssp585,JJA,2094,8.071498
+Europe sector,ssp585,JJA,2095,8.591575
+Europe sector,ssp585,JJA,2096,7.792815
+Europe sector,ssp585,JJA,2097,8.028759
+Europe sector,ssp585,JJA,2098,8.229948
+Europe sector,ssp585,JJA,2099,8.242414
+Europe sector,ssp585,JJA,2100,9.1879
+Arctic,ssp585,JJA,2015,1.216565
+Arctic,ssp585,JJA,2016,1.045897
+Arctic,ssp585,JJA,2017,1.111559
+Arctic,ssp585,JJA,2018,0.852304
+Arctic,ssp585,JJA,2019,0.872647
+Arctic,ssp585,JJA,2020,1.50702
+Arctic,ssp585,JJA,2021,1.255279
+Arctic,ssp585,JJA,2022,1.070386
+Arctic,ssp585,JJA,2023,1.766924
+Arctic,ssp585,JJA,2024,1.424708
+Arctic,ssp585,JJA,2025,1.673031
+Arctic,ssp585,JJA,2026,1.273446
+Arctic,ssp585,JJA,2027,1.945079
+Arctic,ssp585,JJA,2028,1.486999
+Arctic,ssp585,JJA,2029,1.83567
+Arctic,ssp585,JJA,2030,1.550826
+Arctic,ssp585,JJA,2031,1.86315
+Arctic,ssp585,JJA,2032,1.747355
+Arctic,ssp585,JJA,2033,1.904536
+Arctic,ssp585,JJA,2034,2.056087
+Arctic,ssp585,JJA,2035,2.514511
+Arctic,ssp585,JJA,2036,2.194399
+Arctic,ssp585,JJA,2037,2.102274
+Arctic,ssp585,JJA,2038,2.204217
+Arctic,ssp585,JJA,2039,3.117061
+Arctic,ssp585,JJA,2040,2.51974
+Arctic,ssp585,JJA,2041,2.12711
+Arctic,ssp585,JJA,2042,2.323987
+Arctic,ssp585,JJA,2043,2.93455
+Arctic,ssp585,JJA,2044,3.055322
+Arctic,ssp585,JJA,2045,3.050059
+Arctic,ssp585,JJA,2046,2.93307
+Arctic,ssp585,JJA,2047,2.763395
+Arctic,ssp585,JJA,2048,3.61368
+Arctic,ssp585,JJA,2049,3.377078
+Arctic,ssp585,JJA,2050,3.737528
+Arctic,ssp585,JJA,2051,4.471441
+Arctic,ssp585,JJA,2052,3.989751
+Arctic,ssp585,JJA,2053,3.404216
+Arctic,ssp585,JJA,2054,3.725103
+Arctic,ssp585,JJA,2055,3.882734
+Arctic,ssp585,JJA,2056,4.302898
+Arctic,ssp585,JJA,2057,4.624146
+Arctic,ssp585,JJA,2058,4.950683
+Arctic,ssp585,JJA,2059,4.816271
+Arctic,ssp585,JJA,2060,4.916308
+Arctic,ssp585,JJA,2061,4.82278
+Arctic,ssp585,JJA,2062,5.111159
+Arctic,ssp585,JJA,2063,4.711825
+Arctic,ssp585,JJA,2064,4.461062
+Arctic,ssp585,JJA,2065,5.295625
+Arctic,ssp585,JJA,2066,4.897825
+Arctic,ssp585,JJA,2067,5.534967
+Arctic,ssp585,JJA,2068,5.571655
+Arctic,ssp585,JJA,2069,5.659528
+Arctic,ssp585,JJA,2070,6.039355
+Arctic,ssp585,JJA,2071,5.702183
+Arctic,ssp585,JJA,2072,5.997437
+Arctic,ssp585,JJA,2073,6.079218
+Arctic,ssp585,JJA,2074,6.239011
+Arctic,ssp585,JJA,2075,6.017771
+Arctic,ssp585,JJA,2076,6.749889
+Arctic,ssp585,JJA,2077,6.801506
+Arctic,ssp585,JJA,2078,6.724064
+Arctic,ssp585,JJA,2079,7.022599
+Arctic,ssp585,JJA,2080,7.066545
+Arctic,ssp585,JJA,2081,6.940968
+Arctic,ssp585,JJA,2082,6.778631
+Arctic,ssp585,JJA,2083,7.280124
+Arctic,ssp585,JJA,2084,7.135168
+Arctic,ssp585,JJA,2085,7.34585
+Arctic,ssp585,JJA,2086,7.820559
+Arctic,ssp585,JJA,2087,7.921807
+Arctic,ssp585,JJA,2088,7.636894
+Arctic,ssp585,JJA,2089,7.840643
+Arctic,ssp585,JJA,2090,7.365087
+Arctic,ssp585,JJA,2091,8.382323
+Arctic,ssp585,JJA,2092,8.535903
+Arctic,ssp585,JJA,2093,8.486721
+Arctic,ssp585,JJA,2094,9.130752
+Arctic,ssp585,JJA,2095,8.300937
+Arctic,ssp585,JJA,2096,8.906309
+Arctic,ssp585,JJA,2097,9.252233
+Arctic,ssp585,JJA,2098,9.393742
+Arctic,ssp585,JJA,2099,8.706042
+Arctic,ssp585,JJA,2100,8.384313

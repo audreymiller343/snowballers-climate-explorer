@@ -1,0 +1,24 @@
+{
+  "passed": true,
+  "scope": "seasonal DJF/JJA, two scenarios, three regions",
+  "timestamp_utc": "2026-11-04T23:59:20.278716+00:00",
+  "model": "CanESM5-CanOE",
+  "records": 1152,
+  "checks": [
+    "CSV and strict JSON agreement",
+    "1152 finite, unique scenario/region/season/year values",
+    "Complete DJF/JJA season-year coverage and separate zero-mean historical baselines",
+    "Published grid-cell bounds span the globe",
+    "Every regional weight sum matches its analytic spherical area, including longitude wrap",
+    "Independent NumPy regional recomputation agrees with every seasonal anomaly",
+    "All seasonal fields have plausible Kelvin values",
+    "Independent NumPy polyfit reproduces all 12 default warming rates",
+    "Winter and summer have identical matching future years",
+    "Slope of seasonal anomaly gap equals difference of seasonal slopes",
+    "Six nonblank 2560\u00d71440 seasonal PNG figures"
+  ],
+  "limitations": [
+    "Raw month-boundary verification is reported separately in remote_validation.json.",
+    "Tests do not establish ensemble uncertainty or statistical significance."
+  ]
+}

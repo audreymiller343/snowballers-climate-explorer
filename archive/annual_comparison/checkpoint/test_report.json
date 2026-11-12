@@ -1,0 +1,28 @@
+{
+  "passed": true,
+  "timestamp_utc": "2026-11-04T23:41:07.133046+00:00",
+  "browser": "Installed Google Chrome, Playwright Chromium driver",
+  "checks": [
+    "Default chart: four series and calculated late-century summary",
+    "Region selection updates data, bounds and summary",
+    "Scenario toggle removes series and summary value",
+    "Time sliders filter series and calculate matching 20-year summary",
+    "Pointer hover shows matching-year exact scenario values",
+    "Keyboard arrow inspection advances the inspected year",
+    "Crossed year controls clamp to a valid noninverted interval",
+    "Empty scenario selection provides explicit usable state",
+    "Reset restores all controls and data",
+    "Historical-only window does not invent a scenario comparison",
+    "Displayed mean agrees with independently calculated fixture-free data value",
+    "390px mobile layout fits viewport and retains operable chart",
+    "Ten-slide checkpoint deck and keyboard/button navigation",
+    "Write-up, provenance, CSV and script links resolve through HTTP",
+    "No JavaScript page errors or failed HTTP asset requests"
+  ],
+  "page_errors": [],
+  "failed_http_requests": [],
+  "limitations": [
+    "Automated smoke tests do not replace screen-reader review or human usability testing.",
+    "No GitHub Pages deployment was performed."
+  ]
+}

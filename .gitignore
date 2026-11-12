@@ -1,0 +1,11 @@
+.venv/
+__pycache__/
+.DS_Store
+.cache/
+data/catalog.csv
+data/tas_catalog.csv
+data/*_annual.nc
+data/*_late_century.nc
+data/test_metadata.json
+data/*_seasonal.nc
+data/*_seasonal_late.nc

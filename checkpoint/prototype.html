@@ -1,0 +1,68 @@
+<!doctype html>
+<html lang="en">
+<head><meta name="color-scheme" content="light">
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <base href="../">
+  <title>Winter and summer warming</title>
+  <link rel="stylesheet" href="checkpoint/prototype.css">
+  <script src="vendor/d3.v7.min.js" defer></script>
+  <script src="main.js" defer></script>
+</head>
+<body>
+  <h1>Is Winter Disappearing Faster Than Summer Is Warming?</h1>
+  <p>Choose a region to compare winter and summer warming.</p>
+
+  <div class="explorer">
+    <p>
+      <label for="region">Region:</label>
+      <select id="region"></select>
+    </p>
+    <p>
+      Scenarios:
+      <label><input type="checkbox" name="scenario" value="ssp245" checked> SSP2-4.5</label>
+      <label><input type="checkbox" name="scenario" value="ssp585" checked> SSP5-8.5</label>
+    </p>
+    <p>
+      <label for="measure">Show:</label>
+      <select id="measure">
+        <option value="anomaly">Winter and summer warming</option>
+        <option value="gap">Winter minus summer warming</option>
+      </select>
+      <button id="reset" type="button">Reset</button>
+    </p>
+    <p id="bounds"></p>
+    <p id="chart-description">Temperature change (°C)</p>
+    <p class="season-legend">Solid line = winter. Dashed line = summer.</p>
+    <p>Orange = SSP2-4.5. Pink = SSP5-8.5. Gray = historical.</p>
+
+    <div id="chart"></div>
+    <p id="empty" hidden>Select a scenario to see the projections.</p>
+    <div id="tooltip" role="status" aria-live="off" hidden></div>
+
+    <p>
+      <label for="start-year">Start year: <output id="start-output">2015</output></label>
+      <input id="start-year" type="range" min="1995" max="2099" value="2015">
+    </p>
+    <p>
+      <label for="end-year">End year: <output id="end-output">2100</output></label>
+      <input id="end-year" type="range" min="1996" max="2100" value="2100">
+    </p>
+    <p>Hover over the graph for values. You can also Tab to the graph and use the arrow keys.</p>
+
+    <h2>Warming rates</h2>
+    <p>Change in °C per decade. Select at least 20 future years.</p>
+    <div id="rate-cards" aria-live="polite"></div>
+
+    <h2>Summary</h2>
+    <p id="summary" aria-live="polite">Loading data...</p>
+    <p id="error" role="alert" hidden></p>
+  </div>
+
+  <h2>Data</h2>
+  <p id="model-details"></p>
+  <p>Winter is December–February, labeled by the year it ends. Summer is June–August. Each season is compared with its own 1995–2014 average. Months are weighted by days and regions by area.</p>
+  <p>The regions include land and ocean. These results are from one model run. They show temperature change, not winter length.</p>
+  <p><a href="data/provenance.md">Data source and calculations</a> | <a href="data/temperature.csv">Download data</a></p>
+</body>
+</html>

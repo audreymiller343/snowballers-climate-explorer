@@ -1,0 +1,74 @@
+{
+  "model": "CanESM5-CanOE",
+  "member": "r1i1p2f1",
+  "grid": "gn",
+  "variable": "tas",
+  "table": "Amon",
+  "baseline": "1995\u20132014",
+  "accessed_utc": "2026-11-04T23:33:04.413820+00:00",
+  "regions": [
+    {
+      "name": "Global",
+      "south": -90,
+      "north": 90
+    },
+    {
+      "name": "Northern high latitudes",
+      "south": 60,
+      "north": 90
+    },
+    {
+      "name": "Northern midlatitudes",
+      "south": 30,
+      "north": 60
+    },
+    {
+      "name": "Tropics",
+      "south": -30,
+      "north": 30
+    },
+    {
+      "name": "Southern midlatitudes",
+      "south": -60,
+      "north": -30
+    },
+    {
+      "name": "Southern high latitudes",
+      "south": -90,
+      "north": -60
+    }
+  ],
+  "sources": [
+    {
+      "experiment": "historical",
+      "zstore": "gs://cmip6/CMIP6/CMIP/CCCma/CanESM5-CanOE/historical/r1i1p2f1/Amon/tas/gn/v20190429/",
+      "version": 20190429,
+      "calendar": "noleap",
+      "annual_sha256": "08fb102270452c9c458b70147d4905997f776ddee86a51c9f4029297fbff1154"
+    },
+    {
+      "experiment": "ssp126",
+      "zstore": "gs://cmip6/CMIP6/ScenarioMIP/CCCma/CanESM5-CanOE/ssp126/r1i1p2f1/Amon/tas/gn/v20190429/",
+      "version": 20190429,
+      "calendar": "noleap",
+      "annual_sha256": "85b53f84a94b81a5b5e4390f0b4a70c0c90bade0df4a874b02785cfd05b46ef5"
+    },
+    {
+      "experiment": "ssp245",
+      "zstore": "gs://cmip6/CMIP6/ScenarioMIP/CCCma/CanESM5-CanOE/ssp245/r1i1p2f1/Amon/tas/gn/v20190429/",
+      "version": 20190429,
+      "calendar": "noleap",
+      "annual_sha256": "da80ce05e1764c471921060a3da019f4bc6ba17ceb39eaffe07bf20ab0282c0b"
+    },
+    {
+      "experiment": "ssp585",
+      "zstore": "gs://cmip6/CMIP6/ScenarioMIP/CCCma/CanESM5-CanOE/ssp585/r1i1p2f1/Amon/tas/gn/v20190429/",
+      "version": 20190429,
+      "calendar": "noleap",
+      "annual_sha256": "e14ff42c722c22766b11203ab97b634a581292f2ccdfd7a7367fa7db79f94208"
+    }
+  ],
+  "records": 1668,
+  "method": "Monthly means weighted by calendar days within each year; equal-weight annual means for baseline and future periods. Spherical latitude-strip areas from published latitude bounds, with fractional overlap at band boundaries; equal-width longitude cells. No land mask. Anomaly subtracts each cell\u2019s 1995\u20132014 mean before spatial aggregation. Kelvin differences have the same magnitude as Celsius differences; no offset is applied to anomalies.",
+  "limitations": "One model and one realization; no ensemble uncertainty. Latitude bands include land and ocean. Historical values are simulations, not observations. Anomalies are relative to 1995\u20132014, not preindustrial."
+}

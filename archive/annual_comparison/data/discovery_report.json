@@ -1,0 +1,2798 @@
+{
+  "catalog": "https://storage.googleapis.com/cmip6/pangeo-cmip6.json",
+  "compatible_combinations": 276,
+  "policy": "One lowest-numbered complete member per model/grid is screened across all four experiments. Rank regular latitude/longitude grids by estimated uncompressed bytes touched, including time-chunk overhead. Then validate decoded coordinates, coverage, units and sample values; try subsequent candidates on failure. Byte estimates exclude compression and are approximate.",
+  "candidates": [
+    {
+      "model": "ACCESS-CM2",
+      "member": "r1i1p1f1",
+      "grid": "gn",
+      "sources": [
+        {
+          "activity_id": "ScenarioMIP",
+          "institution_id": "CSIRO-ARCCSS",
+          "source_id": "ACCESS-CM2",
+          "experiment_id": "ssp245",
+          "member_id": "r1i1p1f1",
+          "table_id": "Amon",
+          "variable_id": "tas",
+          "grid_label": "gn",
+          "zstore": "gs://cmip6/CMIP6/ScenarioMIP/CSIRO-ARCCSS/ACCESS-CM2/ssp245/r1i1p1f1/Amon/tas/gn/v20191108/",
+          "dcpp_init_year": null,
+          "version": 20191108
+        },
+        {
+          "activity_id": "CMIP",
+          "institution_id": "CSIRO-ARCCSS",
+          "source_id": "ACCESS-CM2",
+          "experiment_id": "historical",
+          "member_id": "r1i1p1f1",
+          "table_id": "Amon",
+          "variable_id": "tas",
+          "grid_label": "gn",
+          "zstore": "gs://cmip6/CMIP6/CMIP/CSIRO-ARCCSS/ACCESS-CM2/historical/r1i1p1f1/Amon/tas/gn/v20191108/",
+          "dcpp_init_year": null,
+          "version": 20191108
+        },
+        {
+          "activity_id": "ScenarioMIP",
+          "institution_id": "CSIRO-ARCCSS",
+          "source_id": "ACCESS-CM2",
+          "experiment_id": "ssp585",
+          "member_id": "r1i1p1f1",
+          "table_id": "Amon",
+          "variable_id": "tas",
+          "grid_label": "gn",
+          "zstore": "gs://cmip6/CMIP6/ScenarioMIP/CSIRO-ARCCSS/ACCESS-CM2/ssp585/r1i1p1f1/Amon/tas/gn/v20210317/",
+          "dcpp_init_year": null,
+          "version": 20210317
+        },
+        {
+          "activity_id": "ScenarioMIP",
+          "institution_id": "CSIRO-ARCCSS",
+          "source_id": "ACCESS-CM2",
+          "experiment_id": "ssp126",
+          "member_id": "r1i1p1f1",
+          "table_id": "Amon",
+          "variable_id": "tas",
+          "grid_label": "gn",
+          "zstore": "gs://cmip6/CMIP6/ScenarioMIP/CSIRO-ARCCSS/ACCESS-CM2/ssp126/r1i1p1f1/Amon/tas/gn/v20210317/",
+          "dcpp_init_year": null,
+          "version": 20210317
+        }
+      ],
+      "status": "metadata-compatible",
+      "shape": [
+        144,
+        192
+      ],
+      "estimated_uncompressed_read_bytes": 705134592
+    },
+    {
+      "model": "ACCESS-ESM1-5",
+      "member": "r31i1p1f1",
+      "grid": "gn",
+      "sources": [
+        {
+          "activity_id": "CMIP",
+          "institution_id": "CSIRO",
+          "source_id": "ACCESS-ESM1-5",
+          "experiment_id": "historical",
+          "member_id": "r31i1p1f1",
+          "table_id": "Amon",
+          "variable_id": "tas",
+          "grid_label": "gn",
+          "zstore": "gs://cmip6/CMIP6/CMIP/CSIRO/ACCESS-ESM1-5/historical/r31i1p1f1/Amon/tas/gn/v20210525/",
+          "dcpp_init_year": null,
+          "version": 20210525
+        },
+        {
+          "activity_id": "ScenarioMIP",
+          "institution_id": "CSIRO",
+          "source_id": "ACCESS-ESM1-5",
+          "experiment_id": "ssp245",
+          "member_id": "r31i1p1f1",
+          "table_id": "Amon",
+          "variable_id": "tas",
+          "grid_label": "gn",
+          "zstore": "gs://cmip6/CMIP6/ScenarioMIP/CSIRO/ACCESS-ESM1-5/ssp245/r31i1p1f1/Amon/tas/gn/v20210712/",
+          "dcpp_init_year": null,
+          "version": 20210712
+        },
+        {
+          "activity_id": "ScenarioMIP",
+          "institution_id": "CSIRO",
+          "source_id": "ACCESS-ESM1-5",
+          "experiment_id": "ssp126",
+          "member_id": "r31i1p1f1",
+          "table_id": "Amon",
+          "variable_id": "tas",
+          "grid_label": "gn",
+          "zstore": "gs://cmip6/CMIP6/ScenarioMIP/CSIRO/ACCESS-ESM1-5/ssp126/r31i1p1f1/Amon/tas/gn/v20210712/",
+          "dcpp_init_year": null,
+          "version": 20210712
+        },
+        {
+          "activity_id": "ScenarioMIP",
+          "institution_id": "CSIRO",
+          "source_id": "ACCESS-ESM1-5",
+          "experiment_id": "ssp585",
+          "member_id": "r31i1p1f1",
+          "table_id": "Amon",
+          "variable_id": "tas",
+          "grid_label": "gn",
+          "zstore": "gs://cmip6/CMIP6/ScenarioMIP/CSIRO/ACCESS-ESM1-5/ssp585/r31i1p1f1/Amon/tas/gn/v20210831/",
+          "dcpp_init_year": null,
+          "version": 20210831
+        }
+      ],
+      "status": "metadata-compatible",
+      "shape": [
+        145,
+        192
+      ],
+      "estimated_uncompressed_read_bytes": 475952640
+    },
+    {
+      "model": "AWI-CM-1-1-MR",
+      "member": "r1i1p1f1",
+      "grid": "gn",
+      "sources": [
+        {
+          "activity_id": "ScenarioMIP",
+          "institution_id": "AWI",
+          "source_id": "AWI-CM-1-1-MR",
+          "experiment_id": "ssp126",
+          "member_id": "r1i1p1f1",
+          "table_id": "Amon",
+          "variable_id": "tas",
+          "grid_label": "gn",
+          "zstore": "gs://cmip6/CMIP6/ScenarioMIP/AWI/AWI-CM-1-1-MR/ssp126/r1i1p1f1/Amon/tas/gn/v20190529/",
+          "dcpp_init_year": null,
+          "version": 20190529
+        },
+        {
+          "activity_id": "ScenarioMIP",
+          "institution_id": "AWI",
+          "source_id": "AWI-CM-1-1-MR",
+          "experiment_id": "ssp245",
+          "member_id": "r1i1p1f1",
+          "table_id": "Amon",
+          "variable_id": "tas",
+          "grid_label": "gn",
+          "zstore": "gs://cmip6/CMIP6/ScenarioMIP/AWI/AWI-CM-1-1-MR/ssp245/r1i1p1f1/Amon/tas/gn/v20190529/",
+          "dcpp_init_year": null,
+          "version": 20190529
+        },
+        {
+          "activity_id": "ScenarioMIP",
+          "institution_id": "AWI",
+          "source_id": "AWI-CM-1-1-MR",
+          "experiment_id": "ssp585",
+          "member_id": "r1i1p1f1",
+          "table_id": "Amon",
+          "variable_id": "tas",
+          "grid_label": "gn",
+          "zstore": "gs://cmip6/CMIP6/ScenarioMIP/AWI/AWI-CM-1-1-MR/ssp585/r1i1p1f1/Amon/tas/gn/v20190529/",
+          "dcpp_init_year": null,
+          "version": 20190529
+        },
+        {
+          "activity_id": "CMIP",
+          "institution_id": "AWI",
+          "source_id": "AWI-CM-1-1-MR",
+          "experiment_id": "historical",
+          "member_id": "r1i1p1f1",
+          "table_id": "Amon",
+          "variable_id": "tas",
+          "grid_label": "gn",
+          "zstore": "gs://cmip6/CMIP6/CMIP/AWI/AWI-CM-1-1-MR/historical/r1i1p1f1/Amon/tas/gn/v20200720/",
+          "dcpp_init_year": null,
+          "version": 20200720
+        }
+      ],
+      "status": "metadata-compatible",
+      "shape": [
+        192,
+        384
+      ],
+      "estimated_uncompressed_read_bytes": 1105920000
+    },
+    {
+      "model": "BCC-CSM2-MR",
+      "member": "r1i1p1f1",
+      "grid": "gn",
+      "sources": [
+        {
+          "activity_id": "CMIP",
+          "institution_id": "BCC",
+          "source_id": "BCC-CSM2-MR",
+          "experiment_id": "historical",
+          "member_id": "r1i1p1f1",
+          "table_id": "Amon",
+          "variable_id": "tas",
+          "grid_label": "gn",
+          "zstore": "gs://cmip6/CMIP6/CMIP/BCC/BCC-CSM2-MR/historical/r1i1p1f1/Amon/tas/gn/v20181126/",
+          "dcpp_init_year": null,
+          "version": 20181126
+        },
+        {
+          "activity_id": "ScenarioMIP",
+          "institution_id": "BCC",
+          "source_id": "BCC-CSM2-MR",
+          "experiment_id": "ssp126",
+          "member_id": "r1i1p1f1",
+          "table_id": "Amon",
+          "variable_id": "tas",
+          "grid_label": "gn",
+          "zstore": "gs://cmip6/CMIP6/ScenarioMIP/BCC/BCC-CSM2-MR/ssp126/r1i1p1f1/Amon/tas/gn/v20190314/",
+          "dcpp_init_year": null,
+          "version": 20190314
+        },
+        {
+          "activity_id": "ScenarioMIP",
+          "institution_id": "BCC",
+          "source_id": "BCC-CSM2-MR",
+          "experiment_id": "ssp245",
+          "member_id": "r1i1p1f1",
+          "table_id": "Amon",
+          "variable_id": "tas",
+          "grid_label": "gn",
+          "zstore": "gs://cmip6/CMIP6/ScenarioMIP/BCC/BCC-CSM2-MR/ssp245/r1i1p1f1/Amon/tas/gn/v20190314/",
+          "dcpp_init_year": null,
+          "version": 20190314
+        },
+        {
+          "activity_id": "ScenarioMIP",
+          "institution_id": "BCC",
+          "source_id": "BCC-CSM2-MR",
+          "experiment_id": "ssp585",
+          "member_id": "r1i1p1f1",
+          "table_id": "Amon",
+          "variable_id": "tas",
+          "grid_label": "gn",
+          "zstore": "gs://cmip6/CMIP6/ScenarioMIP/BCC/BCC-CSM2-MR/ssp585/r1i1p1f1/Amon/tas/gn/v20190314/",
+          "dcpp_init_year": null,
+          "version": 20190314
+        }
+      ],
+      "status": "metadata-compatible",
+      "shape": [
+        160,
+        320
+      ],
+      "estimated_uncompressed_read_bytes": 879820800
+    },
+    {
+      "model": "CAMS-CSM1-0",
+      "member": "r1i1p1f1",
+      "grid": "gn",
+      "sources": [
+        {
+          "activity_id": "ScenarioMIP",
+          "institution_id": "CAMS",
+          "source_id": "CAMS-CSM1-0",
+          "experiment_id": "ssp585",
+          "member_id": "r1i1p1f1",
+          "table_id": "Amon",
+          "variable_id": "tas",
+          "grid_label": "gn",
+          "zstore": "gs://cmip6/CMIP6/ScenarioMIP/CAMS/CAMS-CSM1-0/ssp585/r1i1p1f1/Amon/tas/gn/v20190708/",
+          "dcpp_init_year": null,
+          "version": 20190708
+        },
+        {
+          "activity_id": "CMIP",
+          "institution_id": "CAMS",
+          "source_id": "CAMS-CSM1-0",
+          "experiment_id": "historical",
+          "member_id": "r1i1p1f1",
+          "table_id": "Amon",
+          "variable_id": "tas",
+          "grid_label": "gn",
+          "zstore": "gs://cmip6/CMIP6/CMIP/CAMS/CAMS-CSM1-0/historical/r1i1p1f1/Amon/tas/gn/v20190708/",
+          "dcpp_init_year": null,
+          "version": 20190708
+        },
+        {
+          "activity_id": "ScenarioMIP",
+          "institution_id": "CAMS",
+          "source_id": "CAMS-CSM1-0",
+          "experiment_id": "ssp245",
+          "member_id": "r1i1p1f1",
+          "table_id": "Amon",
+          "variable_id": "tas",
+          "grid_label": "gn",
+          "zstore": "gs://cmip6/CMIP6/ScenarioMIP/CAMS/CAMS-CSM1-0/ssp245/r1i1p1f1/Amon/tas/gn/v20190708/",
+          "dcpp_init_year": null,
+          "version": 20190708
+        },
+        {
+          "activity_id": "ScenarioMIP",
+          "institution_id": "CAMS",
+          "source_id": "CAMS-CSM1-0",
+          "experiment_id": "ssp126",
+          "member_id": "r1i1p1f1",
+          "table_id": "Amon",
+          "variable_id": "tas",
+          "grid_label": "gn",
+          "zstore": "gs://cmip6/CMIP6/ScenarioMIP/CAMS/CAMS-CSM1-0/ssp126/r1i1p1f1/Amon/tas/gn/v20190708/",
+          "dcpp_init_year": null,
+          "version": 20190708
+        }
+      ],
+      "status": "metadata-compatible",
+      "shape": [
+        160,
+        320
+      ],
+      "estimated_uncompressed_read_bytes": 872448000
+    },
+    {
+      "model": "CAS-ESM2-0",
+      "member": "r1i1p1f1",
+      "grid": "gn",
+      "sources": [
+        {
+          "activity_id": "CMIP",
+          "institution_id": "CAS",
+          "source_id": "CAS-ESM2-0",
+          "experiment_id": "historical",
+          "member_id": "r1i1p1f1",
+          "table_id": "Amon",
+          "variable_id": "tas",
+          "grid_label": "gn",
+          "zstore": "gs://cmip6/CMIP6/CMIP/CAS/CAS-ESM2-0/historical/r1i1p1f1/Amon/tas/gn/v20201227/",
+          "dcpp_init_year": null,
+          "version": 20201227
+        },
+        {
+          "activity_id": "ScenarioMIP",
+          "institution_id": "CAS",
+          "source_id": "CAS-ESM2-0",
+          "experiment_id": "ssp585",
+          "member_id": "r1i1p1f1",
+          "table_id": "Amon",
+          "variable_id": "tas",
+          "grid_label": "gn",
+          "zstore": "gs://cmip6/CMIP6/ScenarioMIP/CAS/CAS-ESM2-0/ssp585/r1i1p1f1/Amon/tas/gn/v20201228/",
+          "dcpp_init_year": null,
+          "version": 20201228
+        },
+        {
+          "activity_id": "ScenarioMIP",
+          "institution_id": "CAS",
+          "source_id": "CAS-ESM2-0",
+          "experiment_id": "ssp245",
+          "member_id": "r1i1p1f1",
+          "table_id": "Amon",
+          "variable_id": "tas",
+          "grid_label": "gn",
+          "zstore": "gs://cmip6/CMIP6/ScenarioMIP/CAS/CAS-ESM2-0/ssp245/r1i1p1f1/Amon/tas/gn/v20201228/",
+          "dcpp_init_year": null,
+          "version": 20201228
+        },
+        {
+          "activity_id": "ScenarioMIP",
+          "institution_id": "CAS",
+          "source_id": "CAS-ESM2-0",
+          "experiment_id": "ssp126",
+          "member_id": "r1i1p1f1",
+          "table_id": "Amon",
+          "variable_id": "tas",
+          "grid_label": "gn",
+          "zstore": "gs://cmip6/CMIP6/ScenarioMIP/CAS/CAS-ESM2-0/ssp126/r1i1p1f1/Amon/tas/gn/v20201228/",
+          "dcpp_init_year": null,
+          "version": 20201228
+        }
+      ],
+      "status": "metadata-compatible",
+      "shape": [
+        128,
+        256
+      ],
+      "estimated_uncompressed_read_bytes": 505675776
+    },
+    {
+      "model": "CESM2",
+      "member": "r4i1p1f1",
+      "grid": "gn",
+      "sources": [
+        {
+          "activity_id": "CMIP",
+          "institution_id": "NCAR",
+          "source_id": "CESM2",
+          "experiment_id": "historical",
+          "member_id": "r4i1p1f1",
+          "table_id": "Amon",
+          "variable_id": "tas",
+          "grid_label": "gn",
+          "zstore": "gs://cmip6/CMIP6/CMIP/NCAR/CESM2/historical/r4i1p1f1/Amon/tas/gn/v20190308/",
+          "dcpp_init_year": null,
+          "version": 20190308
+        },
+        {
+          "activity_id": "ScenarioMIP",
+          "institution_id": "NCAR",
+          "source_id": "CESM2",
+          "experiment_id": "ssp126",
+          "member_id": "r4i1p1f1",
+          "table_id": "Amon",
+          "variable_id": "tas",
+          "grid_label": "gn",
+          "zstore": "gs://cmip6/CMIP6/ScenarioMIP/NCAR/CESM2/ssp126/r4i1p1f1/Amon/tas/gn/v20200528/",
+          "dcpp_init_year": null,
+          "version": 20200528
+        },
+        {
+          "activity_id": "ScenarioMIP",
+          "institution_id": "NCAR",
+          "source_id": "CESM2",
+          "experiment_id": "ssp585",
+          "member_id": "r4i1p1f1",
+          "table_id": "Amon",
+          "variable_id": "tas",
+          "grid_label": "gn",
+          "zstore": "gs://cmip6/CMIP6/ScenarioMIP/NCAR/CESM2/ssp585/r4i1p1f1/Amon/tas/gn/v20200528/",
+          "dcpp_init_year": null,
+          "version": 20200528
+        },
+        {
+          "activity_id": "ScenarioMIP",
+          "institution_id": "NCAR",
+          "source_id": "CESM2",
+          "experiment_id": "ssp245",
+          "member_id": "r4i1p1f1",
+          "table_id": "Amon",
+          "variable_id": "tas",
+          "grid_label": "gn",
+          "zstore": "gs://cmip6/CMIP6/ScenarioMIP/NCAR/CESM2/ssp245/r4i1p1f1/Amon/tas/gn/v20200528/",
+          "dcpp_init_year": null,
+          "version": 20200528
+        }
+      ],
+      "status": "metadata-compatible",
+      "shape": [
+        192,
+        288
+      ],
+      "estimated_uncompressed_read_bytes": 950206464
+    },
+    {
+      "model": "CESM2-WACCM",
+      "member": "r1i1p1f1",
+      "grid": "gn",
+      "sources": [
+        {
+          "activity_id": "CMIP",
+          "institution_id": "NCAR",
+          "source_id": "CESM2-WACCM",
+          "experiment_id": "historical",
+          "member_id": "r1i1p1f1",
+          "table_id": "Amon",
+          "variable_id": "tas",
+          "grid_label": "gn",
+          "zstore": "gs://cmip6/CMIP6/CMIP/NCAR/CESM2-WACCM/historical/r1i1p1f1/Amon/tas/gn/v20190227/",
+          "dcpp_init_year": null,
+          "version": 20190227
+        },
+        {
+          "activity_id": "ScenarioMIP",
+          "institution_id": "NCAR",
+          "source_id": "CESM2-WACCM",
+          "experiment_id": "ssp245",
+          "member_id": "r1i1p1f1",
+          "table_id": "Amon",
+          "variable_id": "tas",
+          "grid_label": "gn",
+          "zstore": "gs://cmip6/CMIP6/ScenarioMIP/NCAR/CESM2-WACCM/ssp245/r1i1p1f1/Amon/tas/gn/v20190815/",
+          "dcpp_init_year": null,
+          "version": 20190815
+        },
+        {
+          "activity_id": "ScenarioMIP",
+          "institution_id": "NCAR",
+          "source_id": "CESM2-WACCM",
+          "experiment_id": "ssp585",
+          "member_id": "r1i1p1f1",
+          "table_id": "Amon",
+          "variable_id": "tas",
+          "grid_label": "gn",
+          "zstore": "gs://cmip6/CMIP6/ScenarioMIP/NCAR/CESM2-WACCM/ssp585/r1i1p1f1/Amon/tas/gn/v20200702/",
+          "dcpp_init_year": null,
+          "version": 20200702
+        },
+        {
+          "activity_id": "ScenarioMIP",
+          "institution_id": "NCAR",
+          "source_id": "CESM2-WACCM",
+          "experiment_id": "ssp126",
+          "member_id": "r1i1p1f1",
+          "table_id": "Amon",
+          "variable_id": "tas",
+          "grid_label": "gn",
+          "zstore": "gs://cmip6/CMIP6/ScenarioMIP/NCAR/CESM2-WACCM/ssp126/r1i1p1f1/Amon/tas/gn/v20210211/",
+          "dcpp_init_year": null,
+          "version": 20210211
+        }
+      ],
+      "status": "metadata-compatible",
+      "shape": [
+        192,
+        288
+      ],
+      "estimated_uncompressed_read_bytes": 1082916864
+    },
+    {
+      "model": "CIESM",
+      "member": "r1i1p1f1",
+      "grid": "gr",
+      "sources": [
+        {
+          "activity_id": "ScenarioMIP",
+          "institution_id": "THU",
+          "source_id": "CIESM",
+          "experiment_id": "ssp126",
+          "member_id": "r1i1p1f1",
+          "table_id": "Amon",
+          "variable_id": "tas",
+          "grid_label": "gr",
+          "zstore": "gs://cmip6/CMIP6/ScenarioMIP/THU/CIESM/ssp126/r1i1p1f1/Amon/tas/gr/v20200417/",
+          "dcpp_init_year": null,
+          "version": 20200417
+        },
+        {
+          "activity_id": "CMIP",
+          "institution_id": "THU",
+          "source_id": "CIESM",
+          "experiment_id": "historical",
+          "member_id": "r1i1p1f1",
+          "table_id": "Amon",
+          "variable_id": "tas",
+          "grid_label": "gr",
+          "zstore": "gs://cmip6/CMIP6/CMIP/THU/CIESM/historical/r1i1p1f1/Amon/tas/gr/v20200417/",
+          "dcpp_init_year": null,
+          "version": 20200417
+        },
+        {
+          "activity_id": "ScenarioMIP",
+          "institution_id": "THU",
+          "source_id": "CIESM",
+          "experiment_id": "ssp245",
+          "member_id": "r1i1p1f1",
+          "table_id": "Amon",
+          "variable_id": "tas",
+          "grid_label": "gr",
+          "zstore": "gs://cmip6/CMIP6/ScenarioMIP/THU/CIESM/ssp245/r1i1p1f1/Amon/tas/gr/v20200417/",
+          "dcpp_init_year": null,
+          "version": 20200417
+        },
+        {
+          "activity_id": "ScenarioMIP",
+          "institution_id": "THU",
+          "source_id": "CIESM",
+          "experiment_id": "ssp585",
+          "member_id": "r1i1p1f1",
+          "table_id": "Amon",
+          "variable_id": "tas",
+          "grid_label": "gr",
+          "zstore": "gs://cmip6/CMIP6/ScenarioMIP/THU/CIESM/ssp585/r1i1p1f1/Amon/tas/gr/v20200605/",
+          "dcpp_init_year": null,
+          "version": 20200605
+        }
+      ],
+      "status": "metadata-compatible",
+      "shape": [
+        192,
+        288
+      ],
+      "estimated_uncompressed_read_bytes": 818380800
+    },
+    {
+      "model": "CMCC-CM2-SR5",
+      "member": "r1i1p1f1",
+      "grid": "gn",
+      "sources": [
+        {
+          "activity_id": "CMIP",
+          "institution_id": "CMCC",
+          "source_id": "CMCC-CM2-SR5",
+          "experiment_id": "historical",
+          "member_id": "r1i1p1f1",
+          "table_id": "Amon",
+          "variable_id": "tas",
+          "grid_label": "gn",
+          "zstore": "gs://cmip6/CMIP6/CMIP/CMCC/CMCC-CM2-SR5/historical/r1i1p1f1/Amon/tas/gn/v20200616/",
+          "dcpp_init_year": null,
+          "version": 20200616
+        },
+        {
+          "activity_id": "ScenarioMIP",
+          "institution_id": "CMCC",
+          "source_id": "CMCC-CM2-SR5",
+          "experiment_id": "ssp245",
+          "member_id": "r1i1p1f1",
+          "table_id": "Amon",
+          "variable_id": "tas",
+          "grid_label": "gn",
+          "zstore": "gs://cmip6/CMIP6/ScenarioMIP/CMCC/CMCC-CM2-SR5/ssp245/r1i1p1f1/Amon/tas/gn/v20200617/",
+          "dcpp_init_year": null,
+          "version": 20200617
+        },
+        {
+          "activity_id": "ScenarioMIP",
+          "institution_id": "CMCC",
+          "source_id": "CMCC-CM2-SR5",
+          "experiment_id": "ssp585",
+          "member_id": "r1i1p1f1",
+          "table_id": "Amon",
+          "variable_id": "tas",
+          "grid_label": "gn",
+          "zstore": "gs://cmip6/CMIP6/ScenarioMIP/CMCC/CMCC-CM2-SR5/ssp585/r1i1p1f1/Amon/tas/gn/v20200622/",
+          "dcpp_init_year": null,
+          "version": 20200622
+        },
+        {
+          "activity_id": "ScenarioMIP",
+          "institution_id": "CMCC",
+          "source_id": "CMCC-CM2-SR5",
+          "experiment_id": "ssp126",
+          "member_id": "r1i1p1f1",
+          "table_id": "Amon",
+          "variable_id": "tas",
+          "grid_label": "gn",
+          "zstore": "gs://cmip6/CMIP6/ScenarioMIP/CMCC/CMCC-CM2-SR5/ssp126/r1i1p1f1/Amon/tas/gn/v20200717/",
+          "dcpp_init_year": null,
+          "version": 20200717
+        }
+      ],
+      "status": "metadata-compatible",
+      "shape": [
+        192,
+        288
+      ],
+      "estimated_uncompressed_read_bytes": 863502336
+    },
+    {
+      "model": "CMCC-ESM2",
+      "member": "r1i1p1f1",
+      "grid": "gn",
+      "sources": [
+        {
+          "activity_id": "CMIP",
+          "institution_id": "CMCC",
+          "source_id": "CMCC-ESM2",
+          "experiment_id": "historical",
+          "member_id": "r1i1p1f1",
+          "table_id": "Amon",
+          "variable_id": "tas",
+          "grid_label": "gn",
+          "zstore": "gs://cmip6/CMIP6/CMIP/CMCC/CMCC-ESM2/historical/r1i1p1f1/Amon/tas/gn/v20210114/",
+          "dcpp_init_year": null,
+          "version": 20210114
+        },
+        {
+          "activity_id": "ScenarioMIP",
+          "institution_id": "CMCC",
+          "source_id": "CMCC-ESM2",
+          "experiment_id": "ssp126",
+          "member_id": "r1i1p1f1",
+          "table_id": "Amon",
+          "variable_id": "tas",
+          "grid_label": "gn",
+          "zstore": "gs://cmip6/CMIP6/ScenarioMIP/CMCC/CMCC-ESM2/ssp126/r1i1p1f1/Amon/tas/gn/v20210126/",
+          "dcpp_init_year": null,
+          "version": 20210126
+        },
+        {
+          "activity_id": "ScenarioMIP",
+          "institution_id": "CMCC",
+          "source_id": "CMCC-ESM2",
+          "experiment_id": "ssp585",
+          "member_id": "r1i1p1f1",
+          "table_id": "Amon",
+          "variable_id": "tas",
+          "grid_label": "gn",
+          "zstore": "gs://cmip6/CMIP6/ScenarioMIP/CMCC/CMCC-ESM2/ssp585/r1i1p1f1/Amon/tas/gn/v20210126/",
+          "dcpp_init_year": null,
+          "version": 20210126
+        },
+        {
+          "activity_id": "ScenarioMIP",
+          "institution_id": "CMCC",
+          "source_id": "CMCC-ESM2",
+          "experiment_id": "ssp245",
+          "member_id": "r1i1p1f1",
+          "table_id": "Amon",
+          "variable_id": "tas",
+          "grid_label": "gn",
+          "zstore": "gs://cmip6/CMIP6/ScenarioMIP/CMCC/CMCC-ESM2/ssp245/r1i1p1f1/Amon/tas/gn/v20210129/",
+          "dcpp_init_year": null,
+          "version": 20210129
+        }
+      ],
+      "status": "metadata-compatible",
+      "shape": [
+        192,
+        288
+      ],
+      "estimated_uncompressed_read_bytes": 863502336
+    },
+    {
+      "model": "CNRM-CM6-1",
+      "member": "r1i1p1f2",
+      "grid": "gr",
+      "sources": [
+        {
+          "activity_id": "CMIP",
+          "institution_id": "CNRM-CERFACS",
+          "source_id": "CNRM-CM6-1",
+          "experiment_id": "historical",
+          "member_id": "r1i1p1f2",
+          "table_id": "Amon",
+          "variable_id": "tas",
+          "grid_label": "gr",
+          "zstore": "gs://cmip6/CMIP6/CMIP/CNRM-CERFACS/CNRM-CM6-1/historical/r1i1p1f2/Amon/tas/gr/v20180917/",
+          "dcpp_init_year": null,
+          "version": 20180917
+        },
+        {
+          "activity_id": "ScenarioMIP",
+          "institution_id": "CNRM-CERFACS",
+          "source_id": "CNRM-CM6-1",
+          "experiment_id": "ssp585",
+          "member_id": "r1i1p1f2",
+          "table_id": "Amon",
+          "variable_id": "tas",
+          "grid_label": "gr",
+          "zstore": "gs://cmip6/CMIP6/ScenarioMIP/CNRM-CERFACS/CNRM-CM6-1/ssp585/r1i1p1f2/Amon/tas/gr/v20190219/",
+          "dcpp_init_year": null,
+          "version": 20190219
+        },
+        {
+          "activity_id": "ScenarioMIP",
+          "institution_id": "CNRM-CERFACS",
+          "source_id": "CNRM-CM6-1",
+          "experiment_id": "ssp126",
+          "member_id": "r1i1p1f2",
+          "table_id": "Amon",
+          "variable_id": "tas",
+          "grid_label": "gr",
+          "zstore": "gs://cmip6/CMIP6/ScenarioMIP/CNRM-CERFACS/CNRM-CM6-1/ssp126/r1i1p1f2/Amon/tas/gr/v20190219/",
+          "dcpp_init_year": null,
+          "version": 20190219
+        },
+        {
+          "activity_id": "ScenarioMIP",
+          "institution_id": "CNRM-CERFACS",
+          "source_id": "CNRM-CM6-1",
+          "experiment_id": "ssp245",
+          "member_id": "r1i1p1f2",
+          "table_id": "Amon",
+          "variable_id": "tas",
+          "grid_label": "gr",
+          "zstore": "gs://cmip6/CMIP6/ScenarioMIP/CNRM-CERFACS/CNRM-CM6-1/ssp245/r1i1p1f2/Amon/tas/gr/v20190219/",
+          "dcpp_init_year": null,
+          "version": 20190219
+        }
+      ],
+      "status": "metadata-compatible",
+      "shape": [
+        128,
+        256
+      ],
+      "estimated_uncompressed_read_bytes": 563085312
+    },
+    {
+      "model": "CNRM-CM6-1-HR",
+      "member": "r1i1p1f2",
+      "grid": "gr",
+      "sources": [
+        {
+          "activity_id": "CMIP",
+          "institution_id": "CNRM-CERFACS",
+          "source_id": "CNRM-CM6-1-HR",
+          "experiment_id": "historical",
+          "member_id": "r1i1p1f2",
+          "table_id": "Amon",
+          "variable_id": "tas",
+          "grid_label": "gr",
+          "zstore": "gs://cmip6/CMIP6/CMIP/CNRM-CERFACS/CNRM-CM6-1-HR/historical/r1i1p1f2/Amon/tas/gr/v20191021/",
+          "dcpp_init_year": null,
+          "version": 20191021
+        },
+        {
+          "activity_id": "ScenarioMIP",
+          "institution_id": "CNRM-CERFACS",
+          "source_id": "CNRM-CM6-1-HR",
+          "experiment_id": "ssp585",
+          "member_id": "r1i1p1f2",
+          "table_id": "Amon",
+          "variable_id": "tas",
+          "grid_label": "gr",
+          "zstore": "gs://cmip6/CMIP6/ScenarioMIP/CNRM-CERFACS/CNRM-CM6-1-HR/ssp585/r1i1p1f2/Amon/tas/gr/v20191202/",
+          "dcpp_init_year": null,
+          "version": 20191202
+        },
+        {
+          "activity_id": "ScenarioMIP",
+          "institution_id": "CNRM-CERFACS",
+          "source_id": "CNRM-CM6-1-HR",
+          "experiment_id": "ssp245",
+          "member_id": "r1i1p1f2",
+          "table_id": "Amon",
+          "variable_id": "tas",
+          "grid_label": "gr",
+          "zstore": "gs://cmip6/CMIP6/ScenarioMIP/CNRM-CERFACS/CNRM-CM6-1-HR/ssp245/r1i1p1f2/Amon/tas/gr/v20191202/",
+          "dcpp_init_year": null,
+          "version": 20191202
+        },
+        {
+          "activity_id": "ScenarioMIP",
+          "institution_id": "CNRM-CERFACS",
+          "source_id": "CNRM-CM6-1-HR",
+          "experiment_id": "ssp126",
+          "member_id": "r1i1p1f2",
+          "table_id": "Amon",
+          "variable_id": "tas",
+          "grid_label": "gr",
+          "zstore": "gs://cmip6/CMIP6/ScenarioMIP/CNRM-CERFACS/CNRM-CM6-1-HR/ssp126/r1i1p1f2/Amon/tas/gr/v20200127/",
+          "dcpp_init_year": null,
+          "version": 20200127
+        }
+      ],
+      "status": "metadata-compatible",
+      "shape": [
+        360,
+        720
+      ],
+      "estimated_uncompressed_read_bytes": 3608064000
+    },
+    {
+      "model": "CNRM-ESM2-1",
+      "member": "r1i1p1f2",
+      "grid": "gr",
+      "sources": [
+        {
+          "activity_id": "CMIP",
+          "institution_id": "CNRM-CERFACS",
+          "source_id": "CNRM-ESM2-1",
+          "experiment_id": "historical",
+          "member_id": "r1i1p1f2",
+          "table_id": "Amon",
+          "variable_id": "tas",
+          "grid_label": "gr",
+          "zstore": "gs://cmip6/CMIP6/CMIP/CNRM-CERFACS/CNRM-ESM2-1/historical/r1i1p1f2/Amon/tas/gr/v20181206/",
+          "dcpp_init_year": null,
+          "version": 20181206
+        },
+        {
+          "activity_id": "ScenarioMIP",
+          "institution_id": "CNRM-CERFACS",
+          "source_id": "CNRM-ESM2-1",
+          "experiment_id": "ssp245",
+          "member_id": "r1i1p1f2",
+          "table_id": "Amon",
+          "variable_id": "tas",
+          "grid_label": "gr",
+          "zstore": "gs://cmip6/CMIP6/ScenarioMIP/CNRM-CERFACS/CNRM-ESM2-1/ssp245/r1i1p1f2/Amon/tas/gr/v20190328/",
+          "dcpp_init_year": null,
+          "version": 20190328
+        },
+        {
+          "activity_id": "ScenarioMIP",
+          "institution_id": "CNRM-CERFACS",
+          "source_id": "CNRM-ESM2-1",
+          "experiment_id": "ssp126",
+          "member_id": "r1i1p1f2",
+          "table_id": "Amon",
+          "variable_id": "tas",
+          "grid_label": "gr",
+          "zstore": "gs://cmip6/CMIP6/ScenarioMIP/CNRM-CERFACS/CNRM-ESM2-1/ssp126/r1i1p1f2/Amon/tas/gr/v20190328/",
+          "dcpp_init_year": null,
+          "version": 20190328
+        },
+        {
+          "activity_id": "ScenarioMIP",
+          "institution_id": "CNRM-CERFACS",
+          "source_id": "CNRM-ESM2-1",
+          "experiment_id": "ssp585",
+          "member_id": "r1i1p1f2",
+          "table_id": "Amon",
+          "variable_id": "tas",
+          "grid_label": "gr",
+          "zstore": "gs://cmip6/CMIP6/ScenarioMIP/CNRM-CERFACS/CNRM-ESM2-1/ssp585/r1i1p1f2/Amon/tas/gr/v20191021/",
+          "dcpp_init_year": null,
+          "version": 20191021
+        }
+      ],
+      "status": "metadata-compatible",
+      "shape": [
+        128,
+        256
+      ],
+      "estimated_uncompressed_read_bytes": 563085312
+    },
+    {
+      "model": "CanESM5",
+      "member": "r1i1p1f1",
+      "grid": "gn",
+      "sources": [
+        {
+          "activity_id": "ScenarioMIP",
+          "institution_id": "CCCma",
+          "source_id": "CanESM5",
+          "experiment_id": "ssp585",
+          "member_id": "r1i1p1f1",
+          "table_id": "Amon",
+          "variable_id": "tas",
+          "grid_label": "gn",
+          "zstore": "gs://cmip6/CMIP6/ScenarioMIP/CCCma/CanESM5/ssp585/r1i1p1f1/Amon/tas/gn/v20190429/",
+          "dcpp_init_year": null,
+          "version": 20190429
+        },
+        {
+          "activity_id": "CMIP",
+          "institution_id": "CCCma",
+          "source_id": "CanESM5",
+          "experiment_id": "historical",
+          "member_id": "r1i1p1f1",
+          "table_id": "Amon",
+          "variable_id": "tas",
+          "grid_label": "gn",
+          "zstore": "gs://cmip6/CMIP6/CMIP/CCCma/CanESM5/historical/r1i1p1f1/Amon/tas/gn/v20190429/",
+          "dcpp_init_year": null,
+          "version": 20190429
+        },
+        {
+          "activity_id": "ScenarioMIP",
+          "institution_id": "CCCma",
+          "source_id": "CanESM5",
+          "experiment_id": "ssp245",
+          "member_id": "r1i1p1f1",
+          "table_id": "Amon",
+          "variable_id": "tas",
+          "grid_label": "gn",
+          "zstore": "gs://cmip6/CMIP6/ScenarioMIP/CCCma/CanESM5/ssp245/r1i1p1f1/Amon/tas/gn/v20190429/",
+          "dcpp_init_year": null,
+          "version": 20190429
+        },
+        {
+          "activity_id": "ScenarioMIP",
+          "institution_id": "CCCma",
+          "source_id": "CanESM5",
+          "experiment_id": "ssp126",
+          "member_id": "r1i1p1f1",
+          "table_id": "Amon",
+          "variable_id": "tas",
+          "grid_label": "gn",
+          "zstore": "gs://cmip6/CMIP6/ScenarioMIP/CCCma/CanESM5/ssp126/r1i1p1f1/Amon/tas/gn/v20190429/",
+          "dcpp_init_year": null,
+          "version": 20190429
+        }
+      ],
+      "status": "metadata-compatible",
+      "shape": [
+        64,
+        128
+      ],
+      "estimated_uncompressed_read_bytes": 244580352
+    },
+    {
+      "model": "CanESM5-CanOE",
+      "member": "r1i1p2f1",
+      "grid": "gn",
+      "sources": [
+        {
+          "activity_id": "CMIP",
+          "institution_id": "CCCma",
+          "source_id": "CanESM5-CanOE",
+          "experiment_id": "historical",
+          "member_id": "r1i1p2f1",
+          "table_id": "Amon",
+          "variable_id": "tas",
+          "grid_label": "gn",
+          "zstore": "gs://cmip6/CMIP6/CMIP/CCCma/CanESM5-CanOE/historical/r1i1p2f1/Amon/tas/gn/v20190429/",
+          "dcpp_init_year": null,
+          "version": 20190429
+        },
+        {
+          "activity_id": "ScenarioMIP",
+          "institution_id": "CCCma",
+          "source_id": "CanESM5-CanOE",
+          "experiment_id": "ssp585",
+          "member_id": "r1i1p2f1",
+          "table_id": "Amon",
+          "variable_id": "tas",
+          "grid_label": "gn",
+          "zstore": "gs://cmip6/CMIP6/ScenarioMIP/CCCma/CanESM5-CanOE/ssp585/r1i1p2f1/Amon/tas/gn/v20190429/",
+          "dcpp_init_year": null,
+          "version": 20190429
+        },
+        {
+          "activity_id": "ScenarioMIP",
+          "institution_id": "CCCma",
+          "source_id": "CanESM5-CanOE",
+          "experiment_id": "ssp245",
+          "member_id": "r1i1p2f1",
+          "table_id": "Amon",
+          "variable_id": "tas",
+          "grid_label": "gn",
+          "zstore": "gs://cmip6/CMIP6/ScenarioMIP/CCCma/CanESM5-CanOE/ssp245/r1i1p2f1/Amon/tas/gn/v20190429/",
+          "dcpp_init_year": null,
+          "version": 20190429
+        },
+        {
+          "activity_id": "ScenarioMIP",
+          "institution_id": "CCCma",
+          "source_id": "CanESM5-CanOE",
+          "experiment_id": "ssp126",
+          "member_id": "r1i1p2f1",
+          "table_id": "Amon",
+          "variable_id": "tas",
+          "grid_label": "gn",
+          "zstore": "gs://cmip6/CMIP6/ScenarioMIP/CCCma/CanESM5-CanOE/ssp126/r1i1p2f1/Amon/tas/gn/v20190429/",
+          "dcpp_init_year": null,
+          "version": 20190429
+        }
+      ],
+      "status": "metadata-compatible",
+      "shape": [
+        64,
+        128
+      ],
+      "estimated_uncompressed_read_bytes": 166330368
+    },
+    {
+      "model": "EC-Earth3",
+      "member": "r1i1p1f1",
+      "grid": "gr",
+      "sources": [
+        {
+          "activity_id": "ScenarioMIP",
+          "institution_id": "EC-Earth-Consortium",
+          "source_id": "EC-Earth3",
+          "experiment_id": "ssp585",
+          "member_id": "r1i1p1f1",
+          "table_id": "Amon",
+          "variable_id": "tas",
+          "grid_label": "gr",
+          "zstore": "gs://cmip6/CMIP6/ScenarioMIP/EC-Earth-Consortium/EC-Earth3/ssp585/r1i1p1f1/Amon/tas/gr/v20200310/",
+          "dcpp_init_year": null,
+          "version": 20200310
+        },
+        {
+          "activity_id": "CMIP",
+          "institution_id": "EC-Earth-Consortium",
+          "source_id": "EC-Earth3",
+          "experiment_id": "historical",
+          "member_id": "r1i1p1f1",
+          "table_id": "Amon",
+          "variable_id": "tas",
+          "grid_label": "gr",
+          "zstore": "gs://cmip6/CMIP6/CMIP/EC-Earth-Consortium/EC-Earth3/historical/r1i1p1f1/Amon/tas/gr/v20200310/",
+          "dcpp_init_year": null,
+          "version": 20200310
+        },
+        {
+          "activity_id": "ScenarioMIP",
+          "institution_id": "EC-Earth-Consortium",
+          "source_id": "EC-Earth3",
+          "experiment_id": "ssp245",
+          "member_id": "r1i1p1f1",
+          "table_id": "Amon",
+          "variable_id": "tas",
+          "grid_label": "gr",
+          "zstore": "gs://cmip6/CMIP6/ScenarioMIP/EC-Earth-Consortium/EC-Earth3/ssp245/r1i1p1f1/Amon/tas/gr/v20200310/",
+          "dcpp_init_year": null,
+          "version": 20200310
+        },
+        {
+          "activity_id": "ScenarioMIP",
+          "institution_id": "EC-Earth-Consortium",
+          "source_id": "EC-Earth3",
+          "experiment_id": "ssp126",
+          "member_id": "r1i1p1f1",
+          "table_id": "Amon",
+          "variable_id": "tas",
+          "grid_label": "gr",
+          "zstore": "gs://cmip6/CMIP6/ScenarioMIP/EC-Earth-Consortium/EC-Earth3/ssp126/r1i1p1f1/Amon/tas/gr/v20200310/",
+          "dcpp_init_year": null,
+          "version": 20200310
+        }
+      ],
+      "status": "metadata-compatible",
+      "shape": [
+        256,
+        512
+      ],
+      "estimated_uncompressed_read_bytes": 1821376512
+    },
+    {
+      "model": "EC-Earth3-Veg",
+      "member": "r1i1p1f1",
+      "grid": "gr",
+      "sources": [
+        {
+          "activity_id": "ScenarioMIP",
+          "institution_id": "EC-Earth-Consortium",
+          "source_id": "EC-Earth3-Veg",
+          "experiment_id": "ssp585",
+          "member_id": "r1i1p1f1",
+          "table_id": "Amon",
+          "variable_id": "tas",
+          "grid_label": "gr",
+          "zstore": "gs://cmip6/CMIP6/ScenarioMIP/EC-Earth-Consortium/EC-Earth3-Veg/ssp585/r1i1p1f1/Amon/tas/gr/v20200225/",
+          "dcpp_init_year": null,
+          "version": 20200225
+        },
+        {
+          "activity_id": "ScenarioMIP",
+          "institution_id": "EC-Earth-Consortium",
+          "source_id": "EC-Earth3-Veg",
+          "experiment_id": "ssp245",
+          "member_id": "r1i1p1f1",
+          "table_id": "Amon",
+          "variable_id": "tas",
+          "grid_label": "gr",
+          "zstore": "gs://cmip6/CMIP6/ScenarioMIP/EC-Earth-Consortium/EC-Earth3-Veg/ssp245/r1i1p1f1/Amon/tas/gr/v20200225/",
+          "dcpp_init_year": null,
+          "version": 20200225
+        },
+        {
+          "activity_id": "ScenarioMIP",
+          "institution_id": "EC-Earth-Consortium",
+          "source_id": "EC-Earth3-Veg",
+          "experiment_id": "ssp126",
+          "member_id": "r1i1p1f1",
+          "table_id": "Amon",
+          "variable_id": "tas",
+          "grid_label": "gr",
+          "zstore": "gs://cmip6/CMIP6/ScenarioMIP/EC-Earth-Consortium/EC-Earth3-Veg/ssp126/r1i1p1f1/Amon/tas/gr/v20200225/",
+          "dcpp_init_year": null,
+          "version": 20200225
+        },
+        {
+          "activity_id": "CMIP",
+          "institution_id": "EC-Earth-Consortium",
+          "source_id": "EC-Earth3-Veg",
+          "experiment_id": "historical",
+          "member_id": "r1i1p1f1",
+          "table_id": "Amon",
+          "variable_id": "tas",
+          "grid_label": "gr",
+          "zstore": "gs://cmip6/CMIP6/CMIP/EC-Earth-Consortium/EC-Earth3-Veg/historical/r1i1p1f1/Amon/tas/gr/v20211207/",
+          "dcpp_init_year": null,
+          "version": 20211207
+        }
+      ],
+      "status": "metadata-compatible",
+      "shape": [
+        256,
+        512
+      ],
+      "estimated_uncompressed_read_bytes": 1821376512
+    },
+    {
+      "model": "EC-Earth3-Veg-LR",
+      "member": "r1i1p1f1",
+      "grid": "gr",
+      "sources": [
+        {
+          "activity_id": "CMIP",
+          "institution_id": "EC-Earth-Consortium",
+          "source_id": "EC-Earth3-Veg-LR",
+          "experiment_id": "historical",
+          "member_id": "r1i1p1f1",
+          "table_id": "Amon",
+          "variable_id": "tas",
+          "grid_label": "gr",
+          "zstore": "gs://cmip6/CMIP6/CMIP/EC-Earth-Consortium/EC-Earth3-Veg-LR/historical/r1i1p1f1/Amon/tas/gr/v20200217/",
+          "dcpp_init_year": null,
+          "version": 20200217
+        },
+        {
+          "activity_id": "ScenarioMIP",
+          "institution_id": "EC-Earth-Consortium",
+          "source_id": "EC-Earth3-Veg-LR",
+          "experiment_id": "ssp245",
+          "member_id": "r1i1p1f1",
+          "table_id": "Amon",
+          "variable_id": "tas",
+          "grid_label": "gr",
+          "zstore": "gs://cmip6/CMIP6/ScenarioMIP/EC-Earth-Consortium/EC-Earth3-Veg-LR/ssp245/r1i1p1f1/Amon/tas/gr/v20201123/",
+          "dcpp_init_year": null,
+          "version": 20201123
+        },
+        {
+          "activity_id": "ScenarioMIP",
+          "institution_id": "EC-Earth-Consortium",
+          "source_id": "EC-Earth3-Veg-LR",
+          "experiment_id": "ssp126",
+          "member_id": "r1i1p1f1",
+          "table_id": "Amon",
+          "variable_id": "tas",
+          "grid_label": "gr",
+          "zstore": "gs://cmip6/CMIP6/ScenarioMIP/EC-Earth-Consortium/EC-Earth3-Veg-LR/ssp126/r1i1p1f1/Amon/tas/gr/v20201201/",
+          "dcpp_init_year": null,
+          "version": 20201201
+        },
+        {
+          "activity_id": "ScenarioMIP",
+          "institution_id": "EC-Earth-Consortium",
+          "source_id": "EC-Earth3-Veg-LR",
+          "experiment_id": "ssp585",
+          "member_id": "r1i1p1f1",
+          "table_id": "Amon",
+          "variable_id": "tas",
+          "grid_label": "gr",
+          "zstore": "gs://cmip6/CMIP6/ScenarioMIP/EC-Earth-Consortium/EC-Earth3-Veg-LR/ssp585/r1i1p1f1/Amon/tas/gr/v20201201/",
+          "dcpp_init_year": null,
+          "version": 20201201
+        }
+      ],
+      "status": "metadata-compatible",
+      "shape": [
+        160,
+        320
+      ],
+      "estimated_uncompressed_read_bytes": 761856000
+    },
+    {
+      "model": "FGOALS-f3-L",
+      "member": "r1i1p1f1",
+      "grid": "gr",
+      "sources": [
+        {
+          "activity_id": "CMIP",
+          "institution_id": "CAS",
+          "source_id": "FGOALS-f3-L",
+          "experiment_id": "historical",
+          "member_id": "r1i1p1f1",
+          "table_id": "Amon",
+          "variable_id": "tas",
+          "grid_label": "gr",
+          "zstore": "gs://cmip6/CMIP6/CMIP/CAS/FGOALS-f3-L/historical/r1i1p1f1/Amon/tas/gr/v20190927/",
+          "dcpp_init_year": null,
+          "version": 20190927
+        },
+        {
+          "activity_id": "ScenarioMIP",
+          "institution_id": "CAS",
+          "source_id": "FGOALS-f3-L",
+          "experiment_id": "ssp126",
+          "member_id": "r1i1p1f1",
+          "table_id": "Amon",
+          "variable_id": "tas",
+          "grid_label": "gr",
+          "zstore": "gs://cmip6/CMIP6/ScenarioMIP/CAS/FGOALS-f3-L/ssp126/r1i1p1f1/Amon/tas/gr/v20191013/",
+          "dcpp_init_year": null,
+          "version": 20191013
+        },
+        {
+          "activity_id": "ScenarioMIP",
+          "institution_id": "CAS",
+          "source_id": "FGOALS-f3-L",
+          "experiment_id": "ssp585",
+          "member_id": "r1i1p1f1",
+          "table_id": "Amon",
+          "variable_id": "tas",
+          "grid_label": "gr",
+          "zstore": "gs://cmip6/CMIP6/ScenarioMIP/CAS/FGOALS-f3-L/ssp585/r1i1p1f1/Amon/tas/gr/v20191013/",
+          "dcpp_init_year": null,
+          "version": 20191013
+        },
+        {
+          "activity_id": "ScenarioMIP",
+          "institution_id": "CAS",
+          "source_id": "FGOALS-f3-L",
+          "experiment_id": "ssp245",
+          "member_id": "r1i1p1f1",
+          "table_id": "Amon",
+          "variable_id": "tas",
+          "grid_label": "gr",
+          "zstore": "gs://cmip6/CMIP6/ScenarioMIP/CAS/FGOALS-f3-L/ssp245/r1i1p1f1/Amon/tas/gr/v20191013/",
+          "dcpp_init_year": null,
+          "version": 20191013
+        }
+      ],
+      "status": "metadata-compatible",
+      "shape": [
+        180,
+        288
+      ],
+      "estimated_uncompressed_read_bytes": 741934080
+    },
+    {
+      "model": "FGOALS-g3",
+      "member": "r1i1p1f1",
+      "grid": "gn",
+      "sources": [
+        {
+          "activity_id": "CMIP",
+          "institution_id": "CAS",
+          "source_id": "FGOALS-g3",
+          "experiment_id": "historical",
+          "member_id": "r1i1p1f1",
+          "table_id": "Amon",
+          "variable_id": "tas",
+          "grid_label": "gn",
+          "zstore": "gs://cmip6/CMIP6/CMIP/CAS/FGOALS-g3/historical/r1i1p1f1/Amon/tas/gn/v20190818/",
+          "dcpp_init_year": null,
+          "version": 20190818
+        },
+        {
+          "activity_id": "ScenarioMIP",
+          "institution_id": "CAS",
+          "source_id": "FGOALS-g3",
+          "experiment_id": "ssp245",
+          "member_id": "r1i1p1f1",
+          "table_id": "Amon",
+          "variable_id": "tas",
+          "grid_label": "gn",
+          "zstore": "gs://cmip6/CMIP6/ScenarioMIP/CAS/FGOALS-g3/ssp245/r1i1p1f1/Amon/tas/gn/v20190818/",
+          "dcpp_init_year": null,
+          "version": 20190818
+        },
+        {
+          "activity_id": "ScenarioMIP",
+          "institution_id": "CAS",
+          "source_id": "FGOALS-g3",
+          "experiment_id": "ssp585",
+          "member_id": "r1i1p1f1",
+          "table_id": "Amon",
+          "variable_id": "tas",
+          "grid_label": "gn",
+          "zstore": "gs://cmip6/CMIP6/ScenarioMIP/CAS/FGOALS-g3/ssp585/r1i1p1f1/Amon/tas/gn/v20190818/",
+          "dcpp_init_year": null,
+          "version": 20190818
+        },
+        {
+          "activity_id": "ScenarioMIP",
+          "institution_id": "CAS",
+          "source_id": "FGOALS-g3",
+          "experiment_id": "ssp126",
+          "member_id": "r1i1p1f1",
+          "table_id": "Amon",
+          "variable_id": "tas",
+          "grid_label": "gn",
+          "zstore": "gs://cmip6/CMIP6/ScenarioMIP/CAS/FGOALS-g3/ssp126/r1i1p1f1/Amon/tas/gn/v20200927/",
+          "dcpp_init_year": null,
+          "version": 20200927
+        }
+      ],
+      "status": "metadata-compatible",
+      "shape": [
+        80,
+        180
+      ],
+      "estimated_uncompressed_read_bytes": 293760000
+    },
+    {
+      "model": "FIO-ESM-2-0",
+      "member": "r1i1p1f1",
+      "grid": "gn",
+      "sources": [
+        {
+          "activity_id": "CMIP",
+          "institution_id": "FIO-QLNM",
+          "source_id": "FIO-ESM-2-0",
+          "experiment_id": "historical",
+          "member_id": "r1i1p1f1",
+          "table_id": "Amon",
+          "variable_id": "tas",
+          "grid_label": "gn",
+          "zstore": "gs://cmip6/CMIP6/CMIP/FIO-QLNM/FIO-ESM-2-0/historical/r1i1p1f1/Amon/tas/gn/v20191115/",
+          "dcpp_init_year": null,
+          "version": 20191115
+        },
+        {
+          "activity_id": "ScenarioMIP",
+          "institution_id": "FIO-QLNM",
+          "source_id": "FIO-ESM-2-0",
+          "experiment_id": "ssp585",
+          "member_id": "r1i1p1f1",
+          "table_id": "Amon",
+          "variable_id": "tas",
+          "grid_label": "gn",
+          "zstore": "gs://cmip6/CMIP6/ScenarioMIP/FIO-QLNM/FIO-ESM-2-0/ssp585/r1i1p1f1/Amon/tas/gn/v20191226/",
+          "dcpp_init_year": null,
+          "version": 20191226
+        },
+        {
+          "activity_id": "ScenarioMIP",
+          "institution_id": "FIO-QLNM",
+          "source_id": "FIO-ESM-2-0",
+          "experiment_id": "ssp245",
+          "member_id": "r1i1p1f1",
+          "table_id": "Amon",
+          "variable_id": "tas",
+          "grid_label": "gn",
+          "zstore": "gs://cmip6/CMIP6/ScenarioMIP/FIO-QLNM/FIO-ESM-2-0/ssp245/r1i1p1f1/Amon/tas/gn/v20191226/",
+          "dcpp_init_year": null,
+          "version": 20191226
+        },
+        {
+          "activity_id": "ScenarioMIP",
+          "institution_id": "FIO-QLNM",
+          "source_id": "FIO-ESM-2-0",
+          "experiment_id": "ssp126",
+          "member_id": "r1i1p1f1",
+          "table_id": "Amon",
+          "variable_id": "tas",
+          "grid_label": "gn",
+          "zstore": "gs://cmip6/CMIP6/ScenarioMIP/FIO-QLNM/FIO-ESM-2-0/ssp126/r1i1p1f1/Amon/tas/gn/v20191227/",
+          "dcpp_init_year": null,
+          "version": 20191227
+        }
+      ],
+      "status": "metadata-compatible",
+      "shape": [
+        192,
+        288
+      ],
+      "estimated_uncompressed_read_bytes": 816611328
+    },
+    {
+      "model": "GFDL-ESM4",
+      "member": "r1i1p1f1",
+      "grid": "gr1",
+      "sources": [
+        {
+          "activity_id": "ScenarioMIP",
+          "institution_id": "NOAA-GFDL",
+          "source_id": "GFDL-ESM4",
+          "experiment_id": "ssp245",
+          "member_id": "r1i1p1f1",
+          "table_id": "Amon",
+          "variable_id": "tas",
+          "grid_label": "gr1",
+          "zstore": "gs://cmip6/CMIP6/ScenarioMIP/NOAA-GFDL/GFDL-ESM4/ssp245/r1i1p1f1/Amon/tas/gr1/v20180701/",
+          "dcpp_init_year": null,
+          "version": 20180701
+        },
+        {
+          "activity_id": "ScenarioMIP",
+          "institution_id": "NOAA-GFDL",
+          "source_id": "GFDL-ESM4",
+          "experiment_id": "ssp126",
+          "member_id": "r1i1p1f1",
+          "table_id": "Amon",
+          "variable_id": "tas",
+          "grid_label": "gr1",
+          "zstore": "gs://cmip6/CMIP6/ScenarioMIP/NOAA-GFDL/GFDL-ESM4/ssp126/r1i1p1f1/Amon/tas/gr1/v20180701/",
+          "dcpp_init_year": null,
+          "version": 20180701
+        },
+        {
+          "activity_id": "ScenarioMIP",
+          "institution_id": "NOAA-GFDL",
+          "source_id": "GFDL-ESM4",
+          "experiment_id": "ssp585",
+          "member_id": "r1i1p1f1",
+          "table_id": "Amon",
+          "variable_id": "tas",
+          "grid_label": "gr1",
+          "zstore": "gs://cmip6/CMIP6/ScenarioMIP/NOAA-GFDL/GFDL-ESM4/ssp585/r1i1p1f1/Amon/tas/gr1/v20180701/",
+          "dcpp_init_year": null,
+          "version": 20180701
+        },
+        {
+          "activity_id": "CMIP",
+          "institution_id": "NOAA-GFDL",
+          "source_id": "GFDL-ESM4",
+          "experiment_id": "historical",
+          "member_id": "r1i1p1f1",
+          "table_id": "Amon",
+          "variable_id": "tas",
+          "grid_label": "gr1",
+          "zstore": "gs://cmip6/CMIP6/CMIP/NOAA-GFDL/GFDL-ESM4/historical/r1i1p1f1/Amon/tas/gr1/v20190726/",
+          "dcpp_init_year": null,
+          "version": 20190726
+        }
+      ],
+      "status": "metadata-compatible",
+      "shape": [
+        180,
+        288
+      ],
+      "estimated_uncompressed_read_bytes": 890818560
+    },
+    {
+      "model": "GISS-E2-1-G",
+      "member": "r1i1p3f1",
+      "grid": "gn",
+      "sources": [
+        {
+          "activity_id": "CMIP",
+          "institution_id": "NASA-GISS",
+          "source_id": "GISS-E2-1-G",
+          "experiment_id": "historical",
+          "member_id": "r1i1p3f1",
+          "table_id": "Amon",
+          "variable_id": "tas",
+          "grid_label": "gn",
+          "zstore": "gs://cmip6/CMIP6/CMIP/NASA-GISS/GISS-E2-1-G/historical/r1i1p3f1/Amon/tas/gn/v20190702/",
+          "dcpp_init_year": null,
+          "version": 20190702
+        },
+        {
+          "activity_id": "ScenarioMIP",
+          "institution_id": "NASA-GISS",
+          "source_id": "GISS-E2-1-G",
+          "experiment_id": "ssp126",
+          "member_id": "r1i1p3f1",
+          "table_id": "Amon",
+          "variable_id": "tas",
+          "grid_label": "gn",
+          "zstore": "gs://cmip6/CMIP6/ScenarioMIP/NASA-GISS/GISS-E2-1-G/ssp126/r1i1p3f1/Amon/tas/gn/v20200115/",
+          "dcpp_init_year": null,
+          "version": 20200115
+        },
+        {
+          "activity_id": "ScenarioMIP",
+          "institution_id": "NASA-GISS",
+          "source_id": "GISS-E2-1-G",
+          "experiment_id": "ssp245",
+          "member_id": "r1i1p3f1",
+          "table_id": "Amon",
+          "variable_id": "tas",
+          "grid_label": "gn",
+          "zstore": "gs://cmip6/CMIP6/ScenarioMIP/NASA-GISS/GISS-E2-1-G/ssp245/r1i1p3f1/Amon/tas/gn/v20200115/",
+          "dcpp_init_year": null,
+          "version": 20200115
+        },
+        {
+          "activity_id": "ScenarioMIP",
+          "institution_id": "NASA-GISS",
+          "source_id": "GISS-E2-1-G",
+          "experiment_id": "ssp585",
+          "member_id": "r1i1p3f1",
+          "table_id": "Amon",
+          "variable_id": "tas",
+          "grid_label": "gn",
+          "zstore": "gs://cmip6/CMIP6/ScenarioMIP/NASA-GISS/GISS-E2-1-G/ssp585/r1i1p3f1/Amon/tas/gn/v20200115/",
+          "dcpp_init_year": null,
+          "version": 20200115
+        }
+      ],
+      "status": "metadata-compatible",
+      "shape": [
+        90,
+        144
+      ],
+      "estimated_uncompressed_read_bytes": 260340480
+    },
+    {
+      "model": "GISS-E2-1-H",
+      "member": "r1i1p1f2",
+      "grid": "gn",
+      "sources": [
+        {
+          "activity_id": "CMIP",
+          "institution_id": "NASA-GISS",
+          "source_id": "GISS-E2-1-H",
+          "experiment_id": "historical",
+          "member_id": "r1i1p1f2",
+          "table_id": "Amon",
+          "variable_id": "tas",
+          "grid_label": "gn",
+          "zstore": "gs://cmip6/CMIP6/CMIP/NASA-GISS/GISS-E2-1-H/historical/r1i1p1f2/Amon/tas/gn/v20191003/",
+          "dcpp_init_year": null,
+          "version": 20191003
+        },
+        {
+          "activity_id": "ScenarioMIP",
+          "institution_id": "NASA-GISS",
+          "source_id": "GISS-E2-1-H",
+          "experiment_id": "ssp585",
+          "member_id": "r1i1p1f2",
+          "table_id": "Amon",
+          "variable_id": "tas",
+          "grid_label": "gn",
+          "zstore": "gs://cmip6/CMIP6/ScenarioMIP/NASA-GISS/GISS-E2-1-H/ssp585/r1i1p1f2/Amon/tas/gn/v20200115/",
+          "dcpp_init_year": null,
+          "version": 20200115
+        },
+        {
+          "activity_id": "ScenarioMIP",
+          "institution_id": "NASA-GISS",
+          "source_id": "GISS-E2-1-H",
+          "experiment_id": "ssp126",
+          "member_id": "r1i1p1f2",
+          "table_id": "Amon",
+          "variable_id": "tas",
+          "grid_label": "gn",
+          "zstore": "gs://cmip6/CMIP6/ScenarioMIP/NASA-GISS/GISS-E2-1-H/ssp126/r1i1p1f2/Amon/tas/gn/v20200115/",
+          "dcpp_init_year": null,
+          "version": 20200115
+        },
+        {
+          "activity_id": "ScenarioMIP",
+          "institution_id": "NASA-GISS",
+          "source_id": "GISS-E2-1-H",
+          "experiment_id": "ssp245",
+          "member_id": "r1i1p1f2",
+          "table_id": "Amon",
+          "variable_id": "tas",
+          "grid_label": "gn",
+          "zstore": "gs://cmip6/CMIP6/ScenarioMIP/NASA-GISS/GISS-E2-1-H/ssp245/r1i1p1f2/Amon/tas/gn/v20200115/",
+          "dcpp_init_year": null,
+          "version": 20200115
+        }
+      ],
+      "status": "metadata-compatible",
+      "shape": [
+        90,
+        144
+      ],
+      "estimated_uncompressed_read_bytes": 549141120
+    },
+    {
+      "model": "HadGEM3-GC31-LL",
+      "member": "r1i1p1f3",
+      "grid": "gn",
+      "sources": [
+        {
+          "activity_id": "CMIP",
+          "institution_id": "MOHC",
+          "source_id": "HadGEM3-GC31-LL",
+          "experiment_id": "historical",
+          "member_id": "r1i1p1f3",
+          "table_id": "Amon",
+          "variable_id": "tas",
+          "grid_label": "gn",
+          "zstore": "gs://cmip6/CMIP6/CMIP/MOHC/HadGEM3-GC31-LL/historical/r1i1p1f3/Amon/tas/gn/v20190624/",
+          "dcpp_init_year": null,
+          "version": 20190624
+        },
+        {
+          "activity_id": "ScenarioMIP",
+          "institution_id": "MOHC",
+          "source_id": "HadGEM3-GC31-LL",
+          "experiment_id": "ssp245",
+          "member_id": "r1i1p1f3",
+          "table_id": "Amon",
+          "variable_id": "tas",
+          "grid_label": "gn",
+          "zstore": "gs://cmip6/CMIP6/ScenarioMIP/MOHC/HadGEM3-GC31-LL/ssp245/r1i1p1f3/Amon/tas/gn/v20190908/",
+          "dcpp_init_year": null,
+          "version": 20190908
+        },
+        {
+          "activity_id": "ScenarioMIP",
+          "institution_id": "MOHC",
+          "source_id": "HadGEM3-GC31-LL",
+          "experiment_id": "ssp585",
+          "member_id": "r1i1p1f3",
+          "table_id": "Amon",
+          "variable_id": "tas",
+          "grid_label": "gn",
+          "zstore": "gs://cmip6/CMIP6/ScenarioMIP/MOHC/HadGEM3-GC31-LL/ssp585/r1i1p1f3/Amon/tas/gn/v20200114/",
+          "dcpp_init_year": null,
+          "version": 20200114
+        },
+        {
+          "activity_id": "ScenarioMIP",
+          "institution_id": "MOHC",
+          "source_id": "HadGEM3-GC31-LL",
+          "experiment_id": "ssp126",
+          "member_id": "r1i1p1f3",
+          "table_id": "Amon",
+          "variable_id": "tas",
+          "grid_label": "gn",
+          "zstore": "gs://cmip6/CMIP6/ScenarioMIP/MOHC/HadGEM3-GC31-LL/ssp126/r1i1p1f3/Amon/tas/gn/v20200114/",
+          "dcpp_init_year": null,
+          "version": 20200114
+        }
+      ],
+      "status": "metadata-compatible",
+      "shape": [
+        144,
+        192
+      ],
+      "estimated_uncompressed_read_bytes": 475103232
+    },
+    {
+      "model": "IITM-ESM",
+      "member": "r1i1p1f1",
+      "grid": "gn",
+      "sources": [
+        {
+          "activity_id": "CMIP",
+          "institution_id": "CCCR-IITM",
+          "source_id": "IITM-ESM",
+          "experiment_id": "historical",
+          "member_id": "r1i1p1f1",
+          "table_id": "Amon",
+          "variable_id": "tas",
+          "grid_label": "gn",
+          "zstore": "gs://cmip6/CMIP6/CMIP/CCCR-IITM/IITM-ESM/historical/r1i1p1f1/Amon/tas/gn/v20191226/",
+          "dcpp_init_year": null,
+          "version": 20191226
+        },
+        {
+          "activity_id": "ScenarioMIP",
+          "institution_id": "CCCR-IITM",
+          "source_id": "IITM-ESM",
+          "experiment_id": "ssp245",
+          "member_id": "r1i1p1f1",
+          "table_id": "Amon",
+          "variable_id": "tas",
+          "grid_label": "gn",
+          "zstore": "gs://cmip6/CMIP6/ScenarioMIP/CCCR-IITM/IITM-ESM/ssp245/r1i1p1f1/Amon/tas/gn/v20200915/",
+          "dcpp_init_year": null,
+          "version": 20200915
+        },
+        {
+          "activity_id": "ScenarioMIP",
+          "institution_id": "CCCR-IITM",
+          "source_id": "IITM-ESM",
+          "experiment_id": "ssp585",
+          "member_id": "r1i1p1f1",
+          "table_id": "Amon",
+          "variable_id": "tas",
+          "grid_label": "gn",
+          "zstore": "gs://cmip6/CMIP6/ScenarioMIP/CCCR-IITM/IITM-ESM/ssp585/r1i1p1f1/Amon/tas/gn/v20200915/",
+          "dcpp_init_year": null,
+          "version": 20200915
+        },
+        {
+          "activity_id": "ScenarioMIP",
+          "institution_id": "CCCR-IITM",
+          "source_id": "IITM-ESM",
+          "experiment_id": "ssp126",
+          "member_id": "r1i1p1f1",
+          "table_id": "Amon",
+          "variable_id": "tas",
+          "grid_label": "gn",
+          "zstore": "gs://cmip6/CMIP6/ScenarioMIP/CCCR-IITM/IITM-ESM/ssp126/r1i1p1f1/Amon/tas/gn/v20201112/",
+          "dcpp_init_year": null,
+          "version": 20201112
+        }
+      ],
+      "status": "metadata-compatible",
+      "shape": [
+        94,
+        192
+      ],
+      "estimated_uncompressed_read_bytes": 348687360
+    },
+    {
+      "model": "INM-CM4-8",
+      "member": "r1i1p1f1",
+      "grid": "gr1",
+      "sources": [
+        {
+          "activity_id": "CMIP",
+          "institution_id": "INM",
+          "source_id": "INM-CM4-8",
+          "experiment_id": "historical",
+          "member_id": "r1i1p1f1",
+          "table_id": "Amon",
+          "variable_id": "tas",
+          "grid_label": "gr1",
+          "zstore": "gs://cmip6/CMIP6/CMIP/INM/INM-CM4-8/historical/r1i1p1f1/Amon/tas/gr1/v20190530/",
+          "dcpp_init_year": null,
+          "version": 20190530
+        },
+        {
+          "activity_id": "ScenarioMIP",
+          "institution_id": "INM",
+          "source_id": "INM-CM4-8",
+          "experiment_id": "ssp585",
+          "member_id": "r1i1p1f1",
+          "table_id": "Amon",
+          "variable_id": "tas",
+          "grid_label": "gr1",
+          "zstore": "gs://cmip6/CMIP6/ScenarioMIP/INM/INM-CM4-8/ssp585/r1i1p1f1/Amon/tas/gr1/v20190603/",
+          "dcpp_init_year": null,
+          "version": 20190603
+        },
+        {
+          "activity_id": "ScenarioMIP",
+          "institution_id": "INM",
+          "source_id": "INM-CM4-8",
+          "experiment_id": "ssp126",
+          "member_id": "r1i1p1f1",
+          "table_id": "Amon",
+          "variable_id": "tas",
+          "grid_label": "gr1",
+          "zstore": "gs://cmip6/CMIP6/ScenarioMIP/INM/INM-CM4-8/ssp126/r1i1p1f1/Amon/tas/gr1/v20190603/",
+          "dcpp_init_year": null,
+          "version": 20190603
+        },
+        {
+          "activity_id": "ScenarioMIP",
+          "institution_id": "INM",
+          "source_id": "INM-CM4-8",
+          "experiment_id": "ssp245",
+          "member_id": "r1i1p1f1",
+          "table_id": "Amon",
+          "variable_id": "tas",
+          "grid_label": "gr1",
+          "zstore": "gs://cmip6/CMIP6/ScenarioMIP/INM/INM-CM4-8/ssp245/r1i1p1f1/Amon/tas/gr1/v20190603/",
+          "dcpp_init_year": null,
+          "version": 20190603
+        }
+      ],
+      "status": "metadata-compatible",
+      "shape": [
+        120,
+        180
+      ],
+      "estimated_uncompressed_read_bytes": 436838400
+    },
+    {
+      "model": "INM-CM5-0",
+      "member": "r1i1p1f1",
+      "grid": "gr1",
+      "sources": [
+        {
+          "activity_id": "CMIP",
+          "institution_id": "INM",
+          "source_id": "INM-CM5-0",
+          "experiment_id": "historical",
+          "member_id": "r1i1p1f1",
+          "table_id": "Amon",
+          "variable_id": "tas",
+          "grid_label": "gr1",
+          "zstore": "gs://cmip6/CMIP6/CMIP/INM/INM-CM5-0/historical/r1i1p1f1/Amon/tas/gr1/v20190610/",
+          "dcpp_init_year": null,
+          "version": 20190610
+        },
+        {
+          "activity_id": "ScenarioMIP",
+          "institution_id": "INM",
+          "source_id": "INM-CM5-0",
+          "experiment_id": "ssp245",
+          "member_id": "r1i1p1f1",
+          "table_id": "Amon",
+          "variable_id": "tas",
+          "grid_label": "gr1",
+          "zstore": "gs://cmip6/CMIP6/ScenarioMIP/INM/INM-CM5-0/ssp245/r1i1p1f1/Amon/tas/gr1/v20190619/",
+          "dcpp_init_year": null,
+          "version": 20190619
+        },
+        {
+          "activity_id": "ScenarioMIP",
+          "institution_id": "INM",
+          "source_id": "INM-CM5-0",
+          "experiment_id": "ssp126",
+          "member_id": "r1i1p1f1",
+          "table_id": "Amon",
+          "variable_id": "tas",
+          "grid_label": "gr1",
+          "zstore": "gs://cmip6/CMIP6/ScenarioMIP/INM/INM-CM5-0/ssp126/r1i1p1f1/Amon/tas/gr1/v20190619/",
+          "dcpp_init_year": null,
+          "version": 20190619
+        },
+        {
+          "activity_id": "ScenarioMIP",
+          "institution_id": "INM",
+          "source_id": "INM-CM5-0",
+          "experiment_id": "ssp585",
+          "member_id": "r1i1p1f1",
+          "table_id": "Amon",
+          "variable_id": "tas",
+          "grid_label": "gr1",
+          "zstore": "gs://cmip6/CMIP6/ScenarioMIP/INM/INM-CM5-0/ssp585/r1i1p1f1/Amon/tas/gr1/v20190724/",
+          "dcpp_init_year": null,
+          "version": 20190724
+        }
+      ],
+      "status": "metadata-compatible",
+      "shape": [
+        120,
+        180
+      ],
+      "estimated_uncompressed_read_bytes": 436838400
+    },
+    {
+      "model": "IPSL-CM6A-LR",
+      "member": "r1i1p1f1",
+      "grid": "gr",
+      "sources": [
+        {
+          "activity_id": "CMIP",
+          "institution_id": "IPSL",
+          "source_id": "IPSL-CM6A-LR",
+          "experiment_id": "historical",
+          "member_id": "r1i1p1f1",
+          "table_id": "Amon",
+          "variable_id": "tas",
+          "grid_label": "gr",
+          "zstore": "gs://cmip6/CMIP6/CMIP/IPSL/IPSL-CM6A-LR/historical/r1i1p1f1/Amon/tas/gr/v20180803/",
+          "dcpp_init_year": null,
+          "version": 20180803
+        },
+        {
+          "activity_id": "ScenarioMIP",
+          "institution_id": "IPSL",
+          "source_id": "IPSL-CM6A-LR",
+          "experiment_id": "ssp245",
+          "member_id": "r1i1p1f1",
+          "table_id": "Amon",
+          "variable_id": "tas",
+          "grid_label": "gr",
+          "zstore": "gs://cmip6/CMIP6/ScenarioMIP/IPSL/IPSL-CM6A-LR/ssp245/r1i1p1f1/Amon/tas/gr/v20190119/",
+          "dcpp_init_year": null,
+          "version": 20190119
+        },
+        {
+          "activity_id": "ScenarioMIP",
+          "institution_id": "IPSL",
+          "source_id": "IPSL-CM6A-LR",
+          "experiment_id": "ssp126",
+          "member_id": "r1i1p1f1",
+          "table_id": "Amon",
+          "variable_id": "tas",
+          "grid_label": "gr",
+          "zstore": "gs://cmip6/CMIP6/ScenarioMIP/IPSL/IPSL-CM6A-LR/ssp126/r1i1p1f1/Amon/tas/gr/v20190903/",
+          "dcpp_init_year": null,
+          "version": 20190903
+        },
+        {
+          "activity_id": "ScenarioMIP",
+          "institution_id": "IPSL",
+          "source_id": "IPSL-CM6A-LR",
+          "experiment_id": "ssp585",
+          "member_id": "r1i1p1f1",
+          "table_id": "Amon",
+          "variable_id": "tas",
+          "grid_label": "gr",
+          "zstore": "gs://cmip6/CMIP6/ScenarioMIP/IPSL/IPSL-CM6A-LR/ssp585/r1i1p1f1/Amon/tas/gr/v20190903/",
+          "dcpp_init_year": null,
+          "version": 20190903
+        }
+      ],
+      "status": "metadata-compatible",
+      "shape": [
+        143,
+        144
+      ],
+      "estimated_uncompressed_read_bytes": 353852928
+    },
+    {
+      "model": "KACE-1-0-G",
+      "member": "r1i1p1f1",
+      "grid": "gr",
+      "sources": [
+        {
+          "activity_id": "ScenarioMIP",
+          "institution_id": "NIMS-KMA",
+          "source_id": "KACE-1-0-G",
+          "experiment_id": "ssp585",
+          "member_id": "r1i1p1f1",
+          "table_id": "Amon",
+          "variable_id": "tas",
+          "grid_label": "gr",
+          "zstore": "gs://cmip6/CMIP6/ScenarioMIP/NIMS-KMA/KACE-1-0-G/ssp585/r1i1p1f1/Amon/tas/gr/v20190920/",
+          "dcpp_init_year": null,
+          "version": 20190920
+        },
+        {
+          "activity_id": "ScenarioMIP",
+          "institution_id": "NIMS-KMA",
+          "source_id": "KACE-1-0-G",
+          "experiment_id": "ssp126",
+          "member_id": "r1i1p1f1",
+          "table_id": "Amon",
+          "variable_id": "tas",
+          "grid_label": "gr",
+          "zstore": "gs://cmip6/CMIP6/ScenarioMIP/NIMS-KMA/KACE-1-0-G/ssp126/r1i1p1f1/Amon/tas/gr/v20191007/",
+          "dcpp_init_year": null,
+          "version": 20191007
+        },
+        {
+          "activity_id": "CMIP",
+          "institution_id": "NIMS-KMA",
+          "source_id": "KACE-1-0-G",
+          "experiment_id": "historical",
+          "member_id": "r1i1p1f1",
+          "table_id": "Amon",
+          "variable_id": "tas",
+          "grid_label": "gr",
+          "zstore": "gs://cmip6/CMIP6/CMIP/NIMS-KMA/KACE-1-0-G/historical/r1i1p1f1/Amon/tas/gr/v20191028/",
+          "dcpp_init_year": null,
+          "version": 20191028
+        },
+        {
+          "activity_id": "ScenarioMIP",
+          "institution_id": "NIMS-KMA",
+          "source_id": "KACE-1-0-G",
+          "experiment_id": "ssp245",
+          "member_id": "r1i1p1f1",
+          "table_id": "Amon",
+          "variable_id": "tas",
+          "grid_label": "gr",
+          "zstore": "gs://cmip6/CMIP6/ScenarioMIP/NIMS-KMA/KACE-1-0-G/ssp245/r1i1p1f1/Amon/tas/gr/v20191217/",
+          "dcpp_init_year": null,
+          "version": 20191217
+        }
+      ],
+      "status": "metadata-compatible",
+      "shape": [
+        144,
+        192
+      ],
+      "estimated_uncompressed_read_bytes": 538583040
+    },
+    {
+      "model": "KIOST-ESM",
+      "member": "r1i1p1f1",
+      "grid": "gr1",
+      "sources": [
+        {
+          "activity_id": "CMIP",
+          "institution_id": "KIOST",
+          "source_id": "KIOST-ESM",
+          "experiment_id": "historical",
+          "member_id": "r1i1p1f1",
+          "table_id": "Amon",
+          "variable_id": "tas",
+          "grid_label": "gr1",
+          "zstore": "gs://cmip6/CMIP6/CMIP/KIOST/KIOST-ESM/historical/r1i1p1f1/Amon/tas/gr1/v20210601/",
+          "dcpp_init_year": null,
+          "version": 20210601
+        },
+        {
+          "activity_id": "ScenarioMIP",
+          "institution_id": "KIOST",
+          "source_id": "KIOST-ESM",
+          "experiment_id": "ssp245",
+          "member_id": "r1i1p1f1",
+          "table_id": "Amon",
+          "variable_id": "tas",
+          "grid_label": "gr1",
+          "zstore": "gs://cmip6/CMIP6/ScenarioMIP/KIOST/KIOST-ESM/ssp245/r1i1p1f1/Amon/tas/gr1/v20210601/",
+          "dcpp_init_year": null,
+          "version": 20210601
+        },
+        {
+          "activity_id": "ScenarioMIP",
+          "institution_id": "KIOST",
+          "source_id": "KIOST-ESM",
+          "experiment_id": "ssp126",
+          "member_id": "r1i1p1f1",
+          "table_id": "Amon",
+          "variable_id": "tas",
+          "grid_label": "gr1",
+          "zstore": "gs://cmip6/CMIP6/ScenarioMIP/KIOST/KIOST-ESM/ssp126/r1i1p1f1/Amon/tas/gr1/v20210601/",
+          "dcpp_init_year": null,
+          "version": 20210601
+        },
+        {
+          "activity_id": "ScenarioMIP",
+          "institution_id": "KIOST",
+          "source_id": "KIOST-ESM",
+          "experiment_id": "ssp585",
+          "member_id": "r1i1p1f1",
+          "table_id": "Amon",
+          "variable_id": "tas",
+          "grid_label": "gr1",
+          "zstore": "gs://cmip6/CMIP6/ScenarioMIP/KIOST/KIOST-ESM/ssp585/r1i1p1f1/Amon/tas/gr1/v20210601/",
+          "dcpp_init_year": null,
+          "version": 20210601
+        }
+      ],
+      "status": "metadata-compatible",
+      "shape": [
+        96,
+        192
+      ],
+      "estimated_uncompressed_read_bytes": 328089600
+    },
+    {
+      "model": "MCM-UA-1-0",
+      "member": "r1i1p1f2",
+      "grid": "gn",
+      "sources": [
+        {
+          "activity_id": "CMIP",
+          "institution_id": "UA",
+          "source_id": "MCM-UA-1-0",
+          "experiment_id": "historical",
+          "member_id": "r1i1p1f2",
+          "table_id": "Amon",
+          "variable_id": "tas",
+          "grid_label": "gn",
+          "zstore": "gs://cmip6/CMIP6/CMIP/UA/MCM-UA-1-0/historical/r1i1p1f2/Amon/tas/gn/v20190731/",
+          "dcpp_init_year": null,
+          "version": 20190731
+        },
+        {
+          "activity_id": "ScenarioMIP",
+          "institution_id": "UA",
+          "source_id": "MCM-UA-1-0",
+          "experiment_id": "ssp245",
+          "member_id": "r1i1p1f2",
+          "table_id": "Amon",
+          "variable_id": "tas",
+          "grid_label": "gn",
+          "zstore": "gs://cmip6/CMIP6/ScenarioMIP/UA/MCM-UA-1-0/ssp245/r1i1p1f2/Amon/tas/gn/v20190731/",
+          "dcpp_init_year": null,
+          "version": 20190731
+        },
+        {
+          "activity_id": "ScenarioMIP",
+          "institution_id": "UA",
+          "source_id": "MCM-UA-1-0",
+          "experiment_id": "ssp585",
+          "member_id": "r1i1p1f2",
+          "table_id": "Amon",
+          "variable_id": "tas",
+          "grid_label": "gn",
+          "zstore": "gs://cmip6/CMIP6/ScenarioMIP/UA/MCM-UA-1-0/ssp585/r1i1p1f2/Amon/tas/gn/v20190731/",
+          "dcpp_init_year": null,
+          "version": 20190731
+        },
+        {
+          "activity_id": "ScenarioMIP",
+          "institution_id": "UA",
+          "source_id": "MCM-UA-1-0",
+          "experiment_id": "ssp126",
+          "member_id": "r1i1p1f2",
+          "table_id": "Amon",
+          "variable_id": "tas",
+          "grid_label": "gn",
+          "zstore": "gs://cmip6/CMIP6/ScenarioMIP/UA/MCM-UA-1-0/ssp126/r1i1p1f2/Amon/tas/gn/v20190731/",
+          "dcpp_init_year": null,
+          "version": 20190731
+        }
+      ],
+      "status": "rejected",
+      "reason": ""
+    },
+    {
+      "model": "MIROC-ES2L",
+      "member": "r4i1p1f2",
+      "grid": "gn",
+      "sources": [
+        {
+          "activity_id": "CMIP",
+          "institution_id": "MIROC",
+          "source_id": "MIROC-ES2L",
+          "experiment_id": "historical",
+          "member_id": "r4i1p1f2",
+          "table_id": "Amon",
+          "variable_id": "tas",
+          "grid_label": "gn",
+          "zstore": "gs://cmip6/CMIP6/CMIP/MIROC/MIROC-ES2L/historical/r4i1p1f2/Amon/tas/gn/v20200318/",
+          "dcpp_init_year": null,
+          "version": 20200318
+        },
+        {
+          "activity_id": "ScenarioMIP",
+          "institution_id": "MIROC",
+          "source_id": "MIROC-ES2L",
+          "experiment_id": "ssp585",
+          "member_id": "r4i1p1f2",
+          "table_id": "Amon",
+          "variable_id": "tas",
+          "grid_label": "gn",
+          "zstore": "gs://cmip6/CMIP6/ScenarioMIP/MIROC/MIROC-ES2L/ssp585/r4i1p1f2/Amon/tas/gn/v20201222/",
+          "dcpp_init_year": null,
+          "version": 20201222
+        },
+        {
+          "activity_id": "ScenarioMIP",
+          "institution_id": "MIROC",
+          "source_id": "MIROC-ES2L",
+          "experiment_id": "ssp245",
+          "member_id": "r4i1p1f2",
+          "table_id": "Amon",
+          "variable_id": "tas",
+          "grid_label": "gn",
+          "zstore": "gs://cmip6/CMIP6/ScenarioMIP/MIROC/MIROC-ES2L/ssp245/r4i1p1f2/Amon/tas/gn/v20201222/",
+          "dcpp_init_year": null,
+          "version": 20201222
+        },
+        {
+          "activity_id": "ScenarioMIP",
+          "institution_id": "MIROC",
+          "source_id": "MIROC-ES2L",
+          "experiment_id": "ssp126",
+          "member_id": "r4i1p1f2",
+          "table_id": "Amon",
+          "variable_id": "tas",
+          "grid_label": "gn",
+          "zstore": "gs://cmip6/CMIP6/ScenarioMIP/MIROC/MIROC-ES2L/ssp126/r4i1p1f2/Amon/tas/gn/v20201222/",
+          "dcpp_init_year": null,
+          "version": 20201222
+        }
+      ],
+      "status": "metadata-compatible",
+      "shape": [
+        64,
+        128
+      ],
+      "estimated_uncompressed_read_bytes": 166330368
+    },
+    {
+      "model": "MIROC6",
+      "member": "r1i1p1f1",
+      "grid": "gn",
+      "sources": [
+        {
+          "activity_id": "CMIP",
+          "institution_id": "MIROC",
+          "source_id": "MIROC6",
+          "experiment_id": "historical",
+          "member_id": "r1i1p1f1",
+          "table_id": "Amon",
+          "variable_id": "tas",
+          "grid_label": "gn",
+          "zstore": "gs://cmip6/CMIP6/CMIP/MIROC/MIROC6/historical/r1i1p1f1/Amon/tas/gn/v20181212/",
+          "dcpp_init_year": null,
+          "version": 20181212
+        },
+        {
+          "activity_id": "ScenarioMIP",
+          "institution_id": "MIROC",
+          "source_id": "MIROC6",
+          "experiment_id": "ssp126",
+          "member_id": "r1i1p1f1",
+          "table_id": "Amon",
+          "variable_id": "tas",
+          "grid_label": "gn",
+          "zstore": "gs://cmip6/CMIP6/ScenarioMIP/MIROC/MIROC6/ssp126/r1i1p1f1/Amon/tas/gn/v20190627/",
+          "dcpp_init_year": null,
+          "version": 20190627
+        },
+        {
+          "activity_id": "ScenarioMIP",
+          "institution_id": "MIROC",
+          "source_id": "MIROC6",
+          "experiment_id": "ssp245",
+          "member_id": "r1i1p1f1",
+          "table_id": "Amon",
+          "variable_id": "tas",
+          "grid_label": "gn",
+          "zstore": "gs://cmip6/CMIP6/ScenarioMIP/MIROC/MIROC6/ssp245/r1i1p1f1/Amon/tas/gn/v20190627/",
+          "dcpp_init_year": null,
+          "version": 20190627
+        },
+        {
+          "activity_id": "ScenarioMIP",
+          "institution_id": "MIROC",
+          "source_id": "MIROC6",
+          "experiment_id": "ssp585",
+          "member_id": "r1i1p1f1",
+          "table_id": "Amon",
+          "variable_id": "tas",
+          "grid_label": "gn",
+          "zstore": "gs://cmip6/CMIP6/ScenarioMIP/MIROC/MIROC6/ssp585/r1i1p1f1/Amon/tas/gn/v20190627/",
+          "dcpp_init_year": null,
+          "version": 20190627
+        }
+      ],
+      "status": "metadata-compatible",
+      "shape": [
+        128,
+        256
+      ],
+      "estimated_uncompressed_read_bytes": 563085312
+    },
+    {
+      "model": "MPI-ESM1-2-HR",
+      "member": "r1i1p1f1",
+      "grid": "gn",
+      "sources": [
+        {
+          "activity_id": "ScenarioMIP",
+          "institution_id": "DKRZ",
+          "source_id": "MPI-ESM1-2-HR",
+          "experiment_id": "ssp126",
+          "member_id": "r1i1p1f1",
+          "table_id": "Amon",
+          "variable_id": "tas",
+          "grid_label": "gn",
+          "zstore": "gs://cmip6/CMIP6/ScenarioMIP/DKRZ/MPI-ESM1-2-HR/ssp126/r1i1p1f1/Amon/tas/gn/v20190710/",
+          "dcpp_init_year": null,
+          "version": 20190710
+        },
+        {
+          "activity_id": "ScenarioMIP",
+          "institution_id": "DKRZ",
+          "source_id": "MPI-ESM1-2-HR",
+          "experiment_id": "ssp245",
+          "member_id": "r1i1p1f1",
+          "table_id": "Amon",
+          "variable_id": "tas",
+          "grid_label": "gn",
+          "zstore": "gs://cmip6/CMIP6/ScenarioMIP/DKRZ/MPI-ESM1-2-HR/ssp245/r1i1p1f1/Amon/tas/gn/v20190710/",
+          "dcpp_init_year": null,
+          "version": 20190710
+        },
+        {
+          "activity_id": "CMIP",
+          "institution_id": "MPI-M",
+          "source_id": "MPI-ESM1-2-HR",
+          "experiment_id": "historical",
+          "member_id": "r1i1p1f1",
+          "table_id": "Amon",
+          "variable_id": "tas",
+          "grid_label": "gn",
+          "zstore": "gs://cmip6/CMIP6/CMIP/MPI-M/MPI-ESM1-2-HR/historical/r1i1p1f1/Amon/tas/gn/v20190710/",
+          "dcpp_init_year": null,
+          "version": 20190710
+        },
+        {
+          "activity_id": "ScenarioMIP",
+          "institution_id": "DKRZ",
+          "source_id": "MPI-ESM1-2-HR",
+          "experiment_id": "ssp585",
+          "member_id": "r1i1p1f1",
+          "table_id": "Amon",
+          "variable_id": "tas",
+          "grid_label": "gn",
+          "zstore": "gs://cmip6/CMIP6/ScenarioMIP/DKRZ/MPI-ESM1-2-HR/ssp585/r1i1p1f1/Amon/tas/gn/v20190710/",
+          "dcpp_init_year": null,
+          "version": 20190710
+        }
+      ],
+      "status": "metadata-compatible",
+      "shape": [
+        192,
+        384
+      ],
+      "estimated_uncompressed_read_bytes": 1161953280
+    },
+    {
+      "model": "MPI-ESM1-2-LR",
+      "member": "r1i1p1f1",
+      "grid": "gn",
+      "sources": [
+        {
+          "activity_id": "ScenarioMIP",
+          "institution_id": "MPI-M",
+          "source_id": "MPI-ESM1-2-LR",
+          "experiment_id": "ssp245",
+          "member_id": "r1i1p1f1",
+          "table_id": "Amon",
+          "variable_id": "tas",
+          "grid_label": "gn",
+          "zstore": "gs://cmip6/CMIP6/ScenarioMIP/MPI-M/MPI-ESM1-2-LR/ssp245/r1i1p1f1/Amon/tas/gn/v20190710/",
+          "dcpp_init_year": null,
+          "version": 20190710
+        },
+        {
+          "activity_id": "CMIP",
+          "institution_id": "MPI-M",
+          "source_id": "MPI-ESM1-2-LR",
+          "experiment_id": "historical",
+          "member_id": "r1i1p1f1",
+          "table_id": "Amon",
+          "variable_id": "tas",
+          "grid_label": "gn",
+          "zstore": "gs://cmip6/CMIP6/CMIP/MPI-M/MPI-ESM1-2-LR/historical/r1i1p1f1/Amon/tas/gn/v20190710/",
+          "dcpp_init_year": null,
+          "version": 20190710
+        },
+        {
+          "activity_id": "ScenarioMIP",
+          "institution_id": "MPI-M",
+          "source_id": "MPI-ESM1-2-LR",
+          "experiment_id": "ssp585",
+          "member_id": "r1i1p1f1",
+          "table_id": "Amon",
+          "variable_id": "tas",
+          "grid_label": "gn",
+          "zstore": "gs://cmip6/CMIP6/ScenarioMIP/MPI-M/MPI-ESM1-2-LR/ssp585/r1i1p1f1/Amon/tas/gn/v20190710/",
+          "dcpp_init_year": null,
+          "version": 20190710
+        },
+        {
+          "activity_id": "ScenarioMIP",
+          "institution_id": "MPI-M",
+          "source_id": "MPI-ESM1-2-LR",
+          "experiment_id": "ssp126",
+          "member_id": "r1i1p1f1",
+          "table_id": "Amon",
+          "variable_id": "tas",
+          "grid_label": "gn",
+          "zstore": "gs://cmip6/CMIP6/ScenarioMIP/MPI-M/MPI-ESM1-2-LR/ssp126/r1i1p1f1/Amon/tas/gn/v20190710/",
+          "dcpp_init_year": null,
+          "version": 20190710
+        }
+      ],
+      "status": "metadata-compatible",
+      "shape": [
+        96,
+        192
+      ],
+      "estimated_uncompressed_read_bytes": 374243328
+    },
+    {
+      "model": "MRI-ESM2-0",
+      "member": "r1i1p1f1",
+      "grid": "gn",
+      "sources": [
+        {
+          "activity_id": "ScenarioMIP",
+          "institution_id": "MRI",
+          "source_id": "MRI-ESM2-0",
+          "experiment_id": "ssp245",
+          "member_id": "r1i1p1f1",
+          "table_id": "Amon",
+          "variable_id": "tas",
+          "grid_label": "gn",
+          "zstore": "gs://cmip6/CMIP6/ScenarioMIP/MRI/MRI-ESM2-0/ssp245/r1i1p1f1/Amon/tas/gn/v20190222/",
+          "dcpp_init_year": null,
+          "version": 20190222
+        },
+        {
+          "activity_id": "CMIP",
+          "institution_id": "MRI",
+          "source_id": "MRI-ESM2-0",
+          "experiment_id": "historical",
+          "member_id": "r1i1p1f1",
+          "table_id": "Amon",
+          "variable_id": "tas",
+          "grid_label": "gn",
+          "zstore": "gs://cmip6/CMIP6/CMIP/MRI/MRI-ESM2-0/historical/r1i1p1f1/Amon/tas/gn/v20190222/",
+          "dcpp_init_year": null,
+          "version": 20190222
+        },
+        {
+          "activity_id": "ScenarioMIP",
+          "institution_id": "MRI",
+          "source_id": "MRI-ESM2-0",
+          "experiment_id": "ssp126",
+          "member_id": "r1i1p1f1",
+          "table_id": "Amon",
+          "variable_id": "tas",
+          "grid_label": "gn",
+          "zstore": "gs://cmip6/CMIP6/ScenarioMIP/MRI/MRI-ESM2-0/ssp126/r1i1p1f1/Amon/tas/gn/v20191108/",
+          "dcpp_init_year": null,
+          "version": 20191108
+        },
+        {
+          "activity_id": "ScenarioMIP",
+          "institution_id": "MRI",
+          "source_id": "MRI-ESM2-0",
+          "experiment_id": "ssp585",
+          "member_id": "r1i1p1f1",
+          "table_id": "Amon",
+          "variable_id": "tas",
+          "grid_label": "gn",
+          "zstore": "gs://cmip6/CMIP6/ScenarioMIP/MRI/MRI-ESM2-0/ssp585/r1i1p1f1/Amon/tas/gn/v20191108/",
+          "dcpp_init_year": null,
+          "version": 20191108
+        }
+      ],
+      "status": "metadata-compatible",
+      "shape": [
+        160,
+        320
+      ],
+      "estimated_uncompressed_read_bytes": 879820800
+    },
+    {
+      "model": "NESM3",
+      "member": "r1i1p1f1",
+      "grid": "gn",
+      "sources": [
+        {
+          "activity_id": "CMIP",
+          "institution_id": "NUIST",
+          "source_id": "NESM3",
+          "experiment_id": "historical",
+          "member_id": "r1i1p1f1",
+          "table_id": "Amon",
+          "variable_id": "tas",
+          "grid_label": "gn",
+          "zstore": "gs://cmip6/CMIP6/CMIP/NUIST/NESM3/historical/r1i1p1f1/Amon/tas/gn/v20190630/",
+          "dcpp_init_year": null,
+          "version": 20190630
+        },
+        {
+          "activity_id": "ScenarioMIP",
+          "institution_id": "NUIST",
+          "source_id": "NESM3",
+          "experiment_id": "ssp585",
+          "member_id": "r1i1p1f1",
+          "table_id": "Amon",
+          "variable_id": "tas",
+          "grid_label": "gn",
+          "zstore": "gs://cmip6/CMIP6/ScenarioMIP/NUIST/NESM3/ssp585/r1i1p1f1/Amon/tas/gn/v20190728/",
+          "dcpp_init_year": null,
+          "version": 20190728
+        },
+        {
+          "activity_id": "ScenarioMIP",
+          "institution_id": "NUIST",
+          "source_id": "NESM3",
+          "experiment_id": "ssp126",
+          "member_id": "r1i1p1f1",
+          "table_id": "Amon",
+          "variable_id": "tas",
+          "grid_label": "gn",
+          "zstore": "gs://cmip6/CMIP6/ScenarioMIP/NUIST/NESM3/ssp126/r1i1p1f1/Amon/tas/gn/v20190731/",
+          "dcpp_init_year": null,
+          "version": 20190731
+        },
+        {
+          "activity_id": "ScenarioMIP",
+          "institution_id": "NUIST",
+          "source_id": "NESM3",
+          "experiment_id": "ssp245",
+          "member_id": "r1i1p1f1",
+          "table_id": "Amon",
+          "variable_id": "tas",
+          "grid_label": "gn",
+          "zstore": "gs://cmip6/CMIP6/ScenarioMIP/NUIST/NESM3/ssp245/r1i1p1f1/Amon/tas/gn/v20190731/",
+          "dcpp_init_year": null,
+          "version": 20190731
+        }
+      ],
+      "status": "metadata-compatible",
+      "shape": [
+        96,
+        192
+      ],
+      "estimated_uncompressed_read_bytes": 316735488
+    },
+    {
+      "model": "NorESM2-LM",
+      "member": "r1i1p1f1",
+      "grid": "gn",
+      "sources": [
+        {
+          "activity_id": "CMIP",
+          "institution_id": "NCC",
+          "source_id": "NorESM2-LM",
+          "experiment_id": "historical",
+          "member_id": "r1i1p1f1",
+          "table_id": "Amon",
+          "variable_id": "tas",
+          "grid_label": "gn",
+          "zstore": "gs://cmip6/CMIP6/CMIP/NCC/NorESM2-LM/historical/r1i1p1f1/Amon/tas/gn/v20190815/",
+          "dcpp_init_year": null,
+          "version": 20190815
+        },
+        {
+          "activity_id": "ScenarioMIP",
+          "institution_id": "NCC",
+          "source_id": "NorESM2-LM",
+          "experiment_id": "ssp245",
+          "member_id": "r1i1p1f1",
+          "table_id": "Amon",
+          "variable_id": "tas",
+          "grid_label": "gn",
+          "zstore": "gs://cmip6/CMIP6/ScenarioMIP/NCC/NorESM2-LM/ssp245/r1i1p1f1/Amon/tas/gn/v20191108/",
+          "dcpp_init_year": null,
+          "version": 20191108
+        },
+        {
+          "activity_id": "ScenarioMIP",
+          "institution_id": "NCC",
+          "source_id": "NorESM2-LM",
+          "experiment_id": "ssp585",
+          "member_id": "r1i1p1f1",
+          "table_id": "Amon",
+          "variable_id": "tas",
+          "grid_label": "gn",
+          "zstore": "gs://cmip6/CMIP6/ScenarioMIP/NCC/NorESM2-LM/ssp585/r1i1p1f1/Amon/tas/gn/v20191108/",
+          "dcpp_init_year": null,
+          "version": 20191108
+        },
+        {
+          "activity_id": "ScenarioMIP",
+          "institution_id": "NCC",
+          "source_id": "NorESM2-LM",
+          "experiment_id": "ssp126",
+          "member_id": "r1i1p1f1",
+          "table_id": "Amon",
+          "variable_id": "tas",
+          "grid_label": "gn",
+          "zstore": "gs://cmip6/CMIP6/ScenarioMIP/NCC/NorESM2-LM/ssp126/r1i1p1f1/Amon/tas/gn/v20191108/",
+          "dcpp_init_year": null,
+          "version": 20191108
+        }
+      ],
+      "status": "metadata-compatible",
+      "shape": [
+        96,
+        144
+      ],
+      "estimated_uncompressed_read_bytes": 280682496
+    },
+    {
+      "model": "NorESM2-MM",
+      "member": "r1i1p1f1",
+      "grid": "gn",
+      "sources": [
+        {
+          "activity_id": "ScenarioMIP",
+          "institution_id": "NCC",
+          "source_id": "NorESM2-MM",
+          "experiment_id": "ssp245",
+          "member_id": "r1i1p1f1",
+          "table_id": "Amon",
+          "variable_id": "tas",
+          "grid_label": "gn",
+          "zstore": "gs://cmip6/CMIP6/ScenarioMIP/NCC/NorESM2-MM/ssp245/r1i1p1f1/Amon/tas/gn/v20191108/",
+          "dcpp_init_year": null,
+          "version": 20191108
+        },
+        {
+          "activity_id": "ScenarioMIP",
+          "institution_id": "NCC",
+          "source_id": "NorESM2-MM",
+          "experiment_id": "ssp126",
+          "member_id": "r1i1p1f1",
+          "table_id": "Amon",
+          "variable_id": "tas",
+          "grid_label": "gn",
+          "zstore": "gs://cmip6/CMIP6/ScenarioMIP/NCC/NorESM2-MM/ssp126/r1i1p1f1/Amon/tas/gn/v20191108/",
+          "dcpp_init_year": null,
+          "version": 20191108
+        },
+        {
+          "activity_id": "CMIP",
+          "institution_id": "NCC",
+          "source_id": "NorESM2-MM",
+          "experiment_id": "historical",
+          "member_id": "r1i1p1f1",
+          "table_id": "Amon",
+          "variable_id": "tas",
+          "grid_label": "gn",
+          "zstore": "gs://cmip6/CMIP6/CMIP/NCC/NorESM2-MM/historical/r1i1p1f1/Amon/tas/gn/v20191108/",
+          "dcpp_init_year": null,
+          "version": 20191108
+        },
+        {
+          "activity_id": "ScenarioMIP",
+          "institution_id": "NCC",
+          "source_id": "NorESM2-MM",
+          "experiment_id": "ssp585",
+          "member_id": "r1i1p1f1",
+          "table_id": "Amon",
+          "variable_id": "tas",
+          "grid_label": "gn",
+          "zstore": "gs://cmip6/CMIP6/ScenarioMIP/NCC/NorESM2-MM/ssp585/r1i1p1f1/Amon/tas/gn/v20191108/",
+          "dcpp_init_year": null,
+          "version": 20191108
+        }
+      ],
+      "status": "metadata-compatible",
+      "shape": [
+        192,
+        288
+      ],
+      "estimated_uncompressed_read_bytes": 865271808
+    },
+    {
+      "model": "TaiESM1",
+      "member": "r1i1p1f1",
+      "grid": "gn",
+      "sources": [
+        {
+          "activity_id": "CMIP",
+          "institution_id": "AS-RCEC",
+          "source_id": "TaiESM1",
+          "experiment_id": "historical",
+          "member_id": "r1i1p1f1",
+          "table_id": "Amon",
+          "variable_id": "tas",
+          "grid_label": "gn",
+          "zstore": "gs://cmip6/CMIP6/CMIP/AS-RCEC/TaiESM1/historical/r1i1p1f1/Amon/tas/gn/v20200623/",
+          "dcpp_init_year": null,
+          "version": 20200623
+        },
+        {
+          "activity_id": "ScenarioMIP",
+          "institution_id": "AS-RCEC",
+          "source_id": "TaiESM1",
+          "experiment_id": "ssp585",
+          "member_id": "r1i1p1f1",
+          "table_id": "Amon",
+          "variable_id": "tas",
+          "grid_label": "gn",
+          "zstore": "gs://cmip6/CMIP6/ScenarioMIP/AS-RCEC/TaiESM1/ssp585/r1i1p1f1/Amon/tas/gn/v20200901/",
+          "dcpp_init_year": null,
+          "version": 20200901
+        },
+        {
+          "activity_id": "ScenarioMIP",
+          "institution_id": "AS-RCEC",
+          "source_id": "TaiESM1",
+          "experiment_id": "ssp245",
+          "member_id": "r1i1p1f1",
+          "table_id": "Amon",
+          "variable_id": "tas",
+          "grid_label": "gn",
+          "zstore": "gs://cmip6/CMIP6/ScenarioMIP/AS-RCEC/TaiESM1/ssp245/r1i1p1f1/Amon/tas/gn/v20201124/",
+          "dcpp_init_year": null,
+          "version": 20201124
+        },
+        {
+          "activity_id": "ScenarioMIP",
+          "institution_id": "AS-RCEC",
+          "source_id": "TaiESM1",
+          "experiment_id": "ssp126",
+          "member_id": "r1i1p1f1",
+          "table_id": "Amon",
+          "variable_id": "tas",
+          "grid_label": "gn",
+          "zstore": "gs://cmip6/CMIP6/ScenarioMIP/AS-RCEC/TaiESM1/ssp126/r1i1p1f1/Amon/tas/gn/v20201124/",
+          "dcpp_init_year": null,
+          "version": 20201124
+        }
+      ],
+      "status": "metadata-compatible",
+      "shape": [
+        192,
+        288
+      ],
+      "estimated_uncompressed_read_bytes": 864829440
+    },
+    {
+      "model": "UKESM1-0-LL",
+      "member": "r1i1p1f2",
+      "grid": "gn",
+      "sources": [
+        {
+          "activity_id": "CMIP",
+          "institution_id": "MOHC",
+          "source_id": "UKESM1-0-LL",
+          "experiment_id": "historical",
+          "member_id": "r1i1p1f2",
+          "table_id": "Amon",
+          "variable_id": "tas",
+          "grid_label": "gn",
+          "zstore": "gs://cmip6/CMIP6/CMIP/MOHC/UKESM1-0-LL/historical/r1i1p1f2/Amon/tas/gn/v20190406/",
+          "dcpp_init_year": null,
+          "version": 20190406
+        },
+        {
+          "activity_id": "ScenarioMIP",
+          "institution_id": "MOHC",
+          "source_id": "UKESM1-0-LL",
+          "experiment_id": "ssp126",
+          "member_id": "r1i1p1f2",
+          "table_id": "Amon",
+          "variable_id": "tas",
+          "grid_label": "gn",
+          "zstore": "gs://cmip6/CMIP6/ScenarioMIP/MOHC/UKESM1-0-LL/ssp126/r1i1p1f2/Amon/tas/gn/v20190503/",
+          "dcpp_init_year": null,
+          "version": 20190503
+        },
+        {
+          "activity_id": "ScenarioMIP",
+          "institution_id": "MOHC",
+          "source_id": "UKESM1-0-LL",
+          "experiment_id": "ssp585",
+          "member_id": "r1i1p1f2",
+          "table_id": "Amon",
+          "variable_id": "tas",
+          "grid_label": "gn",
+          "zstore": "gs://cmip6/CMIP6/ScenarioMIP/MOHC/UKESM1-0-LL/ssp585/r1i1p1f2/Amon/tas/gn/v20190507/",
+          "dcpp_init_year": null,
+          "version": 20190507
+        },
+        {
+          "activity_id": "ScenarioMIP",
+          "institution_id": "MOHC",
+          "source_id": "UKESM1-0-LL",
+          "experiment_id": "ssp245",
+          "member_id": "r1i1p1f2",
+          "table_id": "Amon",
+          "variable_id": "tas",
+          "grid_label": "gn",
+          "zstore": "gs://cmip6/CMIP6/ScenarioMIP/MOHC/UKESM1-0-LL/ssp245/r1i1p1f2/Amon/tas/gn/v20190507/",
+          "dcpp_init_year": null,
+          "version": 20190507
+        }
+      ],
+      "status": "metadata-compatible",
+      "shape": [
+        144,
+        192
+      ],
+      "estimated_uncompressed_read_bytes": 475103232
+    }
+  ]
+}

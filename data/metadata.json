@@ -1,0 +1,100 @@
+{
+  "title": "Is Winter Disappearing Faster Than Summer Is Warming?",
+  "research_question": "How do the rates of winter and summer warming differ across geographic regions, and how might these seasonal differences change under future emissions scenarios?",
+  "model": "CanESM5-CanOE",
+  "member": "r1i1p2f1",
+  "grid": "gn",
+  "variable": "tas",
+  "table": "Amon",
+  "source_units": "K",
+  "units": "\u00b0C anomaly",
+  "baseline": "1995\u20132014, separately for DJF and JJA",
+  "regions": [
+    {
+      "name": "North America sector",
+      "south": 25,
+      "north": 70,
+      "west": -170,
+      "east": -50,
+      "description": "25\u201370\u00b0N, 170\u201350\u00b0W \u00b7 rectangular sector \u00b7 land + ocean"
+    },
+    {
+      "name": "Europe sector",
+      "south": 35,
+      "north": 70,
+      "west": -10,
+      "east": 40,
+      "description": "35\u201370\u00b0N, 10\u00b0W\u201340\u00b0E \u00b7 rectangular sector \u00b7 land + ocean"
+    },
+    {
+      "name": "Arctic",
+      "south": 66.5,
+      "north": 90,
+      "west": -180,
+      "east": 180,
+      "description": "66.5\u201390\u00b0N \u00b7 all longitudes \u00b7 land + ocean"
+    }
+  ],
+  "seasons": {
+    "DJF": "Winter (December\u2013February)",
+    "JJA": "Summer (June\u2013August)"
+  },
+  "scenarios": [
+    "ssp245",
+    "ssp585"
+  ],
+  "accessed_utc": "2026-11-04T23:48:49.736984+00:00",
+  "sources": [
+    {
+      "experiment": "historical",
+      "zstore": "gs://cmip6/CMIP6/CMIP/CCCma/CanESM5-CanOE/historical/r1i1p2f1/Amon/tas/gn/v20190429/",
+      "version": 20190429,
+      "calendar": "noleap",
+      "available_start": "1850-01-16 12:00:00",
+      "available_end": "2014-12-16 12:00:00",
+      "season_years": [
+        1995,
+        2014
+      ],
+      "cache": "CanESM5-CanOE_r1i1p2f1_gn_historical_v20190429_seasonal.nc",
+      "cache_sha256": "f8951a00c34efea05df9bf56926addb180236022e54fd985c533b0c75c236cea",
+      "license": "CMIP6 model data produced by The Government of Canada (Canadian Centre for Climate Modelling and Analysis, Environment and Climate Change Canada) is licensed under a Creative Commons Attribution ShareAlike 4.0 International License (https://creativecommons.org/licenses). Consult https://pcmdi.llnl.gov/CMIP6/TermsOfUse for terms of use governing CMIP6 output, including citation requirements and proper acknowledgment. Further information about this data, including some limitations, can be found via the further_info_url (recorded as a global attribute in this file) and at https:///pcmdi.llnl.gov/. The data producers and data providers make no warranty, either express or implied, including, but not limited to, warranties of merchantability and fitness for a particular purpose. All liabilities arising from the supply of the information (including any liability arising in negligence) are excluded to the fullest extent permitted by law.",
+      "institution": "Canadian Centre for Climate Modelling and Analysis, Environment and Climate Change Canada, Victoria, BC V8P 5C2, Canada"
+    },
+    {
+      "experiment": "ssp245",
+      "zstore": "gs://cmip6/CMIP6/ScenarioMIP/CCCma/CanESM5-CanOE/ssp245/r1i1p2f1/Amon/tas/gn/v20190429/",
+      "version": 20190429,
+      "calendar": "noleap",
+      "available_start": "2015-01-16 12:00:00",
+      "available_end": "2100-12-16 12:00:00",
+      "season_years": [
+        2015,
+        2100
+      ],
+      "cache": "CanESM5-CanOE_r1i1p2f1_gn_ssp245_v20190429_seasonal.nc",
+      "cache_sha256": "fcabf5317746239942baa3342685f48377afe9a4fcfcf008ab6bf907b783dc0a",
+      "license": "CMIP6 model data produced by The Government of Canada (Canadian Centre for Climate Modelling and Analysis, Environment and Climate Change Canada) is licensed under a Creative Commons Attribution ShareAlike 4.0 International License (https://creativecommons.org/licenses). Consult https://pcmdi.llnl.gov/CMIP6/TermsOfUse for terms of use governing CMIP6 output, including citation requirements and proper acknowledgment. Further information about this data, including some limitations, can be found via the further_info_url (recorded as a global attribute in this file) and at https:///pcmdi.llnl.gov/. The data producers and data providers make no warranty, either express or implied, including, but not limited to, warranties of merchantability and fitness for a particular purpose. All liabilities arising from the supply of the information (including any liability arising in negligence) are excluded to the fullest extent permitted by law.",
+      "institution": "Canadian Centre for Climate Modelling and Analysis, Environment and Climate Change Canada, Victoria, BC V8P 5C2, Canada"
+    },
+    {
+      "experiment": "ssp585",
+      "zstore": "gs://cmip6/CMIP6/ScenarioMIP/CCCma/CanESM5-CanOE/ssp585/r1i1p2f1/Amon/tas/gn/v20190429/",
+      "version": 20190429,
+      "calendar": "noleap",
+      "available_start": "2015-01-16 12:00:00",
+      "available_end": "2100-12-16 12:00:00",
+      "season_years": [
+        2015,
+        2100
+      ],
+      "cache": "CanESM5-CanOE_r1i1p2f1_gn_ssp585_v20190429_seasonal.nc",
+      "cache_sha256": "791c4fda6e10bf28927454a1320bb489f4f5efbe6d480422bd47ee6eee5bcb17",
+      "license": "CMIP6 model data produced by The Government of Canada (Canadian Centre for Climate Modelling and Analysis, Environment and Climate Change Canada) is licensed under a Creative Commons Attribution ShareAlike 4.0 International License (https://creativecommons.org/licenses). Consult https://pcmdi.llnl.gov/CMIP6/TermsOfUse for terms of use governing CMIP6 output, including citation requirements and proper acknowledgment. Further information about this data, including some limitations, can be found via the further_info_url (recorded as a global attribute in this file) and at https:///pcmdi.llnl.gov/. The data producers and data providers make no warranty, either express or implied, including, but not limited to, warranties of merchantability and fitness for a particular purpose. All liabilities arising from the supply of the information (including any liability arising in negligence) are excluded to the fullest extent permitted by law.",
+      "institution": "Canadian Centre for Climate Modelling and Analysis, Environment and Climate Change Canada, Victoria, BC V8P 5C2, Canada"
+    }
+  ],
+  "records": 1152,
+  "method": "Meteorological Northern Hemisphere seasons: DJF assigned to January/February year, JJA to calendar year. All three months required, weighted by calendar days. Winter 1995 uses December 1994. Winter 2015 joins historical December 2014 to scenario January\u2013February 2015. Winter 2100 uses December 2099, not December 2100. Each cell\u2019s season-specific mean of 20 seasons in 1995\u20132014 is subtracted. Regions use spherical area of published cell bounds, with fractional latitude and longitude overlap. Period means weight complete season-years equally. Warming rate is ordinary least-squares slope \u00d7 10, in \u00b0C/decade, with the same years for winter and summer. Trend displays require at least 20 consecutive future season-years.",
+  "limitations": "One model and member, no ensemble uncertainty or significance test. North America and Europe are rectangular sectors, not continent masks, and include ocean. Arctic overlaps the northern parts of the other sectors. No snow, frost-day or winter-length data are used. Disappearing is a narrative hook: this does not measure literal disappearance of winter. Spatially varying baseline is recent, not preindustrial. Seasonal anomaly difference is not the same measure as a warming-rate difference."
+}

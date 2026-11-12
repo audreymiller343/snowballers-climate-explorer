@@ -1,0 +1,31 @@
+Found 276 compatible model/member/grid combinations across 43 models.
+Practical candidates by estimated read size:
+CanESM5-CanOE r1i1p2f1 gn [64, 128] 166 MB uncompressed
+MIROC-ES2L r4i1p1f2 gn [64, 128] 166 MB uncompressed
+CanESM5 r1i1p1f1 gn [64, 128] 245 MB uncompressed
+GISS-E2-1-G r1i1p3f1 gn [90, 144] 260 MB uncompressed
+NorESM2-LM r1i1p1f1 gn [96, 144] 281 MB uncompressed
+FGOALS-g3 r1i1p1f1 gn [80, 180] 294 MB uncompressed
+NESM3 r1i1p1f1 gn [96, 192] 317 MB uncompressed
+KIOST-ESM r1i1p1f1 gr1 [96, 192] 328 MB uncompressed
+IITM-ESM r1i1p1f1 gn [94, 192] 349 MB uncompressed
+IPSL-CM6A-LR r1i1p1f1 gr [143, 144] 354 MB uncompressed
+Validating candidate CanESM5-CanOE r1i1p2f1
+{"experiment": "historical", "available_start": "1850-01-16 12:00:00", "available_end": "2014-12-16 12:00:00", "selected_years": [1995, 2014], "sample_K_range": [226.20265197753906, 308.01715087890625], "zstore": "gs://cmip6/CMIP6/CMIP/CCCma/CanESM5-CanOE/historical/r1i1p2f1/Amon/tas/gn/v20190429/", "calendar": "noleap"}
+{"experiment": "ssp126", "available_start": "2015-01-16 12:00:00", "available_end": "2100-12-16 12:00:00", "selected_years": [2015, 2100], "sample_K_range": [227.0704345703125, 310.1096496582031], "zstore": "gs://cmip6/CMIP6/ScenarioMIP/CCCma/CanESM5-CanOE/ssp126/r1i1p2f1/Amon/tas/gn/v20190429/", "calendar": "noleap"}
+{"experiment": "ssp245", "available_start": "2015-01-16 12:00:00", "available_end": "2100-12-16 12:00:00", "selected_years": [2015, 2100], "sample_K_range": [227.04490661621094, 308.7635192871094], "zstore": "gs://cmip6/CMIP6/ScenarioMIP/CCCma/CanESM5-CanOE/ssp245/r1i1p2f1/Amon/tas/gn/v20190429/", "calendar": "noleap"}
+{"experiment": "ssp585", "available_start": "2015-01-16 12:00:00", "available_end": "2100-12-16 12:00:00", "selected_years": [2015, 2100], "sample_K_range": [224.3424530029297, 310.0611572265625], "zstore": "gs://cmip6/CMIP6/ScenarioMIP/CCCma/CanESM5-CanOE/ssp585/r1i1p2f1/Amon/tas/gn/v20190429/", "calendar": "noleap"}
+SELECTED: CanESM5-CanOE r1i1p2f1 gn
+Opening historical gs://cmip6/CMIP6/CMIP/CCCma/CanESM5-CanOE/historical/r1i1p2f1/Amon/tas/gn/v20190429/
+Frozen({'time': 240, 'lat': 64, 'lon': 128}) ((147, 93), (64,), (128,))
+Processed historical
+Opening ssp126 gs://cmip6/CMIP6/ScenarioMIP/CCCma/CanESM5-CanOE/ssp126/r1i1p2f1/Amon/tas/gn/v20190429/
+Frozen({'time': 1032, 'lat': 64, 'lon': 128}) ((516, 516), (64,), (128,))
+Processed ssp126
+Opening ssp245 gs://cmip6/CMIP6/ScenarioMIP/CCCma/CanESM5-CanOE/ssp245/r1i1p2f1/Amon/tas/gn/v20190429/
+Frozen({'time': 1032, 'lat': 64, 'lon': 128}) ((516, 516), (64,), (128,))
+Processed ssp245
+Opening ssp585 gs://cmip6/CMIP6/ScenarioMIP/CCCma/CanESM5-CanOE/ssp585/r1i1p2f1/Amon/tas/gn/v20190429/
+Frozen({'time': 1032, 'lat': 64, 'lon': 128}) ((516, 516), (64,), (128,))
+Processed ssp585
+Validated 1668 records

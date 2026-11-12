@@ -1,0 +1,47 @@
+# Seasonal exploratory findings
+
+CanESM5-CanOE, member r1i1p2f1. DJF and JJA each use their own 1995–2014 baseline. All findings describe one realization.
+
+## Figure 1 — Winter and summer warming in the North America sector
+
+![Figure 1](figures/01_seasonal_timeline.png)
+
+North America sector, SSP5-8.5, 2081–2100: winter 8.75 °C; summer 7.66 °C; winter minus summer +1.09 °C.
+Season means weight months by calendar days; sector means use cell areas. Historical lines are simulations. Solid = DJF; dashed = JJA.
+
+## Figure 2 — Winter vs. summer warming rates, 2015–2100
+
+![Figure 2](figures/02_seasonal_rates.png)
+
+Arctic SSP5-8.5 winter trend: 2.519 °C/decade; summer: 1.011; difference: +1.508.
+Ordinary least-squares trends over the same 86 season-years, 2015–2100. No uncertainty interval or significance test is estimated.
+
+## Figure 3 — Regional winter and summer warming, 2081–2100
+
+![Figure 3](figures/03_regional_seasons.png)
+
+Largest winter-minus-summer anomaly contrast among these regions under SSP5-8.5: Arctic, +13.61 °C.
+Bars average 20 complete seasons, 2081–2100. Geographic sectors include land and ocean; Arctic overlaps parts of the other sectors.
+
+## Figure 4 — Where is the winter warming anomaly larger than summer’s?
+
+![Figure 4](figures/04_seasonal_spatial_contrast.png)
+
+Northern Hemisphere grid-cell SSP5-8.5 seasonal anomaly contrast spans -11.62 to +28.40 °C in 2081–2100.
+Red = larger winter anomaly; blue = larger summer anomaly. Each season uses its own historical baseline. This is not a trend-rate map.
+
+## Figure 5 — Winter–summer anomaly contrast by latitude, 2081–2100
+
+![Figure 5](figures/05_seasonal_latitude_profile.png)
+
+Arctic area-mean seasonal anomaly contrast: +10.16 °C under SSP2-4.5 and +13.61 °C under SSP5-8.5.
+Curves are equal-width longitude means at each native latitude. Positive values indicate a larger winter warming anomaly, not necessarily a faster local trend.
+
+## Figure 6 — The winter–summer warming gap across regions and decades
+
+![Figure 6](figures/06_seasonal_region_decade.png)
+
+Arctic SSP5-8.5 winter-minus-summer anomaly contrast: +4.22 °C in 2021–2030; +13.81 °C in 2091–2100.
+Each cell averages ten complete season-year pairs. A positive contrast measures unequal warming since baseline, not the literal loss of winter.
+
+

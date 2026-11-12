@@ -1,0 +1,18 @@
+:root { color-scheme: only light; background: #fff; color: #203c42; }
+.explorer { position: relative; }
+select { max-width: 100%; }
+input[type=range] { width: 220px; max-width: 100%; }
+#chart { max-width: 900px; }
+#chart svg { display: block; width: 100%; height: auto; }
+.series { fill: none; stroke-width: 2; }
+.grid line { stroke: #ddd; }
+.grid path { display: none; }
+#tooltip {
+  position: absolute;
+  pointer-events: none;
+  background: white;
+  border: 1px solid black;
+  padding: 6px;
+  max-width: 280px;
+}
+#tooltip b, #tooltip span { display: block; }

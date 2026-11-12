@@ -1,0 +1,68 @@
+Verified historical DJF 1995
+Verified ssp245 DJF 2015
+Verified ssp585 DJF 2015
+Verified ssp585 DJF 2100
+Verified ssp585 JJA 2100
+{
+  "passed": true,
+  "scope": "seasonal",
+  "timestamp_utc": "2026-11-04T23:57:40.092415+00:00",
+  "method": "Independent NumPy day-weighted means from raw monthly fields, with explicit month/year assertions; includes both 2015 scenario/historical DJF joins. Samples cover every grid cell, not every season-year.",
+  "checks": [
+    {
+      "experiment": "historical",
+      "season": "DJF",
+      "year": 1995,
+      "source_months": [
+        "1994-12-16 12:00:00",
+        "1995-01-16 12:00:00",
+        "1995-02-15 00:00:00"
+      ],
+      "maximum_difference_K": 0.0
+    },
+    {
+      "experiment": "ssp245",
+      "season": "DJF",
+      "year": 2015,
+      "source_months": [
+        "2014-12-16 12:00:00",
+        "2015-01-16 12:00:00",
+        "2015-02-15 00:00:00"
+      ],
+      "maximum_difference_K": 0.0
+    },
+    {
+      "experiment": "ssp585",
+      "season": "DJF",
+      "year": 2015,
+      "source_months": [
+        "2014-12-16 12:00:00",
+        "2015-01-16 12:00:00",
+        "2015-02-15 00:00:00"
+      ],
+      "maximum_difference_K": 0.0
+    },
+    {
+      "experiment": "ssp585",
+      "season": "DJF",
+      "year": 2100,
+      "source_months": [
+        "2099-12-16 12:00:00",
+        "2100-01-16 12:00:00",
+        "2100-02-15 00:00:00"
+      ],
+      "maximum_difference_K": 0.0
+    },
+    {
+      "experiment": "ssp585",
+      "season": "JJA",
+      "year": 2100,
+      "source_months": [
+        "2100-06-16 00:00:00",
+        "2100-07-16 12:00:00",
+        "2100-08-16 12:00:00"
+      ],
+      "maximum_difference_K": 0.0
+    }
+  ]
+}

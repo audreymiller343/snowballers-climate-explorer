@@ -1,0 +1,8 @@
+Seasonal selection: CanESM5-CanOE r1i1p2f1 gn
+historical gs://cmip6/CMIP6/CMIP/CCCma/CanESM5-CanOE/historical/r1i1p2f1/Amon/tas/gn/v20190429/ 1994-12–2014-12
+Validated seasonal fields historical
+ssp245 gs://cmip6/CMIP6/ScenarioMIP/CCCma/CanESM5-CanOE/ssp245/r1i1p2f1/Amon/tas/gn/v20190429/ 2015-01–2100-12; DJF 2015 also uses historical December 2014
+Validated seasonal fields ssp245
+ssp585 gs://cmip6/CMIP6/ScenarioMIP/CCCma/CanESM5-CanOE/ssp585/r1i1p2f1/Amon/tas/gn/v20190429/ 2015-01–2100-12; DJF 2015 also uses historical December 2014
+Validated seasonal fields ssp585
+Saved 1152 real seasonal regional records

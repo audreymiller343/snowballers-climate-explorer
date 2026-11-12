@@ -1,0 +1,60 @@
+<!doctype html>
+<html lang="en">
+<head><meta name="color-scheme" content="light">
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <meta name="description" content="Compare winter and summer warming rates across North America and Europe sectors and the Arctic using real CMIP6 data.">
+  <title>Is Winter Disappearing Faster Than Summer Is Warming?</title>
+  <link rel="stylesheet" href="style.css">
+  <script src="vendor/d3.v7.min.js" defer></script>
+  <script src="main.js" defer></script>
+</head>
+<body>
+  <a class="skip" href="#explorer">Skip to visualization</a>
+  <header><a class="brand" href="./"><span class="brand-icon">◒</span> CLIMATE / EXPLORER</a><span class="course">DSC 106 · PROJECT 03</span></header>
+  <main>
+    <section class="intro">
+      <p class="team">Snowballers · Sadhana Tadepalli · Saahithi Myneedu · Audrey Miller</p>
+      <h1>Is Winter Disappearing Faster Than Summer Is Warming?</h1>
+      <p class="lede">How do the rates of winter and summer warming differ across geographic regions, and how might these seasonal differences change under future emissions scenarios?</p>
+      <p class="hook-note">“Disappearing” is a narrative hook. We measure seasonal temperature change and warming rates—not winter length, snowfall, or the literal disappearance of winter.</p>
+      <div class="tags"><span id="model-tag">CMIP6</span><span>Winter: DJF / Summer: JJA</span><span>Separate 1995–2014 baselines</span></div>
+    </section>
+    <section class="explorer" id="explorer" aria-labelledby="chart-heading">
+      <div class="section-top"><div><p class="eyebrow">EXPLORE THE SEASONAL CONTRAST</p><h2 id="chart-heading">Two seasons. Two possible futures.</h2></div><button id="reset" type="button">↺ Reset view</button></div>
+      <div class="controls">
+        <div class="region-control"><label for="region">Geographic view</label><select id="region"></select><p id="bounds"></p></div>
+        <fieldset><legend>Emissions scenarios</legend><div class="scenario-options">
+          <label style="--scenario:#dc942c"><input type="checkbox" name="scenario" value="ssp245" checked><span>SSP2-4.5<small>Intermediate emissions</small></span></label>
+          <label style="--scenario:#c75064"><input type="checkbox" name="scenario" value="ssp585" checked><span>SSP5-8.5<small>Very high emissions</small></span></label>
+        </div></fieldset>
+        <div class="measure-control"><label for="measure">Compare</label><select id="measure"><option value="anomaly">Winter & summer anomalies</option><option value="gap">Winter minus summer anomaly</option></select></div>
+      </div>
+      <div class="chart-topline"><span id="chart-description">Seasonal temperature anomaly · °C</span><div class="season-legend"><span><b class="season-key"></b> Winter (DJF)</span><span><b class="season-key summer"></b> Summer (JJA)</span></div></div>
+      <div id="chart" aria-label="Interactive seasonal temperature comparison"></div>
+      <p id="empty" hidden>Select at least one scenario to compare future projections.</p>
+      <div id="tooltip" role="status" aria-live="off" hidden></div>
+      <div class="timeline">
+        <div><label for="start-year">Start season-year <output id="start-output">2015</output></label><input id="start-year" type="range" min="1995" max="2099" value="2015"></div>
+        <div><label for="end-year">End season-year <output id="end-output">2100</output></label><input id="end-year" type="range" min="1996" max="2100" value="2100"></div>
+      </div>
+      <p class="chart-help">Hover for seasonal values, or Tab to the chart and use ← / →. Winter belongs to its January/February year. Historical simulations appear in gray when included. Axis limits adapt to the selected view.</p>
+      <div class="rate-heading"><h3>Which season is warming faster?</h3><p>OLS linear trends across the same selected future years · °C per decade · at least 20 complete years required</p></div>
+      <div id="rate-cards" aria-live="polite"></div>
+      <div class="insight" aria-live="polite"><span class="eyebrow">IN THIS VIEW</span><p id="summary">Loading validated seasonal CMIP6 data…</p></div>
+      <p id="error" role="alert" hidden></p>
+    </section>
+    <section class="question-grid" aria-label="Three questions to explore">
+      <article><span>01 / SEASON</span><h3>Is winter warming faster?</h3><p>Compare winter and summer trends over matching years. A larger anomaly alone does not establish a faster current rate.</p></article>
+      <article><span>02 / PLACE</span><h3>Does the pattern change by region?</h3><p>Switch between the North America sector, Europe sector, and Arctic. Each view uses exactly defined geographic bounds.</p></article>
+      <article><span>03 / PATHWAY</span><h3>How does the emissions scenario matter?</h3><p>Compare SSP2-4.5 with SSP5-8.5. Move the time window to explore how their seasonal contrasts evolve.</p></article>
+    </section>
+    <section class="context-grid">
+      <article><p class="eyebrow">READING THE CHART</p><h2>A fair seasonal comparison</h2><p>Winter is December–February (DJF); summer is June–August (JJA). Each season has its <strong>own 1995–2014 baseline</strong>. A winter anomaly of +2 °C means winter is two degrees warmer than its historical seasonal average. It does not compare winter’s actual temperature with summer’s.</p><p>The gap view subtracts the summer anomaly from the winter anomaly. Positive values mean winter has accumulated more warming since baseline. The cards separately calculate warming rates in °C per decade; that is the measure used to answer “faster.” Neither measure tells us how long winter lasts.</p></article>
+      <article><p class="eyebrow">METHOD & SCOPE</p><h2>One model, three northern regions</h2><p><span id="model-details">Selected CMIP6 model</span> · monthly near-surface air temperature (tas). Complete seasons weight months by their calendar days. Winter 1995 includes December 1994; winter 2015 joins historical December 2014 with each scenario’s January–February.</p><p>Areas use published grid-cell bounds with fractional overlap at region edges. North America (25–70°N, 170–50°W) and Europe (35–70°N, 10°W–40°E) are rectangular sectors including land and ocean, not continent masks. The Arctic is 66.5–90°N at all longitudes and overlaps parts of the sectors.</p><p>These conditional projections describe one model realization, without ensemble uncertainty or a significance test. Trends depend on the selected interval. The baseline is recent, not preindustrial.</p><p><a href="data/provenance.md">Data provenance</a> · <a href="data/temperature.csv" download>Download seasonal CSV</a> · <a href="https://www.ncei.noaa.gov/news/meteorological-versus-astronomical-seasons">Season definitions</a></p></article>
+    </section>
+    <section class="further"><div><p class="eyebrow">BEHIND THE EXPLORER</p><h2>From seasonal patterns to a sharper question</h2></div><p><a href="writeup.html">Design & development write-up ↗</a></p></section>
+  </main>
+  <footer>CMIP6 · Built with D3.js <span>Seasonal warming does not measure the disappearance of winter.</span></footer>
+</body>
+</html>

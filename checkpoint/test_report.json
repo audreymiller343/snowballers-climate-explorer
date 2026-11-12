@@ -1,0 +1,33 @@
+{
+  "passed": true,
+  "scope": "seasonal revision",
+  "timestamp_utc": "2026-11-05T00:00:51.579871+00:00",
+  "browser": "Installed Google Chrome with Playwright",
+  "checks": [
+    "New title, two scenarios, four seasonal lines, dashed summer and trend cards load",
+    "Both default seasonal rate differences agree with independent NumPy polyfit",
+    "Arctic data, bounds, summary and independent winter rate update",
+    "Europe counterexample correctly reports larger summer rate for both scenarios",
+    "Scenario toggle removes both seasonal lines and matching trend card",
+    "Anomaly-gap view replaces seasonal pairs with matched-year differences",
+    "Year filters recompute matching means and rates on explicitly distinct windows",
+    "Gap hover reports the exact seasonal difference from source data",
+    "Keyboard inspection advances one season-year",
+    "Rates suppressed for 19 years and enabled at the 20-year minimum",
+    "Crossed sliders clamp to a valid interval",
+    "Empty selection removes future lines/cards and gives guidance",
+    "Reset restores the complete seasonal default state",
+    "Historical seasons display in gray without invented future rates",
+    "Seasonal hover identifies all four exact season/scenario values",
+    "390px mobile layout fits and retains chart, comparison control and rates",
+    "Seasonal checkpoint deck contains six figures, live prototype and working navigation",
+    "Current write-up, seasonal provenance/data and narration resolve",
+    "No JavaScript page errors or failed HTTP asset requests"
+  ],
+  "page_errors": [],
+  "failed_http_requests": [],
+  "limitations": [
+    "No human usability or screen-reader evaluation.",
+    "No deployed GitHub Pages URL, MP4 audio/duration or Gradescope submission verified."
+  ]
+}

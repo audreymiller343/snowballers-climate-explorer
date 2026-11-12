@@ -1,0 +1,52 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <meta name="description" content="Explore annual CMIP6 temperature projections across latitude bands and three emissions scenarios.">
+  <title>Exploring Global Temperature Changes Across Regions and Climate Scenarios</title>
+  <link rel="stylesheet" href="style.css">
+  <script src="vendor/d3.v7.min.js" defer></script>
+  <script src="main.js" defer></script>
+</head>
+<body>
+  <a class="skip" href="#explorer">Skip to visualization</a>
+  <header><a class="brand" href="./"><span class="brand-icon">◒</span> CLIMATE / EXPLORER</a><span class="course">DSC 106 · PROJECT 03</span></header>
+  <main>
+    <section class="intro">
+      <p class="eyebrow">ONE PLANET. DIFFERENT PATHWAYS.</p>
+      <h1>Exploring Global Temperature Changes Across Regions and Climate Scenarios</h1>
+      <p class="lede">How do projected temperature changes differ across geographic regions and emissions scenarios—and how does the gap evolve through 2100?</p>
+      <div class="tags"><span id="model-tag">CMIP6</span><span>1995–2014 baseline</span><span>Land + ocean</span></div>
+    </section>
+    <section class="explorer" id="explorer" aria-labelledby="chart-heading">
+      <div class="section-top"><div><p class="eyebrow">EXPLORE THE PROJECTIONS</p><h2 id="chart-heading">Three pathways, one shared baseline</h2></div><button id="reset" type="button">↺ Reset view</button></div>
+      <div class="controls">
+        <div class="region-control"><label for="region">Geographic view</label><select id="region"></select><p id="bounds"></p></div>
+        <fieldset><legend>Emissions scenarios</legend><div class="scenario-options">
+          <label style="--scenario:#168b82"><input type="checkbox" name="scenario" value="ssp126" checked><span>SSP1-2.6<small>Lower emissions</small></span></label>
+          <label style="--scenario:#dc942c"><input type="checkbox" name="scenario" value="ssp245" checked><span>SSP2-4.5<small>Intermediate emissions</small></span></label>
+          <label style="--scenario:#c75064"><input type="checkbox" name="scenario" value="ssp585" checked><span>SSP5-8.5<small>Very high emissions</small></span></label>
+        </div></fieldset>
+      </div>
+      <div class="chart-topline"><span id="chart-description">Annual temperature anomaly · °C</span><span>Historical simulation <b class="historical-key"></b></span></div>
+      <div id="chart" aria-label="Interactive annual temperature anomaly chart"></div>
+      <p id="empty" hidden>Select at least one scenario to compare future projections.</p>
+      <div id="tooltip" role="status" aria-live="off" hidden></div>
+      <div class="timeline">
+        <div><label for="start-year">Start year <output id="start-output">1995</output></label><input id="start-year" type="range" min="1995" max="2099" value="1995"></div>
+        <div><label for="end-year">End year <output id="end-output">2100</output></label><input id="end-year" type="range" min="1996" max="2100" value="2100"></div>
+      </div>
+      <p class="chart-help">Move across the chart for annual values. Keyboard: Tab to the chart, then use ← / → to inspect years. Use the sliders to focus the period.</p>
+      <div class="insight" aria-live="polite"><span class="eyebrow">IN THIS VIEW</span><p id="summary">Loading validated CMIP6 data…</p></div>
+      <p id="error" role="alert" hidden></p>
+    </section>
+    <section class="context-grid">
+      <article><p class="eyebrow">READING THE CHART</p><h2>Change relative to a recent past</h2><p>Zero is this model’s mean temperature over 1995–2014. A value of +2 °C means two degrees warmer than that baseline, <strong>not two degrees above preindustrial conditions</strong>. The gray line is a historical simulation; colored lines are future scenario runs.</p><p>Annual variability is visible on purpose. Compare sustained differences across years, rather than treating a single year as a trend.</p></article>
+      <article><p class="eyebrow">METHOD & SCOPE</p><h2>One model, three scenarios</h2><p><span id="model-details">Selected CMIP6 model</span> · monthly near-surface air temperature (tas). Annual means weight months by their calendar days. Each grid cell’s 1995–2014 annual mean is subtracted before spatial averaging.</p><p>Regional means use spherical latitude-strip areas from the model’s published cell bounds, with fractional overlap at band edges. Bands include land and ocean. These conditional projections represent one realization, with no estimate of model or ensemble uncertainty.</p><p><a href="data/provenance.md">Data provenance</a> · <a href="data/temperature.csv" download>Download CSV</a> · <a href="https://storage.googleapis.com/cmip6/pangeo-cmip6.json">CMIP6 catalog</a></p></article>
+    </section>
+    <section class="further"><div><p class="eyebrow">BEHIND THE EXPLORER</p><h2>From six views to one question</h2></div><p><a href="checkpoint/slides.html">Checkpoint presentation ↗</a><a href="writeup.html">Design & development write-up ↗</a></p></section>
+  </main>
+  <footer>CMIP6 · Built with D3.js <span>Projections are conditional, not precise forecasts.</span></footer>
+</body>
+</html>

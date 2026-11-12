@@ -1,0 +1,24 @@
+{
+  "passed": true,
+  "method": "Independent NumPy day-weighted annual means recomputed from twelve remote monthly fields, at every grid cell for the first selected historical year and last future year. Not an independent verification of every monthly source value.",
+  "checks": [
+    {
+      "experiment": "historical",
+      "year": 1995,
+      "raw_monthly_kelvin_range": [
+        200.4825897216797,
+        311.96209716796875
+      ],
+      "maximum_annual_difference_K": 0.0
+    },
+    {
+      "experiment": "ssp585",
+      "year": 2100,
+      "raw_monthly_kelvin_range": [
+        208.50930786132812,
+        323.33831787109375
+      ],
+      "maximum_annual_difference_K": 0.0
+    }
+  ]
+}

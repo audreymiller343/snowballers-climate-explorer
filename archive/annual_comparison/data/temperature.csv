@@ -1,0 +1,1669 @@
+region,scenario,year,anomaly
+Global,historical,1995,-0.44412
+Global,historical,1996,-0.11131
+Global,historical,1997,-0.3605
+Global,historical,1998,-0.35962
+Global,historical,1999,-0.18409
+Global,historical,2000,-0.07119
+Global,historical,2001,0.15901
+Global,historical,2002,0.12442
+Global,historical,2003,0.02374
+Global,historical,2004,0.0126
+Global,historical,2005,-0.15542
+Global,historical,2006,-0.16752
+Global,historical,2007,0.02423
+Global,historical,2008,0.17286
+Global,historical,2009,0.08538
+Global,historical,2010,0.10482
+Global,historical,2011,0.17835
+Global,historical,2012,0.34295
+Global,historical,2013,0.23055
+Global,historical,2014,0.39484
+Northern high latitudes,historical,1995,-1.01228
+Northern high latitudes,historical,1996,-0.21906
+Northern high latitudes,historical,1997,-1.18962
+Northern high latitudes,historical,1998,-0.89661
+Northern high latitudes,historical,1999,-0.74157
+Northern high latitudes,historical,2000,-0.55601
+Northern high latitudes,historical,2001,0.34131
+Northern high latitudes,historical,2002,0.35656
+Northern high latitudes,historical,2003,-0.1777
+Northern high latitudes,historical,2004,-0.01123
+Northern high latitudes,historical,2005,-0.61058
+Northern high latitudes,historical,2006,0.04981
+Northern high latitudes,historical,2007,0.41406
+Northern high latitudes,historical,2008,-0.49453
+Northern high latitudes,historical,2009,0.40211
+Northern high latitudes,historical,2010,-0.09361
+Northern high latitudes,historical,2011,0.78116
+Northern high latitudes,historical,2012,1.17572
+Northern high latitudes,historical,2013,1.22279
+Northern high latitudes,historical,2014,1.2593
+Northern midlatitudes,historical,1995,-0.43861
+Northern midlatitudes,historical,1996,-0.18324
+Northern midlatitudes,historical,1997,-0.27679
+Northern midlatitudes,historical,1998,-0.2653
+Northern midlatitudes,historical,1999,-0.20345
+Northern midlatitudes,historical,2000,-0.26983
+Northern midlatitudes,historical,2001,-0.03482
+Northern midlatitudes,historical,2002,-0.1622
+Northern midlatitudes,historical,2003,-0.09511
+Northern midlatitudes,historical,2004,0.05771
+Northern midlatitudes,historical,2005,0.031
+Northern midlatitudes,historical,2006,-0.02387
+Northern midlatitudes,historical,2007,-0.10335
+Northern midlatitudes,historical,2008,-0.0635
+Northern midlatitudes,historical,2009,0.06665
+Northern midlatitudes,historical,2010,0.25216
+Northern midlatitudes,historical,2011,0.22097
+Northern midlatitudes,historical,2012,0.4883
+Northern midlatitudes,historical,2013,0.45427
+Northern midlatitudes,historical,2014,0.54901
+Tropics,historical,1995,-0.44468
+Tropics,historical,1996,0.01317
+Tropics,historical,1997,-0.32982
+Tropics,historical,1998,-0.45041
+Tropics,historical,1999,-0.171
+Tropics,historical,2000,0.00353
+Tropics,historical,2001,0.31004
+Tropics,historical,2002,0.25695
+Tropics,historical,2003,0.11271
+Tropics,historical,2004,-0.04587
+Tropics,historical,2005,-0.24384
+Tropics,historical,2006,-0.26223
+Tropics,historical,2007,0.05105
+Tropics,historical,2008,0.3643
+Tropics,historical,2009,0.0427
+Tropics,historical,2010,0.08525
+Tropics,historical,2011,0.14463
+Tropics,historical,2012,0.25994
+Tropics,historical,2013,0.02993
+Tropics,historical,2014,0.27365
+Southern midlatitudes,historical,1995,-0.32001
+Southern midlatitudes,historical,1996,-0.2836
+Southern midlatitudes,historical,1997,-0.14806
+Southern midlatitudes,historical,1998,-0.11359
+Southern midlatitudes,historical,1999,-0.05179
+Southern midlatitudes,historical,2000,-0.02282
+Southern midlatitudes,historical,2001,-0.02414
+Southern midlatitudes,historical,2002,-0.09487
+Southern midlatitudes,historical,2003,-0.05323
+Southern midlatitudes,historical,2004,0.03059
+Southern midlatitudes,historical,2005,0.09114
+Southern midlatitudes,historical,2006,0.01225
+Southern midlatitudes,historical,2007,0.02191
+Southern midlatitudes,historical,2008,0.07939
+Southern midlatitudes,historical,2009,0.12254
+Southern midlatitudes,historical,2010,0.08993
+Southern midlatitudes,historical,2011,0.07421
+Southern midlatitudes,historical,2012,0.14731
+Southern midlatitudes,historical,2013,0.19516
+Southern midlatitudes,historical,2014,0.24768
+Southern high latitudes,historical,1995,-0.22587
+Southern high latitudes,historical,1996,-0.2654
+Southern high latitudes,historical,1997,-0.56954
+Southern high latitudes,historical,1998,-0.07483
+Southern high latitudes,historical,1999,-0.03279
+Southern high latitudes,historical,2000,0.26648
+Southern high latitudes,historical,2001,-0.1206
+Southern high latitudes,historical,2002,0.28529
+Southern high latitudes,historical,2003,0.09617
+Southern high latitudes,historical,2004,0.30045
+Southern high latitudes,historical,2005,-0.22327
+Southern high latitudes,historical,2006,-0.56149
+Southern high latitudes,historical,2007,-0.21095
+Southern high latitudes,historical,2008,0.3125
+Southern high latitudes,historical,2009,0.03686
+Southern high latitudes,historical,2010,0.08748
+Southern high latitudes,historical,2011,-0.00471
+Southern high latitudes,historical,2012,0.26709
+Southern high latitudes,historical,2013,0.2213
+Southern high latitudes,historical,2014,0.41583
+Global,ssp126,2015,0.44515
+Global,ssp126,2016,0.421
+Global,ssp126,2017,0.51726
+Global,ssp126,2018,0.50232
+Global,ssp126,2019,0.64839
+Global,ssp126,2020,0.66738
+Global,ssp126,2021,0.56781
+Global,ssp126,2022,0.60548
+Global,ssp126,2023,0.92578
+Global,ssp126,2024,0.89036
+Global,ssp126,2025,0.86277
+Global,ssp126,2026,0.95664
+Global,ssp126,2027,1.13903
+Global,ssp126,2028,1.07895
+Global,ssp126,2029,1.08254
+Global,ssp126,2030,1.0987
+Global,ssp126,2031,0.86799
+Global,ssp126,2032,0.96645
+Global,ssp126,2033,1.02915
+Global,ssp126,2034,1.01583
+Global,ssp126,2035,1.28421
+Global,ssp126,2036,1.09337
+Global,ssp126,2037,1.09329
+Global,ssp126,2038,1.04019
+Global,ssp126,2039,1.13436
+Global,ssp126,2040,1.43019
+Global,ssp126,2041,1.53583
+Global,ssp126,2042,1.22933
+Global,ssp126,2043,1.24446
+Global,ssp126,2044,1.23648
+Global,ssp126,2045,1.21381
+Global,ssp126,2046,1.24627
+Global,ssp126,2047,1.4971
+Global,ssp126,2048,1.38411
+Global,ssp126,2049,1.28425
+Global,ssp126,2050,1.43438
+Global,ssp126,2051,1.57871
+Global,ssp126,2052,1.69129
+Global,ssp126,2053,1.4985
+Global,ssp126,2054,1.39917
+Global,ssp126,2055,1.51956
+Global,ssp126,2056,1.69215
+Global,ssp126,2057,1.80778
+Global,ssp126,2058,1.37557
+Global,ssp126,2059,1.45601
+Global,ssp126,2060,1.47776
+Global,ssp126,2061,1.5562
+Global,ssp126,2062,1.59306
+Global,ssp126,2063,1.50021
+Global,ssp126,2064,1.65892
+Global,ssp126,2065,1.72686
+Global,ssp126,2066,1.61376
+Global,ssp126,2067,1.50891
+Global,ssp126,2068,1.52442
+Global,ssp126,2069,1.77979
+Global,ssp126,2070,1.57661
+Global,ssp126,2071,1.54204
+Global,ssp126,2072,1.45978
+Global,ssp126,2073,1.49967
+Global,ssp126,2074,1.46851
+Global,ssp126,2075,1.39509
+Global,ssp126,2076,1.58422
+Global,ssp126,2077,1.76226
+Global,ssp126,2078,1.74831
+Global,ssp126,2079,1.58332
+Global,ssp126,2080,1.53771
+Global,ssp126,2081,1.56815
+Global,ssp126,2082,1.5147
+Global,ssp126,2083,1.47393
+Global,ssp126,2084,1.49336
+Global,ssp126,2085,1.73805
+Global,ssp126,2086,1.6991
+Global,ssp126,2087,1.63611
+Global,ssp126,2088,1.67714
+Global,ssp126,2089,1.56336
+Global,ssp126,2090,1.56457
+Global,ssp126,2091,1.53152
+Global,ssp126,2092,1.40429
+Global,ssp126,2093,1.3412
+Global,ssp126,2094,1.53789
+Global,ssp126,2095,1.579
+Global,ssp126,2096,1.51308
+Global,ssp126,2097,1.60916
+Global,ssp126,2098,1.55397
+Global,ssp126,2099,1.31566
+Global,ssp126,2100,1.45481
+Northern high latitudes,ssp126,2015,1.3567
+Northern high latitudes,ssp126,2016,0.82572
+Northern high latitudes,ssp126,2017,1.20569
+Northern high latitudes,ssp126,2018,1.38858
+Northern high latitudes,ssp126,2019,1.91317
+Northern high latitudes,ssp126,2020,2.17532
+Northern high latitudes,ssp126,2021,2.26243
+Northern high latitudes,ssp126,2022,2.25871
+Northern high latitudes,ssp126,2023,2.70812
+Northern high latitudes,ssp126,2024,3.01433
+Northern high latitudes,ssp126,2025,3.24708
+Northern high latitudes,ssp126,2026,3.49092
+Northern high latitudes,ssp126,2027,3.41571
+Northern high latitudes,ssp126,2028,3.97738
+Northern high latitudes,ssp126,2029,3.96623
+Northern high latitudes,ssp126,2030,3.31159
+Northern high latitudes,ssp126,2031,2.91003
+Northern high latitudes,ssp126,2032,2.74557
+Northern high latitudes,ssp126,2033,3.08932
+Northern high latitudes,ssp126,2034,2.94184
+Northern high latitudes,ssp126,2035,3.56113
+Northern high latitudes,ssp126,2036,3.51853
+Northern high latitudes,ssp126,2037,3.08715
+Northern high latitudes,ssp126,2038,3.09298
+Northern high latitudes,ssp126,2039,3.54213
+Northern high latitudes,ssp126,2040,3.57441
+Northern high latitudes,ssp126,2041,3.45158
+Northern high latitudes,ssp126,2042,3.71934
+Northern high latitudes,ssp126,2043,3.58148
+Northern high latitudes,ssp126,2044,3.3972
+Northern high latitudes,ssp126,2045,3.73515
+Northern high latitudes,ssp126,2046,4.23902
+Northern high latitudes,ssp126,2047,4.32637
+Northern high latitudes,ssp126,2048,4.02032
+Northern high latitudes,ssp126,2049,3.80818
+Northern high latitudes,ssp126,2050,4.21011
+Northern high latitudes,ssp126,2051,4.31923
+Northern high latitudes,ssp126,2052,4.45245
+Northern high latitudes,ssp126,2053,4.77363
+Northern high latitudes,ssp126,2054,3.96566
+Northern high latitudes,ssp126,2055,4.47871
+Northern high latitudes,ssp126,2056,4.49138
+Northern high latitudes,ssp126,2057,4.72667
+Northern high latitudes,ssp126,2058,4.53754
+Northern high latitudes,ssp126,2059,3.90587
+Northern high latitudes,ssp126,2060,4.65096
+Northern high latitudes,ssp126,2061,4.78109
+Northern high latitudes,ssp126,2062,4.47626
+Northern high latitudes,ssp126,2063,4.54995
+Northern high latitudes,ssp126,2064,5.62677
+Northern high latitudes,ssp126,2065,5.52178
+Northern high latitudes,ssp126,2066,4.91946
+Northern high latitudes,ssp126,2067,4.33057
+Northern high latitudes,ssp126,2068,4.5721
+Northern high latitudes,ssp126,2069,5.03041
+Northern high latitudes,ssp126,2070,4.85852
+Northern high latitudes,ssp126,2071,4.75924
+Northern high latitudes,ssp126,2072,4.62761
+Northern high latitudes,ssp126,2073,5.08976
+Northern high latitudes,ssp126,2074,5.06546
+Northern high latitudes,ssp126,2075,4.60796
+Northern high latitudes,ssp126,2076,5.02859
+Northern high latitudes,ssp126,2077,4.58727
+Northern high latitudes,ssp126,2078,5.02336
+Northern high latitudes,ssp126,2079,5.09948
+Northern high latitudes,ssp126,2080,5.29341
+Northern high latitudes,ssp126,2081,5.78858
+Northern high latitudes,ssp126,2082,5.02144
+Northern high latitudes,ssp126,2083,5.01924
+Northern high latitudes,ssp126,2084,4.85013
+Northern high latitudes,ssp126,2085,4.86414
+Northern high latitudes,ssp126,2086,5.15552
+Northern high latitudes,ssp126,2087,5.25234
+Northern high latitudes,ssp126,2088,5.43582
+Northern high latitudes,ssp126,2089,5.68235
+Northern high latitudes,ssp126,2090,5.61098
+Northern high latitudes,ssp126,2091,5.94793
+Northern high latitudes,ssp126,2092,5.68967
+Northern high latitudes,ssp126,2093,5.43011
+Northern high latitudes,ssp126,2094,5.36283
+Northern high latitudes,ssp126,2095,5.54996
+Northern high latitudes,ssp126,2096,5.48763
+Northern high latitudes,ssp126,2097,5.71055
+Northern high latitudes,ssp126,2098,5.42336
+Northern high latitudes,ssp126,2099,4.58925
+Northern high latitudes,ssp126,2100,4.97259
+Northern midlatitudes,ssp126,2015,0.79513
+Northern midlatitudes,ssp126,2016,0.63775
+Northern midlatitudes,ssp126,2017,0.58861
+Northern midlatitudes,ssp126,2018,0.67626
+Northern midlatitudes,ssp126,2019,0.73153
+Northern midlatitudes,ssp126,2020,1.10728
+Northern midlatitudes,ssp126,2021,0.95723
+Northern midlatitudes,ssp126,2022,0.90633
+Northern midlatitudes,ssp126,2023,1.12336
+Northern midlatitudes,ssp126,2024,1.3076
+Northern midlatitudes,ssp126,2025,1.5615
+Northern midlatitudes,ssp126,2026,1.2806
+Northern midlatitudes,ssp126,2027,1.66756
+Northern midlatitudes,ssp126,2028,1.28648
+Northern midlatitudes,ssp126,2029,1.4589
+Northern midlatitudes,ssp126,2030,1.44622
+Northern midlatitudes,ssp126,2031,1.13307
+Northern midlatitudes,ssp126,2032,1.54676
+Northern midlatitudes,ssp126,2033,1.23678
+Northern midlatitudes,ssp126,2034,1.25144
+Northern midlatitudes,ssp126,2035,1.72828
+Northern midlatitudes,ssp126,2036,1.73723
+Northern midlatitudes,ssp126,2037,1.5062
+Northern midlatitudes,ssp126,2038,2.06335
+Northern midlatitudes,ssp126,2039,1.62165
+Northern midlatitudes,ssp126,2040,1.8798
+Northern midlatitudes,ssp126,2041,2.02091
+Northern midlatitudes,ssp126,2042,1.86684
+Northern midlatitudes,ssp126,2043,1.78397
+Northern midlatitudes,ssp126,2044,1.92408
+Northern midlatitudes,ssp126,2045,1.99204
+Northern midlatitudes,ssp126,2046,2.05757
+Northern midlatitudes,ssp126,2047,2.00165
+Northern midlatitudes,ssp126,2048,2.23091
+Northern midlatitudes,ssp126,2049,2.2467
+Northern midlatitudes,ssp126,2050,2.27801
+Northern midlatitudes,ssp126,2051,2.15082
+Northern midlatitudes,ssp126,2052,2.21835
+Northern midlatitudes,ssp126,2053,2.37908
+Northern midlatitudes,ssp126,2054,2.02522
+Northern midlatitudes,ssp126,2055,2.22933
+Northern midlatitudes,ssp126,2056,2.35803
+Northern midlatitudes,ssp126,2057,2.33408
+Northern midlatitudes,ssp126,2058,2.26337
+Northern midlatitudes,ssp126,2059,2.52699
+Northern midlatitudes,ssp126,2060,2.19914
+Northern midlatitudes,ssp126,2061,2.27734
+Northern midlatitudes,ssp126,2062,2.33295
+Northern midlatitudes,ssp126,2063,2.28266
+Northern midlatitudes,ssp126,2064,2.42176
+Northern midlatitudes,ssp126,2065,2.24221
+Northern midlatitudes,ssp126,2066,2.68468
+Northern midlatitudes,ssp126,2067,2.31159
+Northern midlatitudes,ssp126,2068,2.1763
+Northern midlatitudes,ssp126,2069,2.2683
+Northern midlatitudes,ssp126,2070,2.15007
+Northern midlatitudes,ssp126,2071,2.26813
+Northern midlatitudes,ssp126,2072,2.03946
+Northern midlatitudes,ssp126,2073,2.20303
+Northern midlatitudes,ssp126,2074,2.32392
+Northern midlatitudes,ssp126,2075,2.5112
+Northern midlatitudes,ssp126,2076,2.2666
+Northern midlatitudes,ssp126,2077,2.36385
+Northern midlatitudes,ssp126,2078,2.3138
+Northern midlatitudes,ssp126,2079,2.35495
+Northern midlatitudes,ssp126,2080,2.65713
+Northern midlatitudes,ssp126,2081,2.53719
+Northern midlatitudes,ssp126,2082,2.23817
+Northern midlatitudes,ssp126,2083,2.06116
+Northern midlatitudes,ssp126,2084,2.20617
+Northern midlatitudes,ssp126,2085,2.32196
+Northern midlatitudes,ssp126,2086,2.32282
+Northern midlatitudes,ssp126,2087,2.42368
+Northern midlatitudes,ssp126,2088,2.2445
+Northern midlatitudes,ssp126,2089,2.33295
+Northern midlatitudes,ssp126,2090,2.20626
+Northern midlatitudes,ssp126,2091,2.0719
+Northern midlatitudes,ssp126,2092,2.35411
+Northern midlatitudes,ssp126,2093,2.05122
+Northern midlatitudes,ssp126,2094,2.33689
+Northern midlatitudes,ssp126,2095,2.44087
+Northern midlatitudes,ssp126,2096,2.50563
+Northern midlatitudes,ssp126,2097,2.66648
+Northern midlatitudes,ssp126,2098,2.33848
+Northern midlatitudes,ssp126,2099,2.20271
+Northern midlatitudes,ssp126,2100,2.25725
+Tropics,ssp126,2015,0.25395
+Tropics,ssp126,2016,0.33726
+Tropics,ssp126,2017,0.43457
+Tropics,ssp126,2018,0.40858
+Tropics,ssp126,2019,0.57867
+Tropics,ssp126,2020,0.46044
+Tropics,ssp126,2021,0.31664
+Tropics,ssp126,2022,0.37847
+Tropics,ssp126,2023,0.78334
+Tropics,ssp126,2024,0.63492
+Tropics,ssp126,2025,0.45282
+Tropics,ssp126,2026,0.67124
+Tropics,ssp126,2027,0.93591
+Tropics,ssp126,2028,0.75977
+Tropics,ssp126,2029,0.71532
+Tropics,ssp126,2030,0.87031
+Tropics,ssp126,2031,0.6046
+Tropics,ssp126,2032,0.73153
+Tropics,ssp126,2033,0.83382
+Tropics,ssp126,2034,0.85396
+Tropics,ssp126,2035,1.19999
+Tropics,ssp126,2036,0.71593
+Tropics,ssp126,2037,0.92154
+Tropics,ssp126,2038,0.58838
+Tropics,ssp126,2039,0.86174
+Tropics,ssp126,2040,1.34761
+Tropics,ssp126,2041,1.54941
+Tropics,ssp126,2042,0.95633
+Tropics,ssp126,2043,0.93767
+Tropics,ssp126,2044,0.92868
+Tropics,ssp126,2045,0.79868
+Tropics,ssp126,2046,0.79037
+Tropics,ssp126,2047,1.30008
+Tropics,ssp126,2048,1.12222
+Tropics,ssp126,2049,0.87229
+Tropics,ssp126,2050,1.10443
+Tropics,ssp126,2051,1.39302
+Tropics,ssp126,2052,1.65299
+Tropics,ssp126,2053,1.17642
+Tropics,ssp126,2054,1.18603
+Tropics,ssp126,2055,1.28266
+Tropics,ssp126,2056,1.58457
+Tropics,ssp126,2057,1.7234
+Tropics,ssp126,2058,0.99909
+Tropics,ssp126,2059,1.08216
+Tropics,ssp126,2060,1.13461
+Tropics,ssp126,2061,1.28503
+Tropics,ssp126,2062,1.39251
+Tropics,ssp126,2063,1.25616
+Tropics,ssp126,2064,1.23332
+Tropics,ssp126,2065,1.49614
+Tropics,ssp126,2066,1.13791
+Tropics,ssp126,2067,1.20492
+Tropics,ssp126,2068,1.17693
+Tropics,ssp126,2069,1.5746
+Tropics,ssp126,2070,1.33312
+Tropics,ssp126,2071,1.13525
+Tropics,ssp126,2072,1.11751
+Tropics,ssp126,2073,1.06988
+Tropics,ssp126,2074,1.01898
+Tropics,ssp126,2075,0.84955
+Tropics,ssp126,2076,1.15095
+Tropics,ssp126,2077,1.60128
+Tropics,ssp126,2078,1.50927
+Tropics,ssp126,2079,1.12132
+Tropics,ssp126,2080,0.91017
+Tropics,ssp126,2081,0.98855
+Tropics,ssp126,2082,1.1405
+Tropics,ssp126,2083,1.11345
+Tropics,ssp126,2084,1.16764
+Tropics,ssp126,2085,1.52282
+Tropics,ssp126,2086,1.31609
+Tropics,ssp126,2087,1.14459
+Tropics,ssp126,2088,1.40635
+Tropics,ssp126,2089,1.14218
+Tropics,ssp126,2090,1.27057
+Tropics,ssp126,2091,1.14773
+Tropics,ssp126,2092,0.8203
+Tropics,ssp126,2093,0.81373
+Tropics,ssp126,2094,1.21498
+Tropics,ssp126,2095,1.11174
+Tropics,ssp126,2096,1.0287
+Tropics,ssp126,2097,1.16407
+Tropics,ssp126,2098,1.10019
+Tropics,ssp126,2099,0.89429
+Tropics,ssp126,2100,1.08796
+Southern midlatitudes,ssp126,2015,0.26514
+Southern midlatitudes,ssp126,2016,0.27514
+Southern midlatitudes,ssp126,2017,0.19328
+Southern midlatitudes,ssp126,2018,0.23282
+Southern midlatitudes,ssp126,2019,0.32934
+Southern midlatitudes,ssp126,2020,0.2614
+Southern midlatitudes,ssp126,2021,0.38428
+Southern midlatitudes,ssp126,2022,0.43094
+Southern midlatitudes,ssp126,2023,0.41
+Southern midlatitudes,ssp126,2024,0.42317
+Southern midlatitudes,ssp126,2025,0.4148
+Southern midlatitudes,ssp126,2026,0.46211
+Southern midlatitudes,ssp126,2027,0.59387
+Southern midlatitudes,ssp126,2028,0.57802
+Southern midlatitudes,ssp126,2029,0.54494
+Southern midlatitudes,ssp126,2030,0.57781
+Southern midlatitudes,ssp126,2031,0.5597
+Southern midlatitudes,ssp126,2032,0.59184
+Southern midlatitudes,ssp126,2033,0.55676
+Southern midlatitudes,ssp126,2034,0.55981
+Southern midlatitudes,ssp126,2035,0.50767
+Southern midlatitudes,ssp126,2036,0.55581
+Southern midlatitudes,ssp126,2037,0.52238
+Southern midlatitudes,ssp126,2038,0.62796
+Southern midlatitudes,ssp126,2039,0.6575
+Southern midlatitudes,ssp126,2040,0.57395
+Southern midlatitudes,ssp126,2041,0.59048
+Southern midlatitudes,ssp126,2042,0.74881
+Southern midlatitudes,ssp126,2043,0.74073
+Southern midlatitudes,ssp126,2044,0.64574
+Southern midlatitudes,ssp126,2045,0.71304
+Southern midlatitudes,ssp126,2046,0.68936
+Southern midlatitudes,ssp126,2047,0.63998
+Southern midlatitudes,ssp126,2048,0.71959
+Southern midlatitudes,ssp126,2049,0.66367
+Southern midlatitudes,ssp126,2050,0.62676
+Southern midlatitudes,ssp126,2051,0.64443
+Southern midlatitudes,ssp126,2052,0.55806
+Southern midlatitudes,ssp126,2053,0.70606
+Southern midlatitudes,ssp126,2054,0.68849
+Southern midlatitudes,ssp126,2055,0.69286
+Southern midlatitudes,ssp126,2056,0.62227
+Southern midlatitudes,ssp126,2057,0.64615
+Southern midlatitudes,ssp126,2058,0.66264
+Southern midlatitudes,ssp126,2059,0.72773
+Southern midlatitudes,ssp126,2060,0.6989
+Southern midlatitudes,ssp126,2061,0.65483
+Southern midlatitudes,ssp126,2062,0.67428
+Southern midlatitudes,ssp126,2063,0.65498
+Southern midlatitudes,ssp126,2064,0.70153
+Southern midlatitudes,ssp126,2065,0.72348
+Southern midlatitudes,ssp126,2066,0.6899
+Southern midlatitudes,ssp126,2067,0.82124
+Southern midlatitudes,ssp126,2068,0.82258
+Southern midlatitudes,ssp126,2069,0.83197
+Southern midlatitudes,ssp126,2070,0.79355
+Southern midlatitudes,ssp126,2071,0.8312
+Southern midlatitudes,ssp126,2072,0.82922
+Southern midlatitudes,ssp126,2073,0.80638
+Southern midlatitudes,ssp126,2074,0.81143
+Southern midlatitudes,ssp126,2075,0.8425
+Southern midlatitudes,ssp126,2076,0.887
+Southern midlatitudes,ssp126,2077,0.84049
+Southern midlatitudes,ssp126,2078,0.83827
+Southern midlatitudes,ssp126,2079,0.78007
+Southern midlatitudes,ssp126,2080,0.82587
+Southern midlatitudes,ssp126,2081,0.88573
+Southern midlatitudes,ssp126,2082,0.8465
+Southern midlatitudes,ssp126,2083,0.85043
+Southern midlatitudes,ssp126,2084,0.8414
+Southern midlatitudes,ssp126,2085,0.90031
+Southern midlatitudes,ssp126,2086,0.95278
+Southern midlatitudes,ssp126,2087,0.84907
+Southern midlatitudes,ssp126,2088,0.74388
+Southern midlatitudes,ssp126,2089,0.78826
+Southern midlatitudes,ssp126,2090,0.73441
+Southern midlatitudes,ssp126,2091,0.7404
+Southern midlatitudes,ssp126,2092,0.64912
+Southern midlatitudes,ssp126,2093,0.73748
+Southern midlatitudes,ssp126,2094,0.76145
+Southern midlatitudes,ssp126,2095,0.6526
+Southern midlatitudes,ssp126,2096,0.69554
+Southern midlatitudes,ssp126,2097,0.69298
+Southern midlatitudes,ssp126,2098,0.6937
+Southern midlatitudes,ssp126,2099,0.67442
+Southern midlatitudes,ssp126,2100,0.70545
+Southern high latitudes,ssp126,2015,0.49643
+Southern high latitudes,ssp126,2016,0.44776
+Southern high latitudes,ssp126,2017,1.1363
+Southern high latitudes,ssp126,2018,0.57688
+Southern high latitudes,ssp126,2019,0.54859
+Southern high latitudes,ssp126,2020,0.61132
+Southern high latitudes,ssp126,2021,0.18545
+Southern high latitudes,ssp126,2022,0.30162
+Southern high latitudes,ssp126,2023,1.07595
+Southern high latitudes,ssp126,2024,0.80949
+Southern high latitudes,ssp126,2025,0.85329
+Southern high latitudes,ssp126,2026,1.01863
+Southern high latitudes,ssp126,2027,0.42381
+Southern high latitudes,ssp126,2028,1.36452
+Southern high latitudes,ssp126,2029,1.38043
+Southern high latitudes,ssp126,2030,1.06416
+Southern high latitudes,ssp126,2031,0.91005
+Southern high latitudes,ssp126,2032,0.37883
+Southern high latitudes,ssp126,2033,1.15025
+Southern high latitudes,ssp126,2034,0.90019
+Southern high latitudes,ssp126,2035,0.54424
+Southern high latitudes,ssp126,2036,1.19497
+Southern high latitudes,ssp126,2037,0.81311
+Southern high latitudes,ssp126,2038,0.69063
+Southern high latitudes,ssp126,2039,0.73295
+Southern high latitudes,ssp126,2040,1.01331
+Southern high latitudes,ssp126,2041,0.77621
+Southern high latitudes,ssp126,2042,0.34804
+Southern high latitudes,ssp126,2043,1.09951
+Southern high latitudes,ssp126,2044,1.10859
+Southern high latitudes,ssp126,2045,1.03293
+Southern high latitudes,ssp126,2046,0.96139
+Southern high latitudes,ssp126,2047,1.1017
+Southern high latitudes,ssp126,2048,0.2047
+Southern high latitudes,ssp126,2049,0.90116
+Southern high latitudes,ssp126,2050,1.02304
+Southern high latitudes,ssp126,2051,1.21364
+Southern high latitudes,ssp126,2052,0.87214
+Southern high latitudes,ssp126,2053,0.38656
+Southern high latitudes,ssp126,2054,0.65469
+Southern high latitudes,ssp126,2055,0.64814
+Southern high latitudes,ssp126,2056,0.79966
+Southern high latitudes,ssp126,2057,1.25448
+Southern high latitudes,ssp126,2058,0.54596
+Southern high latitudes,ssp126,2059,0.86034
+Southern high latitudes,ssp126,2060,1.02292
+Southern high latitudes,ssp126,2061,0.84772
+Southern high latitudes,ssp126,2062,0.69545
+Southern high latitudes,ssp126,2063,0.44368
+Southern high latitudes,ssp126,2064,1.39933
+Southern high latitudes,ssp126,2065,0.98745
+Southern high latitudes,ssp126,2066,1.45802
+Southern high latitudes,ssp126,2067,0.64209
+Southern high latitudes,ssp126,2068,1.20692
+Southern high latitudes,ssp126,2069,1.31551
+Southern high latitudes,ssp126,2070,0.68473
+Southern high latitudes,ssp126,2071,1.3195
+Southern high latitudes,ssp126,2072,0.98572
+Southern high latitudes,ssp126,2073,1.08997
+Southern high latitudes,ssp126,2074,0.68507
+Southern high latitudes,ssp126,2075,0.71464
+Southern high latitudes,ssp126,2076,1.41429
+Southern high latitudes,ssp126,2077,1.0135
+Southern high latitudes,ssp126,2078,1.19884
+Southern high latitudes,ssp126,2079,1.602
+Southern high latitudes,ssp126,2080,1.35253
+Southern high latitudes,ssp126,2081,0.89089
+Southern high latitudes,ssp126,2082,0.6501
+Southern high latitudes,ssp126,2083,0.71834
+Southern high latitudes,ssp126,2084,0.4015
+Southern high latitudes,ssp126,2085,0.91196
+Southern high latitudes,ssp126,2086,1.43648
+Southern high latitudes,ssp126,2087,1.68722
+Southern high latitudes,ssp126,2088,0.93933
+Southern high latitudes,ssp126,2089,0.60311
+Southern high latitudes,ssp126,2090,0.22754
+Southern high latitudes,ssp126,2091,0.66474
+Southern high latitudes,ssp126,2092,0.94609
+Southern high latitudes,ssp126,2093,0.89896
+Southern high latitudes,ssp126,2094,0.06161
+Southern high latitudes,ssp126,2095,1.272
+Southern high latitudes,ssp126,2096,0.67592
+Southern high latitudes,ssp126,2097,0.44439
+Southern high latitudes,ssp126,2098,1.27853
+Southern high latitudes,ssp126,2099,0.51566
+Southern high latitudes,ssp126,2100,0.53023
+Global,ssp245,2015,0.45058
+Global,ssp245,2016,0.55933
+Global,ssp245,2017,0.44434
+Global,ssp245,2018,0.49178
+Global,ssp245,2019,0.72129
+Global,ssp245,2020,0.68284
+Global,ssp245,2021,0.90069
+Global,ssp245,2022,0.7466
+Global,ssp245,2023,0.80021
+Global,ssp245,2024,0.77358
+Global,ssp245,2025,0.96758
+Global,ssp245,2026,1.07324
+Global,ssp245,2027,1.02543
+Global,ssp245,2028,1.062
+Global,ssp245,2029,1.28196
+Global,ssp245,2030,1.14604
+Global,ssp245,2031,1.05426
+Global,ssp245,2032,1.08723
+Global,ssp245,2033,1.28523
+Global,ssp245,2034,1.35477
+Global,ssp245,2035,1.26009
+Global,ssp245,2036,1.34041
+Global,ssp245,2037,1.36999
+Global,ssp245,2038,1.38323
+Global,ssp245,2039,1.52394
+Global,ssp245,2040,1.40582
+Global,ssp245,2041,1.46232
+Global,ssp245,2042,1.62837
+Global,ssp245,2043,1.4637
+Global,ssp245,2044,1.54638
+Global,ssp245,2045,1.52438
+Global,ssp245,2046,1.70693
+Global,ssp245,2047,1.69888
+Global,ssp245,2048,1.76205
+Global,ssp245,2049,1.96747
+Global,ssp245,2050,2.02839
+Global,ssp245,2051,1.98327
+Global,ssp245,2052,1.96391
+Global,ssp245,2053,2.21874
+Global,ssp245,2054,2.35949
+Global,ssp245,2055,2.09014
+Global,ssp245,2056,2.03302
+Global,ssp245,2057,2.11115
+Global,ssp245,2058,2.30357
+Global,ssp245,2059,2.36135
+Global,ssp245,2060,2.22144
+Global,ssp245,2061,2.25563
+Global,ssp245,2062,2.25849
+Global,ssp245,2063,2.29922
+Global,ssp245,2064,2.278
+Global,ssp245,2065,2.07849
+Global,ssp245,2066,2.27524
+Global,ssp245,2067,2.37849
+Global,ssp245,2068,2.39204
+Global,ssp245,2069,2.35417
+Global,ssp245,2070,2.42777
+Global,ssp245,2071,2.53386
+Global,ssp245,2072,2.45203
+Global,ssp245,2073,2.64501
+Global,ssp245,2074,2.55227
+Global,ssp245,2075,2.49121
+Global,ssp245,2076,2.55056
+Global,ssp245,2077,2.40837
+Global,ssp245,2078,2.38389
+Global,ssp245,2079,2.64636
+Global,ssp245,2080,2.58871
+Global,ssp245,2081,2.72253
+Global,ssp245,2082,2.67308
+Global,ssp245,2083,2.71216
+Global,ssp245,2084,2.78565
+Global,ssp245,2085,2.81975
+Global,ssp245,2086,2.8823
+Global,ssp245,2087,2.77373
+Global,ssp245,2088,2.90731
+Global,ssp245,2089,3.03278
+Global,ssp245,2090,2.80351
+Global,ssp245,2091,3.03861
+Global,ssp245,2092,3.12842
+Global,ssp245,2093,3.01942
+Global,ssp245,2094,2.96162
+Global,ssp245,2095,2.94856
+Global,ssp245,2096,2.95088
+Global,ssp245,2097,2.93476
+Global,ssp245,2098,2.87222
+Global,ssp245,2099,3.0278
+Global,ssp245,2100,2.97539
+Northern high latitudes,ssp245,2015,1.72966
+Northern high latitudes,ssp245,2016,1.9608
+Northern high latitudes,ssp245,2017,1.71949
+Northern high latitudes,ssp245,2018,1.60637
+Northern high latitudes,ssp245,2019,2.02666
+Northern high latitudes,ssp245,2020,2.65148
+Northern high latitudes,ssp245,2021,2.73649
+Northern high latitudes,ssp245,2022,2.08016
+Northern high latitudes,ssp245,2023,2.19509
+Northern high latitudes,ssp245,2024,2.83584
+Northern high latitudes,ssp245,2025,2.89883
+Northern high latitudes,ssp245,2026,2.86149
+Northern high latitudes,ssp245,2027,2.78949
+Northern high latitudes,ssp245,2028,2.98721
+Northern high latitudes,ssp245,2029,3.75226
+Northern high latitudes,ssp245,2030,3.66655
+Northern high latitudes,ssp245,2031,3.31272
+Northern high latitudes,ssp245,2032,3.60155
+Northern high latitudes,ssp245,2033,3.78254
+Northern high latitudes,ssp245,2034,3.72369
+Northern high latitudes,ssp245,2035,3.83987
+Northern high latitudes,ssp245,2036,4.04132
+Northern high latitudes,ssp245,2037,3.76804
+Northern high latitudes,ssp245,2038,3.70879
+Northern high latitudes,ssp245,2039,4.65266
+Northern high latitudes,ssp245,2040,3.80619
+Northern high latitudes,ssp245,2041,4.45041
+Northern high latitudes,ssp245,2042,4.93157
+Northern high latitudes,ssp245,2043,4.89419
+Northern high latitudes,ssp245,2044,4.51448
+Northern high latitudes,ssp245,2045,4.12172
+Northern high latitudes,ssp245,2046,4.839
+Northern high latitudes,ssp245,2047,5.01555
+Northern high latitudes,ssp245,2048,5.43836
+Northern high latitudes,ssp245,2049,5.27757
+Northern high latitudes,ssp245,2050,5.76157
+Northern high latitudes,ssp245,2051,5.93418
+Northern high latitudes,ssp245,2052,5.88293
+Northern high latitudes,ssp245,2053,6.61822
+Northern high latitudes,ssp245,2054,6.42627
+Northern high latitudes,ssp245,2055,6.50143
+Northern high latitudes,ssp245,2056,5.99097
+Northern high latitudes,ssp245,2057,5.95871
+Northern high latitudes,ssp245,2058,6.50475
+Northern high latitudes,ssp245,2059,6.36585
+Northern high latitudes,ssp245,2060,6.22192
+Northern high latitudes,ssp245,2061,6.00085
+Northern high latitudes,ssp245,2062,6.12442
+Northern high latitudes,ssp245,2063,6.19561
+Northern high latitudes,ssp245,2064,6.48326
+Northern high latitudes,ssp245,2065,6.09211
+Northern high latitudes,ssp245,2066,5.79374
+Northern high latitudes,ssp245,2067,6.16318
+Northern high latitudes,ssp245,2068,6.5286
+Northern high latitudes,ssp245,2069,6.10407
+Northern high latitudes,ssp245,2070,6.15609
+Northern high latitudes,ssp245,2071,6.31507
+Northern high latitudes,ssp245,2072,6.49857
+Northern high latitudes,ssp245,2073,7.07467
+Northern high latitudes,ssp245,2074,7.17563
+Northern high latitudes,ssp245,2075,6.61827
+Northern high latitudes,ssp245,2076,7.08706
+Northern high latitudes,ssp245,2077,6.82431
+Northern high latitudes,ssp245,2078,6.52758
+Northern high latitudes,ssp245,2079,7.22713
+Northern high latitudes,ssp245,2080,7.40633
+Northern high latitudes,ssp245,2081,7.72652
+Northern high latitudes,ssp245,2082,7.21071
+Northern high latitudes,ssp245,2083,7.3329
+Northern high latitudes,ssp245,2084,7.37145
+Northern high latitudes,ssp245,2085,7.62448
+Northern high latitudes,ssp245,2086,8.14333
+Northern high latitudes,ssp245,2087,7.62013
+Northern high latitudes,ssp245,2088,8.03788
+Northern high latitudes,ssp245,2089,7.85741
+Northern high latitudes,ssp245,2090,7.54744
+Northern high latitudes,ssp245,2091,7.60731
+Northern high latitudes,ssp245,2092,8.44872
+Northern high latitudes,ssp245,2093,8.18155
+Northern high latitudes,ssp245,2094,8.05242
+Northern high latitudes,ssp245,2095,7.75097
+Northern high latitudes,ssp245,2096,7.86048
+Northern high latitudes,ssp245,2097,8.18985
+Northern high latitudes,ssp245,2098,7.86016
+Northern high latitudes,ssp245,2099,8.01583
+Northern high latitudes,ssp245,2100,7.56862
+Northern midlatitudes,ssp245,2015,0.55821
+Northern midlatitudes,ssp245,2016,0.91278
+Northern midlatitudes,ssp245,2017,1.07779
+Northern midlatitudes,ssp245,2018,1.125
+Northern midlatitudes,ssp245,2019,1.13452
+Northern midlatitudes,ssp245,2020,1.38962
+Northern midlatitudes,ssp245,2021,1.34362
+Northern midlatitudes,ssp245,2022,1.25249
+Northern midlatitudes,ssp245,2023,1.35596
+Northern midlatitudes,ssp245,2024,1.13472
+Northern midlatitudes,ssp245,2025,1.33912
+Northern midlatitudes,ssp245,2026,1.57778
+Northern midlatitudes,ssp245,2027,1.67706
+Northern midlatitudes,ssp245,2028,1.72251
+Northern midlatitudes,ssp245,2029,1.7277
+Northern midlatitudes,ssp245,2030,1.63917
+Northern midlatitudes,ssp245,2031,1.98893
+Northern midlatitudes,ssp245,2032,1.58454
+Northern midlatitudes,ssp245,2033,1.68593
+Northern midlatitudes,ssp245,2034,1.7302
+Northern midlatitudes,ssp245,2035,1.79272
+Northern midlatitudes,ssp245,2036,1.9778
+Northern midlatitudes,ssp245,2037,2.26414
+Northern midlatitudes,ssp245,2038,2.27861
+Northern midlatitudes,ssp245,2039,2.07291
+Northern midlatitudes,ssp245,2040,2.03768
+Northern midlatitudes,ssp245,2041,2.41883
+Northern midlatitudes,ssp245,2042,2.40844
+Northern midlatitudes,ssp245,2043,2.21676
+Northern midlatitudes,ssp245,2044,2.38107
+Northern midlatitudes,ssp245,2045,2.30614
+Northern midlatitudes,ssp245,2046,2.38435
+Northern midlatitudes,ssp245,2047,2.50628
+Northern midlatitudes,ssp245,2048,2.31417
+Northern midlatitudes,ssp245,2049,2.43974
+Northern midlatitudes,ssp245,2050,2.72079
+Northern midlatitudes,ssp245,2051,2.84408
+Northern midlatitudes,ssp245,2052,2.65713
+Northern midlatitudes,ssp245,2053,2.88281
+Northern midlatitudes,ssp245,2054,2.77997
+Northern midlatitudes,ssp245,2055,3.19786
+Northern midlatitudes,ssp245,2056,2.87064
+Northern midlatitudes,ssp245,2057,3.05248
+Northern midlatitudes,ssp245,2058,3.0674
+Northern midlatitudes,ssp245,2059,3.368
+Northern midlatitudes,ssp245,2060,3.06171
+Northern midlatitudes,ssp245,2061,3.15955
+Northern midlatitudes,ssp245,2062,3.186
+Northern midlatitudes,ssp245,2063,3.31657
+Northern midlatitudes,ssp245,2064,3.01357
+Northern midlatitudes,ssp245,2065,3.03439
+Northern midlatitudes,ssp245,2066,3.22108
+Northern midlatitudes,ssp245,2067,3.21135
+Northern midlatitudes,ssp245,2068,3.29036
+Northern midlatitudes,ssp245,2069,3.34278
+Northern midlatitudes,ssp245,2070,3.28699
+Northern midlatitudes,ssp245,2071,3.36835
+Northern midlatitudes,ssp245,2072,3.53715
+Northern midlatitudes,ssp245,2073,3.18757
+Northern midlatitudes,ssp245,2074,3.29241
+Northern midlatitudes,ssp245,2075,3.45739
+Northern midlatitudes,ssp245,2076,3.59834
+Northern midlatitudes,ssp245,2077,3.4916
+Northern midlatitudes,ssp245,2078,3.49003
+Northern midlatitudes,ssp245,2079,3.69322
+Northern midlatitudes,ssp245,2080,3.64161
+Northern midlatitudes,ssp245,2081,3.48242
+Northern midlatitudes,ssp245,2082,3.61346
+Northern midlatitudes,ssp245,2083,3.66748
+Northern midlatitudes,ssp245,2084,3.6922
+Northern midlatitudes,ssp245,2085,3.88405
+Northern midlatitudes,ssp245,2086,4.1438
+Northern midlatitudes,ssp245,2087,4.2603
+Northern midlatitudes,ssp245,2088,4.01737
+Northern midlatitudes,ssp245,2089,3.96432
+Northern midlatitudes,ssp245,2090,3.91202
+Northern midlatitudes,ssp245,2091,4.11534
+Northern midlatitudes,ssp245,2092,4.13141
+Northern midlatitudes,ssp245,2093,3.84541
+Northern midlatitudes,ssp245,2094,4.00465
+Northern midlatitudes,ssp245,2095,3.9046
+Northern midlatitudes,ssp245,2096,3.78865
+Northern midlatitudes,ssp245,2097,3.9843
+Northern midlatitudes,ssp245,2098,4.09376
+Northern midlatitudes,ssp245,2099,3.74522
+Northern midlatitudes,ssp245,2100,4.05262
+Tropics,ssp245,2015,0.31699
+Tropics,ssp245,2016,0.35109
+Tropics,ssp245,2017,0.12365
+Tropics,ssp245,2018,0.20964
+Tropics,ssp245,2019,0.62794
+Tropics,ssp245,2020,0.39369
+Tropics,ssp245,2021,0.72676
+Tropics,ssp245,2022,0.55209
+Tropics,ssp245,2023,0.551
+Tropics,ssp245,2024,0.49969
+Tropics,ssp245,2025,0.81968
+Tropics,ssp245,2026,0.92495
+Tropics,ssp245,2027,0.72561
+Tropics,ssp245,2028,0.83348
+Tropics,ssp245,2029,1.09059
+Tropics,ssp245,2030,0.89384
+Tropics,ssp245,2031,0.68568
+Tropics,ssp245,2032,0.85935
+Tropics,ssp245,2033,1.14164
+Tropics,ssp245,2034,1.22932
+Tropics,ssp245,2035,1.10645
+Tropics,ssp245,2036,1.13337
+Tropics,ssp245,2037,1.0521
+Tropics,ssp245,2038,1.09191
+Tropics,ssp245,2039,1.2502
+Tropics,ssp245,2040,1.15935
+Tropics,ssp245,2041,1.08703
+Tropics,ssp245,2042,1.24424
+Tropics,ssp245,2043,1.04501
+Tropics,ssp245,2044,1.0645
+Tropics,ssp245,2045,1.2065
+Tropics,ssp245,2046,1.45576
+Tropics,ssp245,2047,1.3023
+Tropics,ssp245,2048,1.34957
+Tropics,ssp245,2049,1.71066
+Tropics,ssp245,2050,1.7354
+Tropics,ssp245,2051,1.59876
+Tropics,ssp245,2052,1.57953
+Tropics,ssp245,2053,1.96287
+Tropics,ssp245,2054,2.25471
+Tropics,ssp245,2055,1.59562
+Tropics,ssp245,2056,1.61654
+Tropics,ssp245,2057,1.75984
+Tropics,ssp245,2058,1.98835
+Tropics,ssp245,2059,1.98443
+Tropics,ssp245,2060,1.9133
+Tropics,ssp245,2061,1.91333
+Tropics,ssp245,2062,1.80805
+Tropics,ssp245,2063,1.88994
+Tropics,ssp245,2064,1.88386
+Tropics,ssp245,2065,1.52208
+Tropics,ssp245,2066,1.85243
+Tropics,ssp245,2067,2.0349
+Tropics,ssp245,2068,1.98157
+Tropics,ssp245,2069,1.92686
+Tropics,ssp245,2070,2.08248
+Tropics,ssp245,2071,2.19121
+Tropics,ssp245,2072,2.00833
+Tropics,ssp245,2073,2.38478
+Tropics,ssp245,2074,2.20518
+Tropics,ssp245,2075,2.12267
+Tropics,ssp245,2076,2.08751
+Tropics,ssp245,2077,1.76281
+Tropics,ssp245,2078,1.79718
+Tropics,ssp245,2079,2.11127
+Tropics,ssp245,2080,2.01027
+Tropics,ssp245,2081,2.27634
+Tropics,ssp245,2082,2.18833
+Tropics,ssp245,2083,2.1836
+Tropics,ssp245,2084,2.37568
+Tropics,ssp245,2085,2.30837
+Tropics,ssp245,2086,2.28608
+Tropics,ssp245,2087,2.08406
+Tropics,ssp245,2088,2.39386
+Tropics,ssp245,2089,2.70267
+Tropics,ssp245,2090,2.31952
+Tropics,ssp245,2091,2.62739
+Tropics,ssp245,2092,2.76231
+Tropics,ssp245,2093,2.69496
+Tropics,ssp245,2094,2.42184
+Tropics,ssp245,2095,2.5715
+Tropics,ssp245,2096,2.48931
+Tropics,ssp245,2097,2.38617
+Tropics,ssp245,2098,2.25732
+Tropics,ssp245,2099,2.68395
+Tropics,ssp245,2100,2.55124
+Southern midlatitudes,ssp245,2015,0.17525
+Southern midlatitudes,ssp245,2016,0.20809
+Southern midlatitudes,ssp245,2017,0.1795
+Southern midlatitudes,ssp245,2018,0.15996
+Southern midlatitudes,ssp245,2019,0.16402
+Southern midlatitudes,ssp245,2020,0.19391
+Southern midlatitudes,ssp245,2021,0.28408
+Southern midlatitudes,ssp245,2022,0.28909
+Southern midlatitudes,ssp245,2023,0.32626
+Southern midlatitudes,ssp245,2024,0.35016
+Southern midlatitudes,ssp245,2025,0.40998
+Southern midlatitudes,ssp245,2026,0.44107
+Southern midlatitudes,ssp245,2027,0.39938
+Southern midlatitudes,ssp245,2028,0.37375
+Southern midlatitudes,ssp245,2029,0.44558
+Southern midlatitudes,ssp245,2030,0.40334
+Southern midlatitudes,ssp245,2031,0.45134
+Southern midlatitudes,ssp245,2032,0.3619
+Southern midlatitudes,ssp245,2033,0.38221
+Southern midlatitudes,ssp245,2034,0.50727
+Southern midlatitudes,ssp245,2035,0.3835
+Southern midlatitudes,ssp245,2036,0.47875
+Southern midlatitudes,ssp245,2037,0.53338
+Southern midlatitudes,ssp245,2038,0.60114
+Southern midlatitudes,ssp245,2039,0.63022
+Southern midlatitudes,ssp245,2040,0.69823
+Southern midlatitudes,ssp245,2041,0.73344
+Southern midlatitudes,ssp245,2042,0.79901
+Southern midlatitudes,ssp245,2043,0.82679
+Southern midlatitudes,ssp245,2044,0.84141
+Southern midlatitudes,ssp245,2045,0.84392
+Southern midlatitudes,ssp245,2046,0.86373
+Southern midlatitudes,ssp245,2047,0.9801
+Southern midlatitudes,ssp245,2048,0.95249
+Southern midlatitudes,ssp245,2049,1.07282
+Southern midlatitudes,ssp245,2050,0.98039
+Southern midlatitudes,ssp245,2051,0.9457
+Southern midlatitudes,ssp245,2052,1.04647
+Southern midlatitudes,ssp245,2053,1.01207
+Southern midlatitudes,ssp245,2054,0.89573
+Southern midlatitudes,ssp245,2055,0.9741
+Southern midlatitudes,ssp245,2056,0.99551
+Southern midlatitudes,ssp245,2057,1.04769
+Southern midlatitudes,ssp245,2058,1.09601
+Southern midlatitudes,ssp245,2059,1.06535
+Southern midlatitudes,ssp245,2060,1.1699
+Southern midlatitudes,ssp245,2061,1.17359
+Southern midlatitudes,ssp245,2062,1.24748
+Southern midlatitudes,ssp245,2063,1.22941
+Southern midlatitudes,ssp245,2064,1.25198
+Southern midlatitudes,ssp245,2065,1.32489
+Southern midlatitudes,ssp245,2066,1.22381
+Southern midlatitudes,ssp245,2067,1.25145
+Southern midlatitudes,ssp245,2068,1.3819
+Southern midlatitudes,ssp245,2069,1.3617
+Southern midlatitudes,ssp245,2070,1.30655
+Southern midlatitudes,ssp245,2071,1.35011
+Southern midlatitudes,ssp245,2072,1.33277
+Southern midlatitudes,ssp245,2073,1.33737
+Southern midlatitudes,ssp245,2074,1.27567
+Southern midlatitudes,ssp245,2075,1.35359
+Southern midlatitudes,ssp245,2076,1.45955
+Southern midlatitudes,ssp245,2077,1.54159
+Southern midlatitudes,ssp245,2078,1.44457
+Southern midlatitudes,ssp245,2079,1.44485
+Southern midlatitudes,ssp245,2080,1.55433
+Southern midlatitudes,ssp245,2081,1.56917
+Southern midlatitudes,ssp245,2082,1.62243
+Southern midlatitudes,ssp245,2083,1.58846
+Southern midlatitudes,ssp245,2084,1.53646
+Southern midlatitudes,ssp245,2085,1.52998
+Southern midlatitudes,ssp245,2086,1.63348
+Southern midlatitudes,ssp245,2087,1.57312
+Southern midlatitudes,ssp245,2088,1.56642
+Southern midlatitudes,ssp245,2089,1.50545
+Southern midlatitudes,ssp245,2090,1.56232
+Southern midlatitudes,ssp245,2091,1.591
+Southern midlatitudes,ssp245,2092,1.618
+Southern midlatitudes,ssp245,2093,1.661
+Southern midlatitudes,ssp245,2094,1.69408
+Southern midlatitudes,ssp245,2095,1.71587
+Southern midlatitudes,ssp245,2096,1.66249
+Southern midlatitudes,ssp245,2097,1.69894
+Southern midlatitudes,ssp245,2098,1.6978
+Southern midlatitudes,ssp245,2099,1.71739
+Southern midlatitudes,ssp245,2100,1.66753
+Southern high latitudes,ssp245,2015,0.62689
+Southern high latitudes,ssp245,2016,0.7061
+Southern high latitudes,ssp245,2017,0.55577
+Southern high latitudes,ssp245,2018,0.65974
+Southern high latitudes,ssp245,2019,0.5062
+Southern high latitudes,ssp245,2020,0.27723
+Southern high latitudes,ssp245,2021,0.83765
+Southern high latitudes,ssp245,2022,0.73267
+Southern high latitudes,ssp245,2023,1.04204
+Southern high latitudes,ssp245,2024,0.92584
+Southern high latitudes,ssp245,2025,0.64857
+Southern high latitudes,ssp245,2026,0.74048
+Southern high latitudes,ssp245,2027,1.42938
+Southern high latitudes,ssp245,2028,0.91829
+Southern high latitudes,ssp245,2029,1.30727
+Southern high latitudes,ssp245,2030,1.18989
+Southern high latitudes,ssp245,2031,0.64045
+Southern high latitudes,ssp245,2032,0.89687
+Southern high latitudes,ssp245,2033,1.2321
+Southern high latitudes,ssp245,2034,1.21202
+Southern high latitudes,ssp245,2035,0.76686
+Southern high latitudes,ssp245,2036,0.79758
+Southern high latitudes,ssp245,2037,1.18757
+Southern high latitudes,ssp245,2038,0.92254
+Southern high latitudes,ssp245,2039,1.3804
+Southern high latitudes,ssp245,2040,1.05202
+Southern high latitudes,ssp245,2041,0.6535
+Southern high latitudes,ssp245,2042,1.32707
+Southern high latitudes,ssp245,2043,0.84094
+Southern high latitudes,ssp245,2044,1.82072
+Southern high latitudes,ssp245,2045,1.02301
+Southern high latitudes,ssp245,2046,0.90246
+Southern high latitudes,ssp245,2047,1.10014
+Southern high latitudes,ssp245,2048,1.86781
+Southern high latitudes,ssp245,2049,1.7282
+Southern high latitudes,ssp245,2050,1.45356
+Southern high latitudes,ssp245,2051,1.38528
+Southern high latitudes,ssp245,2052,1.52655
+Southern high latitudes,ssp245,2053,1.21147
+Southern high latitudes,ssp245,2054,1.92509
+Southern high latitudes,ssp245,2055,1.39268
+Southern high latitudes,ssp245,2056,1.72989
+Southern high latitudes,ssp245,2057,1.21954
+Southern high latitudes,ssp245,2058,1.6676
+Southern high latitudes,ssp245,2059,1.96084
+Southern high latitudes,ssp245,2060,1.09814
+Southern high latitudes,ssp245,2061,1.55195
+Southern high latitudes,ssp245,2062,1.98278
+Southern high latitudes,ssp245,2063,1.60097
+Southern high latitudes,ssp245,2064,1.80814
+Southern high latitudes,ssp245,2065,1.66528
+Southern high latitudes,ssp245,2066,2.20115
+Southern high latitudes,ssp245,2067,1.96206
+Southern high latitudes,ssp245,2068,1.6248
+Southern high latitudes,ssp245,2069,1.80431
+Southern high latitudes,ssp245,2070,1.99254
+Southern high latitudes,ssp245,2071,2.26439
+Southern high latitudes,ssp245,2072,1.81055
+Southern high latitudes,ssp245,2073,2.24803
+Southern high latitudes,ssp245,2074,1.98528
+Southern high latitudes,ssp245,2075,1.58327
+Southern high latitudes,ssp245,2076,1.5885
+Southern high latitudes,ssp245,2077,2.21966
+Southern high latitudes,ssp245,2078,2.16371
+Southern high latitudes,ssp245,2079,2.48203
+Southern high latitudes,ssp245,2080,2.03797
+Southern high latitudes,ssp245,2081,2.12393
+Southern high latitudes,ssp245,2082,2.05493
+Southern high latitudes,ssp245,2083,2.49669
+Southern high latitudes,ssp245,2084,2.196
+Southern high latitudes,ssp245,2085,2.44795
+Southern high latitudes,ssp245,2086,2.03682
+Southern high latitudes,ssp245,2087,2.2939
+Southern high latitudes,ssp245,2088,2.23988
+Southern high latitudes,ssp245,2089,2.29992
+Southern high latitudes,ssp245,2090,2.03472
+Southern high latitudes,ssp245,2091,2.55258
+Southern high latitudes,ssp245,2092,1.92713
+Southern high latitudes,ssp245,2093,1.73376
+Southern high latitudes,ssp245,2094,2.51312
+Southern high latitudes,ssp245,2095,1.71641
+Southern high latitudes,ssp245,2096,2.71763
+Southern high latitudes,ssp245,2097,2.28333
+Southern high latitudes,ssp245,2098,2.34526
+Southern high latitudes,ssp245,2099,2.22642
+Southern high latitudes,ssp245,2100,2.17809
+Global,ssp585,2015,0.47018
+Global,ssp585,2016,0.40328
+Global,ssp585,2017,0.55881
+Global,ssp585,2018,0.78024
+Global,ssp585,2019,0.78276
+Global,ssp585,2020,0.76624
+Global,ssp585,2021,0.66196
+Global,ssp585,2022,0.84645
+Global,ssp585,2023,0.98518
+Global,ssp585,2024,0.96872
+Global,ssp585,2025,1.02838
+Global,ssp585,2026,1.11495
+Global,ssp585,2027,1.0513
+Global,ssp585,2028,0.98669
+Global,ssp585,2029,1.23226
+Global,ssp585,2030,1.27766
+Global,ssp585,2031,1.26827
+Global,ssp585,2032,1.23805
+Global,ssp585,2033,1.23536
+Global,ssp585,2034,1.42784
+Global,ssp585,2035,1.63862
+Global,ssp585,2036,1.81247
+Global,ssp585,2037,1.79697
+Global,ssp585,2038,1.70278
+Global,ssp585,2039,1.72152
+Global,ssp585,2040,1.88077
+Global,ssp585,2041,1.88183
+Global,ssp585,2042,1.95233
+Global,ssp585,2043,1.95832
+Global,ssp585,2044,2.04048
+Global,ssp585,2045,2.07587
+Global,ssp585,2046,1.99666
+Global,ssp585,2047,2.15678
+Global,ssp585,2048,2.27844
+Global,ssp585,2049,2.49789
+Global,ssp585,2050,2.47872
+Global,ssp585,2051,2.54239
+Global,ssp585,2052,2.67538
+Global,ssp585,2053,2.61534
+Global,ssp585,2054,2.65404
+Global,ssp585,2055,2.911
+Global,ssp585,2056,3.10521
+Global,ssp585,2057,3.06905
+Global,ssp585,2058,3.12712
+Global,ssp585,2059,3.34591
+Global,ssp585,2060,3.23126
+Global,ssp585,2061,3.13679
+Global,ssp585,2062,3.17228
+Global,ssp585,2063,3.48299
+Global,ssp585,2064,3.5131
+Global,ssp585,2065,3.64059
+Global,ssp585,2066,3.71405
+Global,ssp585,2067,3.82504
+Global,ssp585,2068,3.95566
+Global,ssp585,2069,3.84787
+Global,ssp585,2070,3.89817
+Global,ssp585,2071,4.04524
+Global,ssp585,2072,4.17587
+Global,ssp585,2073,4.31667
+Global,ssp585,2074,4.33358
+Global,ssp585,2075,4.36952
+Global,ssp585,2076,4.49347
+Global,ssp585,2077,4.63252
+Global,ssp585,2078,4.83743
+Global,ssp585,2079,5.11764
+Global,ssp585,2080,4.96604
+Global,ssp585,2081,4.75107
+Global,ssp585,2082,4.99882
+Global,ssp585,2083,5.27878
+Global,ssp585,2084,5.39155
+Global,ssp585,2085,5.34749
+Global,ssp585,2086,5.33967
+Global,ssp585,2087,5.47757
+Global,ssp585,2088,5.55505
+Global,ssp585,2089,5.65961
+Global,ssp585,2090,5.90749
+Global,ssp585,2091,5.88257
+Global,ssp585,2092,6.03601
+Global,ssp585,2093,6.15269
+Global,ssp585,2094,6.28108
+Global,ssp585,2095,6.21884
+Global,ssp585,2096,6.22334
+Global,ssp585,2097,6.41218
+Global,ssp585,2098,6.30743
+Global,ssp585,2099,6.30982
+Global,ssp585,2100,6.64725
+Northern high latitudes,ssp585,2015,2.00385
+Northern high latitudes,ssp585,2016,1.68918
+Northern high latitudes,ssp585,2017,2.54796
+Northern high latitudes,ssp585,2018,2.59269
+Northern high latitudes,ssp585,2019,3.14947
+Northern high latitudes,ssp585,2020,2.24068
+Northern high latitudes,ssp585,2021,2.17791
+Northern high latitudes,ssp585,2022,3.00494
+Northern high latitudes,ssp585,2023,3.43439
+Northern high latitudes,ssp585,2024,3.17612
+Northern high latitudes,ssp585,2025,3.53923
+Northern high latitudes,ssp585,2026,3.66578
+Northern high latitudes,ssp585,2027,3.39517
+Northern high latitudes,ssp585,2028,3.12599
+Northern high latitudes,ssp585,2029,3.83097
+Northern high latitudes,ssp585,2030,3.9266
+Northern high latitudes,ssp585,2031,4.00249
+Northern high latitudes,ssp585,2032,3.43146
+Northern high latitudes,ssp585,2033,3.82926
+Northern high latitudes,ssp585,2034,4.22172
+Northern high latitudes,ssp585,2035,5.10326
+Northern high latitudes,ssp585,2036,5.08476
+Northern high latitudes,ssp585,2037,4.5957
+Northern high latitudes,ssp585,2038,4.64335
+Northern high latitudes,ssp585,2039,5.36019
+Northern high latitudes,ssp585,2040,5.31946
+Northern high latitudes,ssp585,2041,5.12053
+Northern high latitudes,ssp585,2042,5.03644
+Northern high latitudes,ssp585,2043,5.31929
+Northern high latitudes,ssp585,2044,5.64269
+Northern high latitudes,ssp585,2045,5.65645
+Northern high latitudes,ssp585,2046,5.74325
+Northern high latitudes,ssp585,2047,5.51859
+Northern high latitudes,ssp585,2048,6.28788
+Northern high latitudes,ssp585,2049,6.68447
+Northern high latitudes,ssp585,2050,7.28292
+Northern high latitudes,ssp585,2051,7.51042
+Northern high latitudes,ssp585,2052,7.42866
+Northern high latitudes,ssp585,2053,7.20922
+Northern high latitudes,ssp585,2054,7.2769
+Northern high latitudes,ssp585,2055,7.91057
+Northern high latitudes,ssp585,2056,8.18443
+Northern high latitudes,ssp585,2057,8.06119
+Northern high latitudes,ssp585,2058,8.6781
+Northern high latitudes,ssp585,2059,8.99855
+Northern high latitudes,ssp585,2060,8.78604
+Northern high latitudes,ssp585,2061,8.70087
+Northern high latitudes,ssp585,2062,8.64014
+Northern high latitudes,ssp585,2063,8.69986
+Northern high latitudes,ssp585,2064,8.57373
+Northern high latitudes,ssp585,2065,9.09561
+Northern high latitudes,ssp585,2066,9.49596
+Northern high latitudes,ssp585,2067,10.12806
+Northern high latitudes,ssp585,2068,9.86952
+Northern high latitudes,ssp585,2069,10.01596
+Northern high latitudes,ssp585,2070,10.25814
+Northern high latitudes,ssp585,2071,9.90952
+Northern high latitudes,ssp585,2072,10.01277
+Northern high latitudes,ssp585,2073,10.13729
+Northern high latitudes,ssp585,2074,10.53132
+Northern high latitudes,ssp585,2075,10.7133
+Northern high latitudes,ssp585,2076,10.7836
+Northern high latitudes,ssp585,2077,11.3294
+Northern high latitudes,ssp585,2078,11.54023
+Northern high latitudes,ssp585,2079,11.69443
+Northern high latitudes,ssp585,2080,11.82146
+Northern high latitudes,ssp585,2081,11.55889
+Northern high latitudes,ssp585,2082,11.79035
+Northern high latitudes,ssp585,2083,11.89158
+Northern high latitudes,ssp585,2084,12.1827
+Northern high latitudes,ssp585,2085,12.23832
+Northern high latitudes,ssp585,2086,12.63779
+Northern high latitudes,ssp585,2087,12.45552
+Northern high latitudes,ssp585,2088,12.5773
+Northern high latitudes,ssp585,2089,12.63389
+Northern high latitudes,ssp585,2090,12.77455
+Northern high latitudes,ssp585,2091,13.04807
+Northern high latitudes,ssp585,2092,13.22335
+Northern high latitudes,ssp585,2093,13.48496
+Northern high latitudes,ssp585,2094,13.8879
+Northern high latitudes,ssp585,2095,13.57787
+Northern high latitudes,ssp585,2096,14.04102
+Northern high latitudes,ssp585,2097,13.7142
+Northern high latitudes,ssp585,2098,13.77117
+Northern high latitudes,ssp585,2099,13.48413
+Northern high latitudes,ssp585,2100,13.92002
+Northern midlatitudes,ssp585,2015,0.58113
+Northern midlatitudes,ssp585,2016,1.04795
+Northern midlatitudes,ssp585,2017,1.13569
+Northern midlatitudes,ssp585,2018,1.00123
+Northern midlatitudes,ssp585,2019,1.05441
+Northern midlatitudes,ssp585,2020,1.42627
+Northern midlatitudes,ssp585,2021,1.22236
+Northern midlatitudes,ssp585,2022,1.30693
+Northern midlatitudes,ssp585,2023,1.51477
+Northern midlatitudes,ssp585,2024,1.60058
+Northern midlatitudes,ssp585,2025,1.52477
+Northern midlatitudes,ssp585,2026,1.86381
+Northern midlatitudes,ssp585,2027,1.6728
+Northern midlatitudes,ssp585,2028,1.25793
+Northern midlatitudes,ssp585,2029,1.80763
+Northern midlatitudes,ssp585,2030,1.81016
+Northern midlatitudes,ssp585,2031,1.96166
+Northern midlatitudes,ssp585,2032,1.89303
+Northern midlatitudes,ssp585,2033,1.87814
+Northern midlatitudes,ssp585,2034,1.75342
+Northern midlatitudes,ssp585,2035,2.33044
+Northern midlatitudes,ssp585,2036,2.40669
+Northern midlatitudes,ssp585,2037,2.46894
+Northern midlatitudes,ssp585,2038,2.75597
+Northern midlatitudes,ssp585,2039,2.58725
+Northern midlatitudes,ssp585,2040,3.03614
+Northern midlatitudes,ssp585,2041,2.66749
+Northern midlatitudes,ssp585,2042,2.84815
+Northern midlatitudes,ssp585,2043,2.76531
+Northern midlatitudes,ssp585,2044,2.88546
+Northern midlatitudes,ssp585,2045,2.82799
+Northern midlatitudes,ssp585,2046,3.18284
+Northern midlatitudes,ssp585,2047,3.28331
+Northern midlatitudes,ssp585,2048,3.33481
+Northern midlatitudes,ssp585,2049,3.38631
+Northern midlatitudes,ssp585,2050,3.57991
+Northern midlatitudes,ssp585,2051,3.57583
+Northern midlatitudes,ssp585,2052,3.70678
+Northern midlatitudes,ssp585,2053,3.72799
+Northern midlatitudes,ssp585,2054,3.70858
+Northern midlatitudes,ssp585,2055,4.33831
+Northern midlatitudes,ssp585,2056,4.00715
+Northern midlatitudes,ssp585,2057,4.20003
+Northern midlatitudes,ssp585,2058,4.22407
+Northern midlatitudes,ssp585,2059,4.34378
+Northern midlatitudes,ssp585,2060,4.50647
+Northern midlatitudes,ssp585,2061,4.5127
+Northern midlatitudes,ssp585,2062,4.42834
+Northern midlatitudes,ssp585,2063,4.93047
+Northern midlatitudes,ssp585,2064,4.94287
+Northern midlatitudes,ssp585,2065,4.80751
+Northern midlatitudes,ssp585,2066,4.91112
+Northern midlatitudes,ssp585,2067,5.18306
+Northern midlatitudes,ssp585,2068,5.26131
+Northern midlatitudes,ssp585,2069,5.47343
+Northern midlatitudes,ssp585,2070,5.6504
+Northern midlatitudes,ssp585,2071,5.37982
+Northern midlatitudes,ssp585,2072,5.58832
+Northern midlatitudes,ssp585,2073,5.81672
+Northern midlatitudes,ssp585,2074,6.02131
+Northern midlatitudes,ssp585,2075,6.26127
+Northern midlatitudes,ssp585,2076,5.96119
+Northern midlatitudes,ssp585,2077,6.43051
+Northern midlatitudes,ssp585,2078,6.40658
+Northern midlatitudes,ssp585,2079,6.58744
+Northern midlatitudes,ssp585,2080,6.8062
+Northern midlatitudes,ssp585,2081,6.6633
+Northern midlatitudes,ssp585,2082,6.93845
+Northern midlatitudes,ssp585,2083,6.97843
+Northern midlatitudes,ssp585,2084,7.22087
+Northern midlatitudes,ssp585,2085,6.98659
+Northern midlatitudes,ssp585,2086,6.83549
+Northern midlatitudes,ssp585,2087,6.84565
+Northern midlatitudes,ssp585,2088,7.4
+Northern midlatitudes,ssp585,2089,7.46876
+Northern midlatitudes,ssp585,2090,7.72099
+Northern midlatitudes,ssp585,2091,7.40718
+Northern midlatitudes,ssp585,2092,7.74004
+Northern midlatitudes,ssp585,2093,8.16233
+Northern midlatitudes,ssp585,2094,8.14284
+Northern midlatitudes,ssp585,2095,8.01267
+Northern midlatitudes,ssp585,2096,7.74543
+Northern midlatitudes,ssp585,2097,7.9939
+Northern midlatitudes,ssp585,2098,8.16092
+Northern midlatitudes,ssp585,2099,8.22151
+Northern midlatitudes,ssp585,2100,8.64558
+Tropics,ssp585,2015,0.31977
+Tropics,ssp585,2016,0.08397
+Tropics,ssp585,2017,0.23174
+Tropics,ssp585,2018,0.65321
+Tropics,ssp585,2019,0.59776
+Tropics,ssp585,2020,0.58167
+Tropics,ssp585,2021,0.43044
+Tropics,ssp585,2022,0.6781
+Tropics,ssp585,2023,0.78124
+Tropics,ssp585,2024,0.69489
+Tropics,ssp585,2025,0.80108
+Tropics,ssp585,2026,0.81206
+Tropics,ssp585,2027,0.82634
+Tropics,ssp585,2028,0.80372
+Tropics,ssp585,2029,1.02529
+Tropics,ssp585,2030,1.08848
+Tropics,ssp585,2031,0.98895
+Tropics,ssp585,2032,0.95632
+Tropics,ssp585,2033,0.86074
+Tropics,ssp585,2034,1.2087
+Tropics,ssp585,2035,1.34301
+Tropics,ssp585,2036,1.63445
+Tropics,ssp585,2037,1.64854
+Tropics,ssp585,2038,1.3244
+Tropics,ssp585,2039,1.30766
+Tropics,ssp585,2040,1.49879
+Tropics,ssp585,2041,1.5169
+Tropics,ssp585,2042,1.68152
+Tropics,ssp585,2043,1.6038
+Tropics,ssp585,2044,1.66887
+Tropics,ssp585,2045,1.78356
+Tropics,ssp585,2046,1.48078
+Tropics,ssp585,2047,1.66521
+Tropics,ssp585,2048,1.79164
+Tropics,ssp585,2049,2.13162
+Tropics,ssp585,2050,1.92412
+Tropics,ssp585,2051,2.0013
+Tropics,ssp585,2052,2.23156
+Tropics,ssp585,2053,2.08258
+Tropics,ssp585,2054,2.1328
+Tropics,ssp585,2055,2.36039
+Tropics,ssp585,2056,2.69896
+Tropics,ssp585,2057,2.57777
+Tropics,ssp585,2058,2.60012
+Tropics,ssp585,2059,2.91563
+Tropics,ssp585,2060,2.5156
+Tropics,ssp585,2061,2.35578
+Tropics,ssp585,2062,2.55501
+Tropics,ssp585,2063,2.89755
+Tropics,ssp585,2064,2.94049
+Tropics,ssp585,2065,3.23255
+Tropics,ssp585,2066,3.19903
+Tropics,ssp585,2067,3.20814
+Tropics,ssp585,2068,3.34043
+Tropics,ssp585,2069,2.987
+Tropics,ssp585,2070,3.0893
+Tropics,ssp585,2071,3.51208
+Tropics,ssp585,2072,3.63043
+Tropics,ssp585,2073,3.70578
+Tropics,ssp585,2074,3.58188
+Tropics,ssp585,2075,3.48839
+Tropics,ssp585,2076,3.81746
+Tropics,ssp585,2077,3.89028
+Tropics,ssp585,2078,4.22075
+Tropics,ssp585,2079,4.64425
+Tropics,ssp585,2080,4.16354
+Tropics,ssp585,2081,3.78274
+Tropics,ssp585,2082,4.1775
+Tropics,ssp585,2083,4.57204
+Tropics,ssp585,2084,4.62096
+Tropics,ssp585,2085,4.56658
+Tropics,ssp585,2086,4.53954
+Tropics,ssp585,2087,4.81402
+Tropics,ssp585,2088,4.67303
+Tropics,ssp585,2089,4.84983
+Tropics,ssp585,2090,5.14123
+Tropics,ssp585,2091,5.16323
+Tropics,ssp585,2092,5.24756
+Tropics,ssp585,2093,5.27514
+Tropics,ssp585,2094,5.42236
+Tropics,ssp585,2095,5.37886
+Tropics,ssp585,2096,5.38647
+Tropics,ssp585,2097,5.59813
+Tropics,ssp585,2098,5.38439
+Tropics,ssp585,2099,5.37409
+Tropics,ssp585,2100,5.75443
+Southern midlatitudes,ssp585,2015,0.21174
+Southern midlatitudes,ssp585,2016,0.21323
+Southern midlatitudes,ssp585,2017,0.30588
+Southern midlatitudes,ssp585,2018,0.22742
+Southern midlatitudes,ssp585,2019,0.22598
+Southern midlatitudes,ssp585,2020,0.21298
+Southern midlatitudes,ssp585,2021,0.21174
+Southern midlatitudes,ssp585,2022,0.30953
+Southern midlatitudes,ssp585,2023,0.34446
+Southern midlatitudes,ssp585,2024,0.32723
+Southern midlatitudes,ssp585,2025,0.38022
+Southern midlatitudes,ssp585,2026,0.40776
+Southern midlatitudes,ssp585,2027,0.29178
+Southern midlatitudes,ssp585,2028,0.3412
+Southern midlatitudes,ssp585,2029,0.42733
+Southern midlatitudes,ssp585,2030,0.45833
+Southern midlatitudes,ssp585,2031,0.43819
+Southern midlatitudes,ssp585,2032,0.53735
+Southern midlatitudes,ssp585,2033,0.67495
+Southern midlatitudes,ssp585,2034,0.71117
+Southern midlatitudes,ssp585,2035,0.72396
+Southern midlatitudes,ssp585,2036,0.69782
+Southern midlatitudes,ssp585,2037,0.74555
+Southern midlatitudes,ssp585,2038,0.74247
+Southern midlatitudes,ssp585,2039,0.81511
+Southern midlatitudes,ssp585,2040,0.90328
+Southern midlatitudes,ssp585,2041,0.96003
+Southern midlatitudes,ssp585,2042,0.90937
+Southern midlatitudes,ssp585,2043,0.93893
+Southern midlatitudes,ssp585,2044,0.93619
+Southern midlatitudes,ssp585,2045,1.00443
+Southern midlatitudes,ssp585,2046,1.05491
+Southern midlatitudes,ssp585,2047,1.09568
+Southern midlatitudes,ssp585,2048,1.16107
+Southern midlatitudes,ssp585,2049,1.30854
+Southern midlatitudes,ssp585,2050,1.37053
+Southern midlatitudes,ssp585,2051,1.35568
+Southern midlatitudes,ssp585,2052,1.42351
+Southern midlatitudes,ssp585,2053,1.43953
+Southern midlatitudes,ssp585,2054,1.50848
+Southern midlatitudes,ssp585,2055,1.5535
+Southern midlatitudes,ssp585,2056,1.63613
+Southern midlatitudes,ssp585,2057,1.64304
+Southern midlatitudes,ssp585,2058,1.72431
+Southern midlatitudes,ssp585,2059,1.88661
+Southern midlatitudes,ssp585,2060,1.94671
+Southern midlatitudes,ssp585,2061,1.90197
+Southern midlatitudes,ssp585,2062,1.85519
+Southern midlatitudes,ssp585,2063,1.8542
+Southern midlatitudes,ssp585,2064,1.96897
+Southern midlatitudes,ssp585,2065,1.93925
+Southern midlatitudes,ssp585,2066,2.09454
+Southern midlatitudes,ssp585,2067,2.19753
+Southern midlatitudes,ssp585,2068,2.25191
+Southern midlatitudes,ssp585,2069,2.28801
+Southern midlatitudes,ssp585,2070,2.22229
+Southern midlatitudes,ssp585,2071,2.28861
+Southern midlatitudes,ssp585,2072,2.46452
+Southern midlatitudes,ssp585,2073,2.5593
+Southern midlatitudes,ssp585,2074,2.68436
+Southern midlatitudes,ssp585,2075,2.62411
+Southern midlatitudes,ssp585,2076,2.72946
+Southern midlatitudes,ssp585,2077,2.71656
+Southern midlatitudes,ssp585,2078,2.76647
+Southern midlatitudes,ssp585,2079,2.8373
+Southern midlatitudes,ssp585,2080,2.94773
+Southern midlatitudes,ssp585,2081,2.97857
+Southern midlatitudes,ssp585,2082,3.03282
+Southern midlatitudes,ssp585,2083,3.23487
+Southern midlatitudes,ssp585,2084,3.25746
+Southern midlatitudes,ssp585,2085,3.324
+Southern midlatitudes,ssp585,2086,3.4748
+Southern midlatitudes,ssp585,2087,3.5117
+Southern midlatitudes,ssp585,2088,3.50906
+Southern midlatitudes,ssp585,2089,3.51495
+Southern midlatitudes,ssp585,2090,3.7253
+Southern midlatitudes,ssp585,2091,3.74579
+Southern midlatitudes,ssp585,2092,3.83362
+Southern midlatitudes,ssp585,2093,3.97716
+Southern midlatitudes,ssp585,2094,4.03398
+Southern midlatitudes,ssp585,2095,4.03575
+Southern midlatitudes,ssp585,2096,4.12398
+Southern midlatitudes,ssp585,2097,4.19143
+Southern midlatitudes,ssp585,2098,4.24138
+Southern midlatitudes,ssp585,2099,4.27723
+Southern midlatitudes,ssp585,2100,4.37084
+Southern high latitudes,ssp585,2015,0.46212
+Southern high latitudes,ssp585,2016,0.25875
+Southern high latitudes,ssp585,2017,0.12592
+Southern high latitudes,ssp585,2018,0.82248
+Southern high latitudes,ssp585,2019,0.57583
+Southern high latitudes,ssp585,2020,0.3777
+Southern high latitudes,ssp585,2021,0.57315
+Southern high latitudes,ssp585,2022,0.15341
+Southern high latitudes,ssp585,2023,0.36173
+Southern high latitudes,ssp585,2024,0.83152
+Southern high latitudes,ssp585,2025,0.62881
+Southern high latitudes,ssp585,2026,0.71103
+Southern high latitudes,ssp585,2027,0.76368
+Southern high latitudes,ssp585,2028,1.23552
+Southern high latitudes,ssp585,2029,0.80559
+Southern high latitudes,ssp585,2030,0.82448
+Southern high latitudes,ssp585,2031,0.99235
+Southern high latitudes,ssp585,2032,1.27241
+Southern high latitudes,ssp585,2033,1.21259
+Southern high latitudes,ssp585,2034,1.33822
+Southern high latitudes,ssp585,2035,0.9892
+Southern high latitudes,ssp585,2036,1.29079
+Southern high latitudes,ssp585,2037,1.14282
+Southern high latitudes,ssp585,2038,1.33264
+Southern high latitudes,ssp585,2039,1.28302
+Southern high latitudes,ssp585,2040,0.80732
+Southern high latitudes,ssp585,2041,1.73898
+Southern high latitudes,ssp585,2042,1.2915
+Southern high latitudes,ssp585,2043,1.82391
+Southern high latitudes,ssp585,2044,1.92036
+Southern high latitudes,ssp585,2045,1.54949
+Southern high latitudes,ssp585,2046,1.43291
+Southern high latitudes,ssp585,2047,2.28524
+Southern high latitudes,ssp585,2048,2.06915
+Southern high latitudes,ssp585,2049,1.8673
+Southern high latitudes,ssp585,2050,1.83321
+Southern high latitudes,ssp585,2051,2.03191
+Southern high latitudes,ssp585,2052,1.8372
+Southern high latitudes,ssp585,2053,2.17069
+Southern high latitudes,ssp585,2054,2.17053
+Southern high latitudes,ssp585,2055,1.83055
+Southern high latitudes,ssp585,2056,2.60768
+Southern high latitudes,ssp585,2057,2.54993
+Southern high latitudes,ssp585,2058,2.34544
+Southern high latitudes,ssp585,2059,2.16564
+Southern high latitudes,ssp585,2060,3.04378
+Southern high latitudes,ssp585,2061,3.01685
+Southern high latitudes,ssp585,2062,2.47857
+Southern high latitudes,ssp585,2063,3.13132
+Southern high latitudes,ssp585,2064,3.03897
+Southern high latitudes,ssp585,2065,2.69122
+Southern high latitudes,ssp585,2066,2.93042
+Southern high latitudes,ssp585,2067,2.86284
+Southern high latitudes,ssp585,2068,3.72164
+Southern high latitudes,ssp585,2069,3.92585
+Southern high latitudes,ssp585,2070,3.36704
+Southern high latitudes,ssp585,2071,3.31355
+Southern high latitudes,ssp585,2072,3.22685
+Southern high latitudes,ssp585,2073,3.75875
+Southern high latitudes,ssp585,2074,3.64145
+Southern high latitudes,ssp585,2075,4.20272
+Southern high latitudes,ssp585,2076,4.05868
+Southern high latitudes,ssp585,2077,3.79805
+Southern high latitudes,ssp585,2078,4.10849
+Southern high latitudes,ssp585,2079,4.2888
+Southern high latitudes,ssp585,2080,4.5873
+Southern high latitudes,ssp585,2081,4.78917
+Southern high latitudes,ssp585,2082,4.40973
+Southern high latitudes,ssp585,2083,4.88175
+Southern high latitudes,ssp585,2084,5.1848
+Southern high latitudes,ssp585,2085,5.33559
+Southern high latitudes,ssp585,2086,5.02211
+Southern high latitudes,ssp585,2087,5.08562
+Southern high latitudes,ssp585,2088,5.66563
+Southern high latitudes,ssp585,2089,5.64612
+Southern high latitudes,ssp585,2090,5.76721
+Southern high latitudes,ssp585,2091,5.75868
+Southern high latitudes,ssp585,2092,6.09531
+Southern high latitudes,ssp585,2093,5.82378
+Southern high latitudes,ssp585,2094,6.13667
+Southern high latitudes,ssp585,2095,6.19308
+Southern high latitudes,ssp585,2096,6.2293
+Southern high latitudes,ssp585,2097,6.93217
+Southern high latitudes,ssp585,2098,6.31412
+Southern high latitudes,ssp585,2099,6.45016
+Southern high latitudes,ssp585,2100,6.79834

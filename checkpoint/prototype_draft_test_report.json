@@ -1,0 +1,19 @@
+{
+  "passed": true,
+  "scope": "bare-bones checkpoint prototype",
+  "timestamp_utc": "2026-11-05T00:45:15.017537+00:00",
+  "checks": [
+    "Draft page loads real data, four seasonal lines and two rate summaries",
+    "Region control updates the data and summer-warming counterexample",
+    "Gap view and pointer inspection work",
+    "Keyboard inspection works",
+    "Scenario toggles and empty selection work",
+    "Year controls recompute the rates",
+    "Reset restores defaults",
+    "390px mobile draft fits viewport",
+    "Slide 9 displays the working bare-bones prototype",
+    "Polished main page remains available; no script or asset failures"
+  ],
+  "page_errors": [],
+  "failed_requests": []
+}

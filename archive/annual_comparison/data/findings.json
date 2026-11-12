@@ -1,0 +1,32 @@
+[
+  {
+    "number": 1,
+    "file": "01_global_timeline.png",
+    "caption": "Global historical anomalies range from -0.44 to 0.39 \u00b0C during 1995\u20132014.\nMonthly means are day-weighted within years; global means use spherical cell areas. Historical data are model simulations."
+  },
+  {
+    "number": 2,
+    "file": "02_scenario_comparison.png",
+    "caption": "The SSP5-8.5 minus SSP1-2.6 global gap is 0.29 \u00b0C in 2021\u20132040 and 4.27 \u00b0C in 2081\u20132100.\nLines are day-weighted annual, area-weighted global means. These are conditional projections from one realization."
+  },
+  {
+    "number": 3,
+    "file": "03_regional_warming.png",
+    "caption": "Under SSP5-8.5, northern high latitudes have the largest band mean: 12.94 \u00b0C; global: 5.81 \u00b0C.\nBars average annual anomalies over 2081\u20132100, with spherical area weighting and fractional band-edge cells."
+  },
+  {
+    "number": 4,
+    "file": "04_spatial_warming.png",
+    "caption": "Grid-cell 2081\u20132100 SSP5-8.5 anomalies span 1.51 to 21.32 \u00b0C.\nThis is a latitude\u2013longitude spatial heatmap, with no coastline overlay. Cell-wise baseline subtraction precedes equal-year averaging."
+  },
+  {
+    "number": 5,
+    "file": "05_latitude_profile.png",
+    "caption": "SSP5-8.5 warms the 60\u201390\u00b0N band by 12.94 \u00b0C and the 60\u201390\u00b0S band by 5.73 \u00b0C: a 7.22 \u00b0C difference.\nEach curve averages equal-width longitude cells at each native latitude, then averages annual anomalies over 2081\u20132100."
+  },
+  {
+    "number": 6,
+    "file": "06_region_decade.png",
+    "caption": "Under SSP5-8.5, global warming rises from 1.02 \u00b0C in 2021\u20132030 to 6.25 \u00b0C in 2091\u20132100.\nCells average ten day-weighted annual anomalies with spherical area weighting. All periods contain ten complete years."
+  }
+]

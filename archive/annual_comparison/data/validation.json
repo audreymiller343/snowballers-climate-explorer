@@ -1,0 +1,19 @@
+{
+  "passed": true,
+  "timestamp_utc": "2026-11-04T23:40:59.705697+00:00",
+  "model": "CanESM5-CanOE",
+  "member": "r1i1p2f1",
+  "records": 1668,
+  "checks": [
+    "CSV/JSON agreement",
+    "Unique scenario/region/year records",
+    "Complete 1995\u20132014 historical and 2015\u20132100 scenario coverage",
+    "Finite and plausible annual Kelvin values",
+    "Zero historical regional baseline means",
+    "Published cell bounds cover globe and band fractions sum to each cell",
+    "Independent NumPy recomputation of every regional annual anomaly",
+    "Area-weighted bands reconstruct global anomalies",
+    "Six nonblank 2560\u00d71440 PNG figures"
+  ],
+  "caveat": "Annual month-day weighting is executed and asserted in preprocessing. This offline validation independently checks spatial aggregation from annual caches, not all remote monthly inputs."
+}
