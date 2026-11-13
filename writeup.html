@@ -1,11 +1,41 @@
 <!doctype html>
 <html lang="en">
 <head>
-<meta charset="utf-8">
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<meta name="color-scheme" content="light">
-<title>Write-up</title>
-<link rel="stylesheet" href="style.css">
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <meta name="color-scheme" content="light">
+  <title>Write-up · Is Winter Disappearing Faster Than Summer Is Warming?</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,500;9..144,600&family=Public+Sans:wght@400;600;700&display=swap">
+  <link rel="stylesheet" href="style.css">
 </head>
-<body></body>
+<body>
+  <header><a class="brand" href="./">Snowballers</a><a class="header-link" href="./">← Back to the explorer</a></header>
+  <main class="writeup">
+    <p class="team">Snowballers · Sadhana Tadepalli · Saahithi Myneedu · Audrey Miller</p>
+    <h1>How we made this</h1>
+    <p class="writeup-sub">Write-up for <a href="./">Is Winter Disappearing Faster Than Summer Is Warming?</a></p>
+
+    <section>
+      <h2>Motivation</h2>
+      <p class="todo">To be written.</p>
+    </section>
+
+    <section>
+      <h2>Design rationale</h2>
+      <p class="todo">To be written.</p>
+    </section>
+
+    <section>
+      <h2>Development process</h2>
+      <h3>How we split the work</h3>
+      <p>Audrey and Saahithi handled the data processing and chart code: pulling the CMIP6 data, building the seasonal averages, and writing the D3 chart. Audrey and Sadhana worked on design and interaction, including the layout, the suggested views, the shading, and simplifying the page. Saahithi made the checkpoint video, and all three of us wrote the write-up together.</p>
+      <h3>Time</h3>
+      <p>We worked on the project over three days, about 24 hours in total split among the three of us.</p>
+      <h3>What took the most time</h3>
+      <p>The hardest part was making it easy for readers to reach a conclusion, because the data itself is complicated. “Which season has warmed more?” and “which season is warming faster?” sound the same but can have different answers for the same region, and our early versions showed both measures without making the difference clear. We went through several rounds of simplifying: cutting the chart down to two lines, adding the shading, writing the answer as a sentence, and adding the suggested views so readers start on a pattern worth noticing. We also spent a good amount of time early on deciding what question to ask. We started by comparing yearly warming across regions and emissions scenarios before narrowing it down to winter versus summer. The data processing also took longer than expected, especially handling winters that span two calendar years and giving each season its own baseline.</p>
+    </section>
+  </main>
+</body>
 </html>

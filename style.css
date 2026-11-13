@@ -63,3 +63,14 @@ header{padding:22px 40px}
 .controls,.preset,button,select,.scenario-toggle{border-radius:4px}
 header{border-bottom-color:#1c2230}
 .intro .team{font-size:12px;letter-spacing:.8px;text-transform:uppercase;color:#7a746a}
+
+/* Write-up page */
+.writeup{max-width:960px;padding-top:56px;padding-bottom:80px}
+.writeup h1{margin-bottom:10px}
+.writeup .team{font-size:12px;letter-spacing:.8px;text-transform:uppercase;color:#7a746a;margin:0 0 14px}
+.writeup-sub{color:var(--muted);font-size:15px;margin:0 0 40px}
+.writeup section{border-top:1px solid #e5ddd0;padding-top:28px;margin-top:28px}
+.writeup h2{font-size:26px;margin-bottom:16px}
+.writeup h3{font-size:18px;margin:24px 0 8px}
+.writeup p{font-size:16px;line-height:1.75;color:#1c2230}
+.writeup .todo{color:#a42c3e;border:1px dashed #a42c3e;border-radius:4px;padding:10px 14px;font-size:14px}
